@@ -10,6 +10,9 @@ f = open(argv[1])
 
 verse_count = 0
 
+def hebrew_word(word):
+    print(word)
+
 for verse in f:
     if (verse.find("xxxx") > -1):
         continue
@@ -22,14 +25,21 @@ for verse in f:
     
     for word in words:
         if (contains_digits(word) == False):
+            hebrew_word(word)
             continue
         colon_index = word.find("׃")
+    
+        if (verse_count == 5):
+            print("~" + str(word) + "~" + str(colon_index))
+    
         if (colon_index == -1):
             nverse = word
         else:
-            nchapter = word[:colon_index]
+            nchapter = word[colon_index:]
     
     
     if (verse_count == 5):
         print(str(nchapter) + " & " + str(nverse))
 #    print(verse)
+
+
