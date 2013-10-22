@@ -16,6 +16,7 @@ def lookup_hebrew_word(word):
 	print( request.status)
 	print( request.data )
 
+
 for verse in f:
     if (verse.find("xxxx") > -1):
         continue
@@ -26,14 +27,19 @@ for verse in f:
     
     words = verse.split()
     
+    if (verse_count == 5):
+        print(words)
+    
     for word in words:
         if (contains_digits(word) == False):
-            if (verse_count == 5):
-                lookup_hebrew_word(word)
+            if (verse_count == 5) and (word != '\u202b') and len(word) > 1):
+                lookup_hebrew_word(word.replace("׃", ""))
             continue
-        colon_index = word.find("׃")
+        
+        colon_index = word.find(":")
     
         if (verse_count == 5):
+            
             print("~" + str(word) + "~" + str(colon_index))
     
         if (colon_index == -1):
