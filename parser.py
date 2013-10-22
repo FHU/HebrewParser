@@ -10,8 +10,11 @@ f = open(argv[1])
 
 verse_count = 0
 
-def hebrew_word(word):
-    print(word)
+def lookup_hebrew_word(word):
+	http = urllib3.PoolManager()
+	request = http.request('GET', 'http://scholarsgateway.com/parse/' + word)
+	print( request.status)
+	print( request.data )
 
 for verse in f:
     if (verse.find("xxxx") > -1):
@@ -25,7 +28,8 @@ for verse in f:
     
     for word in words:
         if (contains_digits(word) == False):
-            hebrew_word(word)
+            if (verse_count == 5):
+                lookup_hebrew_word(word)
             continue
         colon_index = word.find("׃")
     
