@@ -11,7 +11,8 @@ f = open(argv[1])
 verse_count = 0
 
 def hebrew_word(word):
-    print(word)
+    #if (True == False):
+        print("'" + word + "'")
 
 for verse in f:
     if (verse.find("xxxx") > -1):
@@ -23,13 +24,19 @@ for verse in f:
     
     words = verse.split()
     
+    if (verse_count == 5):
+        print(words)
+    
     for word in words:
         if (contains_digits(word) == False):
-            hebrew_word(word)
+            if (word != '\u202b' and len(word) > 1):
+                hebrew_word(word.replace("׃", ""))
             continue
-        colon_index = word.find("׃")
+        
+        colon_index = word.find(":")
     
         if (verse_count == 5):
+            
             print("~" + str(word) + "~" + str(colon_index))
     
         if (colon_index == -1):
