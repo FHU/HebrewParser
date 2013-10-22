@@ -1,5 +1,5 @@
 from sys import argv
-import urllib3
+#import urllib3
 import re
 
 _digits = re.compile('\d')
@@ -12,7 +12,9 @@ verse_count = 0
 
 def hebrew_word(word):
     #if (True == False):
-        print("'" + word + "'")
+    word = word.replace('\u202b', "")
+    word = word.replace('\u202c', "")
+    print("'" + word + "'")
 
 for verse in f:
     if (verse.find("xxxx") > -1):
@@ -28,6 +30,7 @@ for verse in f:
         print(words)
     
     for word in words:
+        
         if (contains_digits(word) == False):
             if (word != '\u202b' and len(word) > 1):
                 hebrew_word(word.replace("׃", ""))
