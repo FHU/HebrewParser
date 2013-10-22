@@ -1,4 +1,5 @@
 from sys import argv
+import urllib3
 import re
 
 _digits = re.compile('\d')
@@ -6,7 +7,6 @@ def contains_digits(d):
     return bool(_digits.search(d))
 
 f = open(argv[1])
-
 
 verse_count = 0
 
