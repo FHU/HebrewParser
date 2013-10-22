@@ -13,8 +13,8 @@ verse_count = 0
 def lookup_hebrew_word(word):
 	http = urllib3.PoolManager()
 	request = http.request('GET', 'http://scholarsgateway.com/parse/' + word)
-	print( request.status)
-	print( request.data )
+	#print( request.status)
+	print( "HTML DATA\n" + request.data )
 
 
 for verse in f:
@@ -32,7 +32,7 @@ for verse in f:
     
     for word in words:
         if (contains_digits(word) == False):
-            if (verse_count == 5) and (word != '\u202b') and len(word) > 1):
+            if ( (verse_count == 5) and (word != '\u202b') and len(word) > 1 ):
                 lookup_hebrew_word(word.replace("׃", ""))
             continue
         
