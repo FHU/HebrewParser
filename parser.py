@@ -1,5 +1,5 @@
 from sys import argv
-#import urllib3
+import urllib3
 import re
 
 _digits = re.compile('\d')
@@ -14,10 +14,10 @@ def lookup_hebrew_word(word):
     word = word.replace('\u202b', "")
     word = word.replace('\u202c', "")
     print("'" + word + "'")
-	http = urllib3.PoolManager()
-	request = http.request('GET', 'http://scholarsgateway.com/parse/' + word)
-	print( request.status)
-	print( request.data )
+    http = urllib3.PoolManager()
+    request = http.request('GET', 'http://scholarsgateway.com/parse/' + word)
+    print( request.status)
+    print( request.data )
 
 
 for verse in f:
@@ -36,7 +36,7 @@ for verse in f:
     for word in words:
         
         if (contains_digits(word) == False):
-            if (verse_count == 5) and (word != '\u202b') and len(word) > 1):
+            if (verse_count == 5 and word != '\u202b' and len(word) > 1):
                 lookup_hebrew_word(word.replace("׃", ""))
             continue
         
