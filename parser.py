@@ -19,7 +19,7 @@ def lookup_hebrew_word(word):
     urlPrefix = u"http://scholarsgateway.com/parse/" 
     urlPrefix = urlPrefix.encode('utf-8')
     url = urlPrefix + word
-    print url
+    print (url)
     request = http.request('GET', url)
     #print( request.status)
     #print( "HTML DATA\n" + request.data )
