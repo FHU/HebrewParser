@@ -15,6 +15,11 @@ def lookup_hebrew_word(word):
     word = word.replace('\u202b', "")
     word = word.replace('\u202c', "")
     print("'" + word + "'")
+    lookup_hebrew_definition(word)
+    
+
+
+def lookup_hebrew_definition(word):
     http = urllib3.PoolManager()
     urlPrefix = u"http://scholarsgateway.com/parse/" 
     urlPrefix = urlPrefix.encode('utf-8')
@@ -23,13 +28,13 @@ def lookup_hebrew_word(word):
     request = http.request('GET', url)
     #print( request.status)
     #print( "HTML DATA\n" + request.data )
-
+    
     for line in request.data.splitlines():
         if "Word Parsed:" in line:
             cleanedLine = re.sub('<[^>]*>', ' ', line)
             print (cleanedLine)
-
-
+    
+    
     return request.data    #return the html of the world
 
 
