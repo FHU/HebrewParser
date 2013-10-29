@@ -16,11 +16,24 @@ f = open(argv[1])
 
 verse_count = 0
 
+words_lookup = {}
+words_count = {}
+
+
 def lookup_hebrew_word(word):
     word = strip_rtl_characters(word)
     print("'" + word + "'")
-#lookup_hebrew_definition(word)
-    
+    if (not word in words_lookup):
+        words_count[word] = 1
+        wd = lookup_hebrew_definition(word)
+        if ("Word Parsed" in wd):
+            words_lookup[word] = True
+        else:
+            words_lookup[word] = False
+        print "word requested"
+    else:
+        words_count[word] += 1
+        print "word found in cache"
 
 
 def lookup_hebrew_definition(word):
@@ -83,26 +96,24 @@ for verse in f:
     
     words = verse.split()
     
-    if (verse_count == 5):
-        print(words)
+    if (verse_count >  40):
+        break
     
     for word in words:
         
         if (contains_digits(word) == False):
-            if (verse_count == 5 and word != '\u202b' and len(word) > 1):
+            if (word != '\u202b' and len(word) > 1):
                 lookup_hebrew_word(word.replace("׃", ""))
-            if (verse_count == 5):
-                 print("Word not containing numbers: " + word)
+            
+                print("Word not containing numbers: " + word)
             continue
         word = strip_rtl_characters(word)
-        if (verse_count == 5):
-            print("word containing numbers: " + word + "~")
+        
+#print("word containing numbers: " + word + "~")
         
         colon_index = word.find(":")
     
-        if (verse_count == 5):
-            
-            print("~" + str(word) + "~" + str(colon_index))
+#print("~" + str(word) + "~" + str(colon_index))
     
         if (colon_index == -1):
             nverse = word
@@ -110,8 +121,22 @@ for verse in f:
             nchapter = word[colon_index:]
     
     
-    if (verse_count == 5):
-        print(str(nchapter) + " & " + str(nverse))
+#print(str(nchapter) + " & " + str(nverse))
 #    print(verse)
 
+
+success = 0
+success_weighted = 0
+word_count = 0
+for word in words_lookup:
+    worked = words_lookup[word]
+    instances = words_count[word]
+    print word + ": " + str(instances) + " / " + str(worked)
+    if (worked == True):
+        success += 1
+        success_weighted += words_count[word]
+    word_count += instances
+
+print str(success) + " / " + str(len(words_lookup))
+print str(success_weighted) + " / " + str(word_count)
 
