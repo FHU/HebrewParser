@@ -15,7 +15,7 @@ verse_count = 0
 def lookup_hebrew_word(word):
     word = word.replace('\u202b', "")
     word = word.replace('\u202c', "")
-    print("'" + word + "'")
+    #print("'" + word + "'")
     lookup_hebrew_definition(word)
     
 
@@ -25,31 +25,71 @@ def lookup_hebrew_definition(word):
     urlPrefix = "http://scholarsgateway.com/parse/" 
     urlPrefix = urlPrefix.encode('utf-8')
     url = urlPrefix + word
-    print (url)
+    #print (url)
     request = http.request('GET', url)
     #print( request.status)
     #print( "HTML DATA\n" + request.data )
     
+    found = False
+
     for line in request.data.splitlines():
         if "Word Parsed:" in line:
-            cleanedLine = re.sub('<[^>]*>', '\n', line)
-            print (cleanedLine)
-            partOfSpeech = extractPartOfSpeech(line)
-            if (partOfSpeech == "adjective"):
-                parseAdjective(word, cleanedLine)
-            elif (partOfSpeech == "adverb"):
-                parseAdverb(word, cleanedLine)
-                #finish this! 
+            found = True
+            cleanedLine = re.sub('<[^>]*>', '\t', line)
+            #print (cleanedLine)
+            partOfSpeech = extractPartOfSpeech(cleanedLine)
+            
 
-
-
+            print partOfSpeech
+            # if (partOfSpeech == "adjective"):
+            #     parseAdjective(word, cleanedLine)
+            # elif (partOfSpeech == "adverb"):
+            #     parseAdverb(word, cleanedLine)
+            # elif (partOfSpeech == "conjunction"):
+            #     parseConjunction(word, cleanedLine)
+            # elif (partOfSpeech == "demonstrative"):
+            #     parseDemonstrative(word, cleanedLine)
+            # elif (partOfSpeech == "determiner"):
+            #     parseDeterminer(word, cleanedLine)
+            # elif (partOfSpeech == "interjection"):
+            #     parseInterjection(word, cleanedLine)
+            # elif (partOfSpeech == "interrogative"):
+            #     parseInterrogative(word, cleanedLine)
+            # elif (partOfSpeech == "noun"):
+            #     parseNoun(word, cleanedLine)
+            # elif (partOfSpeech == "particle"):
+            #     parseParticle(word, cleanedLine)
+            # elif (partOfSpeech == "preposition"):
+            #     parsePreposition(word, cleanedLine)
+            # elif (partOfSpeech == "pronoun"):
+            #     parsePronoun(word, cleanedLine)
+            # elif (partOfSpeech == "verb"):
+            #     parseVerb(word, cleanedLine)
+           
+    if found == False:
+        print "No Data"
     return request.data    #return the html of the word
 
 
 def extractPartOfSpeech(line):
-    #fix this!
-    pos = "adjective"
+    
+    found = False
+    pos = 'not found'
 
+    for x in line.split('\t'):
+        if x == '':
+            f = 2
+        elif True:
+            if found == True:
+                words = x.split(' ')
+                pos = words[0]
+                break
+        if x == "Parts of Speech:":
+            found = True
+
+    pos = pos.lower()
+
+    pos = re.sub(',', '', pos)
     return pos
 
 def parseAdjective(word, html): 
