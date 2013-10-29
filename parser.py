@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+
 from sys import argv
 import urllib3
 import re
@@ -16,21 +17,21 @@ def lookup_hebrew_word(word):
     word = word.replace('\u202c', "")
     print("'" + word + "'")
     http = urllib3.PoolManager()
-    urlPrefix = u"http://scholarsgateway.com/parse/" 
+    urlPrefix = "http://scholarsgateway.com/parse/" 
     urlPrefix = urlPrefix.encode('utf-8')
     url = urlPrefix + word
-    print url
+    print (url)
     request = http.request('GET', url)
     #print( request.status)
     #print( "HTML DATA\n" + request.data )
 
     for line in request.data.splitlines():
         if "Word Parsed:" in line:
-            cleanedLine = re.sub('<[^>]*>', ' ', line)
+            cleanedLine = re.sub('<[^>]*>', '\n', line)
             print (cleanedLine)
 
 
-    return request.data    #return the html of the world
+    return request.data    #return the html of the word
 
 
 for verse in f:
