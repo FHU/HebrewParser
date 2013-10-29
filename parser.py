@@ -23,7 +23,7 @@ def lookup_hebrew_word(word):
     #print("'" + word + "'")
     lookup_hebrew_definition(word)
     word = strip_rtl_characters(word)
-    print("'" + word + "'")
+    #print("'" + word + "'")
 #lookup_hebrew_definition(word)
     
 
@@ -136,8 +136,8 @@ for verse in f:
         if (contains_digits(word) == False):
             if (verse_count == 5 and word != '\u202b' and len(word) > 1):
                 lookup_hebrew_word(word.replace("׃", ""))
-            if (verse_count == 5):
-                 print("Word not containing numbers: " + word)
+            # if (verse_count == 5):
+            #      print("Word not containing numbers: " + word)
             continue
         word = strip_rtl_characters(word)
         if (verse_count == 5):
