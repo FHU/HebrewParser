@@ -1,0 +1,30 @@
+['\xe2\x80\xab\xc2\xa05\xc2\xa0\xc2\xa0\xd7\x831\xc2\xa0\xc2\xa0\xc2\xa0\xd7\x95\xd6\xb7\xd7\x99\xd6\xbc\xd6\xb4\xd7\xa7\xd6\xb0\xd7\xa8\xd6\xb8\xd7\x90', '\xd7\x90\xd6\xb1\xd7\x9c\xd6\xb9\xd7\x94\xd6\xb4\xd7\x99\xd7\x9d', '\xd7\x9c\xd6\xb8\xd7\x90\xd7\x95\xd6\xb9\xd7\xa8', '\xd7\x99\xd7\x95\xd6\xb9\xd7\x9d', '\xd7\x95\xd6\xb0\xd7\x9c\xd6\xb7\xd7\x97\xd6\xb9\xd7\xa9\xd7\x81\xd6\xb6\xd7\x9a\xd6\xb0', '\xd7\xa7\xd6\xb8\xd7\xa8\xd6\xb8\xd7\x90', '\xd7\x9c\xd6\xb8\xd7\x99\xd6\xb0\xd7\x9c\xd6\xb8\xd7\x94', '\xd7\x95\xd6\xb7\xd7\x99\xd6\xb0\xd7\x94\xd6\xb4\xd7\x99\xd6\xbe\xd7\xa2\xd6\xb6\xd7\xa8\xd6\xb6\xd7\x91', '\xd7\x95\xd6\xb7\xd7\x99\xd6\xb0\xd7\x94\xd6\xb4\xd7\x99\xd6\xbe\xd7\x91\xd6\xb9\xd7\xa7\xd6\xb6\xd7\xa8', '\xd7\x99\xd7\x95\xd6\xb9\xd7\x9d', '\xd7\x90\xd6\xb6\xd7\x97\xd6\xb8\xd7\x93\xd7\x83', '\xd7\xa4\xe2\x80\xac']
+~‫ 5  ׃1   וַיִּקְרָא~-1
+'אֱלֹהִים'
+http://scholarsgateway.com/parse/אֱלֹהִים
+   Word Parsed:   אֱלֹהִים     Parts of Speech:  Noun        Mas. Pl.    Root:   אֶלֹהִים     Strong's Number:  H430    Infinitive Definition:  1. &#x028;plural&#x029;  &nbsp;&nbsp;a. rulers&#x02c; judges  &nbsp;&nbsp;b. divine ones     Transliteration:     
+'לָאוֹר'
+http://scholarsgateway.com/parse/לָאוֹר
+'יוֹם'
+http://scholarsgateway.com/parse/יוֹם
+'וְלַחֹשֶׁךְ'
+http://scholarsgateway.com/parse/וְלַחֹשֶׁךְ
+   Word Parsed:   וְלַחֹשֶׁךְ     Parts of Speech:  Verb  Qal     Perfect 3 rd  Mas. Sing.    Root:   קרא     Strong's Number:  H7121, H7122, H7123    Infinitive Definition:  1. to call&#x02c; call out&#x02c; &nbsp;&nbsp;&nbsp;recite&#x02c; read&#x02c; cry out&#x02c; 1. to encounter&#x02c; befall&#x02c; &nbsp;&nbsp;&nbsp;meet  &nbsp;&nbsp;a. &#x028;Qal&#x029; 1. to 1. to call&#x02c; read aloud&#x02c; read &nbsp;&nbsp;&nbsp;out&#x02c; shout  &nbsp;&nbsp;a. &#x028;P'al&#x029; 1....    Transliteration:     
+'קָרָא'
+http://scholarsgateway.com/parse/קָרָא
+   Word Parsed:   קָרָא     Parts of Speech:  Noun        Mas. Sing.    Root:   לַיְלָה     Strong's Number:      Infinitive Definition:      Transliteration:     
+'לָיְלָה'
+http://scholarsgateway.com/parse/לָיְלָה
+   Word Parsed:   לָיְלָה     Parts of Speech:  Verb, Noun  Qal     Imperfect 3 rd  Mas. Sing.    Root:   היה     Strong's Number:  H1961    Infinitive Definition:  1. to be&#x02c; become&#x02c; come to &nbsp;&nbsp;&nbsp;pass&#x02c; exist&#x02c; happen&#x02c;    Transliteration:     
+'וַיְהִי־עֶרֶב'
+http://scholarsgateway.com/parse/וַיְהִי־עֶרֶב
+'וַיְהִי־בֹקֶר'
+http://scholarsgateway.com/parse/וַיְהִי־בֹקֶר
+'יוֹם'
+http://scholarsgateway.com/parse/יוֹם
+'אֶחָד'
+http://scholarsgateway.com/parse/אֶחָד
+   Word Parsed:   אֶחָד     Parts of Speech:  Cardinal Numeral        Mas. Sing. Absolute    Root:   אֶחָד     Strong's Number:  H258, H259    Infinitive Definition:  1. &#x028;Hithpael&#x029; to go one way &nbsp;&nbsp;&nbsp;or another&#x02c; to be sharp  1. one &#x028;number&#x029;  &nbsp;&nbsp;a. one &#x028;number&#x029;  &nbsp;&nbsp;b. each&#x02c; every     Transliteration:     
+'פ‬'
+http://scholarsgateway.com/parse/פ‬
+-1 & ‫ 5  ׃1   וַיִּקְרָא

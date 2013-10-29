@@ -16,6 +16,11 @@ def lookup_hebrew_word(word):
     word = word.replace('\u202b', "")
     word = word.replace('\u202c', "")
     print("'" + word + "'")
+    lookup_hebrew_definition(word)
+    
+
+
+def lookup_hebrew_definition(word):
     http = urllib3.PoolManager()
     urlPrefix = "http://scholarsgateway.com/parse/" 
     urlPrefix = urlPrefix.encode('utf-8')
@@ -24,15 +29,46 @@ def lookup_hebrew_word(word):
     request = http.request('GET', url)
     #print( request.status)
     #print( "HTML DATA\n" + request.data )
-
+    
     for line in request.data.splitlines():
         if "Word Parsed:" in line:
             cleanedLine = re.sub('<[^>]*>', '\n', line)
             print (cleanedLine)
+            partOfSpeech = extractPartOfSpeech(line)
+            if (partOfSpeech == "adjective"):
+                parseAdjective(word, cleanedLine)
+            elif (partOfSpeech == "adverb"):
+                parseAdverb(word, cleanedLine)
+                #finish this! 
+
 
 
     return request.data    #return the html of the word
 
+
+def extractPartOfSpeech(line):
+    #fix this!
+    pos = "adjective"
+
+    return pos
+
+def parseAdjective(word, html): 
+    #fix this!
+    wordFeatures = {}
+
+
+    return wordFeatures
+
+
+# Lee - Verbs
+# Brendan - Pronouns
+# Cory - Conjunctions and Demonstratives 
+# Kaleb - Nouns 
+# Joey - Adjectives 
+# Andy - Prepositions 
+# Jordan - Adverbs
+# Camille - Interrogatives, Determiners 
+# Austin - Particles, Interjections
 
 for verse in f:
     if (verse.find("xxxx") > -1):
