@@ -20,42 +20,43 @@ words_lookup = {}
 words_count = {}
 
 
-def lookup_hebrew_word(word):
+def lookup_hebrew_word(word, conn):
     word = strip_rtl_characters(word)
-    print("'" + word + "'")
+    #print("'" + word + "'")
     if (not word in words_lookup):
         words_count[word] = 1
-        wd = lookup_hebrew_definition(word)
+        wd = lookup_hebrew_definition(word, conn)
         if ("Word Parsed" in wd):
             words_lookup[word] = True
         else:
             words_lookup[word] = False
-        print "word requested"
+        #print "word requested"
     else:
         words_count[word] += 1
-        print "word found in cache"
+        #print "word found in cache"
 
 
-def lookup_hebrew_definition(word):
-    http = urllib3.PoolManager()
-    urlPrefix = u"http://scholarsgateway.com/parse/" 
-    urlPrefix = urlPrefix.encode('utf-8')
-    url = urlPrefix + word
-    print (url)
-    request = http.request('GET', url)
+def lookup_hebrew_definition(word, conn):
+    
+    urlPath = u"/parse/" 
+    urlPath = urlPath.encode('utf-8')
+    url = urlPath + word
+    #print (url)
+    request = conn.request('GET', url)
+    #request = http.request('GET', url)
     #print( request.status)
     #print( "HTML DATA\n" + request.data )
     
     for line in request.data.splitlines():
         if "Word Parsed:" in line:
-            cleanedLine = re.sub('<[^>]*>', ' ', line)
+            cleanedLine = re.sub('<[^>]*>', '\t', line)
             print (cleanedLine)
             partOfSpeech = extractPartOfSpeech(line)
-            if (partOfSpeech == "adjective"):
-                parseAdjective(word, cleanedLine)
-            elif (partOfSpeech == "adverb"):
-                parseAdverb(word, cleanedLine)
-                #finish this! 
+            #if (partOfSpeech == "adjective"):
+            #    parseAdjective(word, cleanedLine)
+            #elif (partOfSpeech == "adverb"):
+            #    parseAdverb(word, cleanedLine)
+            #    #finish this! 
 
 
 
@@ -86,6 +87,11 @@ def parseAdjective(word, html):
 # Camille - Interrogatives, Determiners 
 # Austin - Particles, Interjections
 
+#http = urllib3.PoolManager()
+
+url = u"http://scholarsgateway.com/" 
+conn = urllib3.connection_from_url(url)
+
 for verse in f:
     if (verse.find("xxxx") > -1):
         continue
@@ -96,16 +102,16 @@ for verse in f:
     
     words = verse.split()
     
-    if (verse_count >  40):
-        break
+    #if (verse_count >  5):
+    #    break
     
     for word in words:
         
         if (contains_digits(word) == False):
             if (word != '\u202b' and len(word) > 1):
-                lookup_hebrew_word(word.replace("׃", ""))
+                lookup_hebrew_word(word.replace("׃", ""), conn)
             
-                print("Word not containing numbers: " + word)
+                #print("Word not containing numbers: " + word)
             continue
         word = strip_rtl_characters(word)
         
