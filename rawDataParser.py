@@ -81,6 +81,60 @@ def parseNoun(line):
 	firstLevel['Gender'] = words[0]
 	firstLevel['Number'] = words[1]
 
+	for x in line.split('\t'):
+		if x == '':
+			f = 2
+		elif True:
+			if found == True:
+				words = x.split(' ')
+				break
+		if x == "Parts of Speech:":
+			found = True
+
+	
+
+	found = False
+
+	for x in line.split('\t'):
+		if x == '':
+			f = 2
+		elif True:
+			print x
+			if found == True:
+				words = x.split(' ')
+				break
+		if x == "Root:":
+			found = True
+			
+
+
+	
+	words = [x for x in words if x != 'Noun' and x != '' ]
+
+	firstLevel['Root'] = words[0]
+
+
+	found = False
+
+	for x in line.split('\t'):
+		if x == '':
+			f = 2
+		elif True:
+			print x
+			if found == True:
+				words = x.split(' ')
+				break
+		if x == "Strong's Number:":
+			found = True
+			
+
+
+	
+	words = [x for x in words if x != 'Noun' and x != '' ]
+
+	firstLevel['Strong\'s Number'] = words[0]
+
+
 	Nouns[word] = firstLevel
 
 
@@ -146,3 +200,4 @@ elif True:
 parseData(filePath)
 
 
+print Nouns
