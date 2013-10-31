@@ -3,6 +3,8 @@
 import re
 from sys import argv
 
+Nouns = {}
+
 
 def parseData(filePath):
 
@@ -18,8 +20,8 @@ def parseData(filePath):
 		
 		word = extractWord(line)
 
-		if word != 'not found':
-			print word
+		# if word != 'not found':
+		# 	print word
 
 		partOfSpeech = extractPartOfSpeech(line)
 
@@ -42,8 +44,8 @@ def parseData(filePath):
 		# 	parseInterjection(line)
 		# elif partOfSpeech == 'interrogative':
 		# 	parseInterrogative(line)
-		# elif partOfSpeech == 'noun':
-		# 	parseNoun(line)
+		if partOfSpeech == 'noun':
+			parseNoun(line)
 		# elif partOfSpeech == 'particle':
 		# 	parseParticle(line)
 		# elif partOfSpeech == 'preposition':
@@ -57,6 +59,21 @@ def parseData(filePath):
 
 
 
+def parseNoun(line):
+	word = extractWord(line)
+	found = False
+	for x in line.split('\t'):
+		if x == '':
+			f = 2
+		elif True:
+			if found == True:
+				words = x.split(' ')
+				break
+		if x == "Parts of Speech:":
+			found = True
+
+	words = [x for x in words if ]
+	print words
 
 
 
@@ -71,7 +88,12 @@ def extractPartOfSpeech(line):
         elif True:
             if found == True:
                 words = x.split(' ')
-                pos = words[0]
+                if 'Verb' in words:
+                	pos = 'verb'
+                elif 'Particle' in words:
+                	pos = 'particle'
+                else:
+                	pos = words[0]
                 break
         if x == "Parts of Speech:":
             found = True
