@@ -4,6 +4,8 @@ import re
 from sys import argv
 
 
+prepositions = {}
+
 def parseData(filePath):
 
 	partOfSpeechFile = open('partsOfSpeech.txt', 'w')
@@ -46,8 +48,8 @@ def parseData(filePath):
 		# 	parseNoun(line)
 		# elif partOfSpeech == 'particle':
 		# 	parseParticle(line)
-		# elif partOfSpeech == 'preposition':
-		# 	parsePreoposition(line)
+		if partOfSpeech == 'preposition':
+		 	parsePreoposition(line, word)
 		# elif partOfSpeech == 'pronoun':
 		# 	parsePronoun(line)
 		# elif partOfSpeech == 'verb':
@@ -100,6 +102,9 @@ def extractWord(line):
 	pos = re.sub(',', '', pos)
 	return pos
 
+
+def parsePreoposition(line, word):
+    prepositions[word] = True
 
 
 filePath = ''
