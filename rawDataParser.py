@@ -213,4 +213,4 @@ elif True:
 parseData(filePath)
 
 
-print Nouns
+#print Nouns
