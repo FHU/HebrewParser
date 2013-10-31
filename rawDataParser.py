@@ -5,6 +5,10 @@ from sys import argv
 
 interjection = {}
 particle = {}
+Nouns = {}
+
+
+prepositions = {}
 
 def parseData(filePath):
 
@@ -20,8 +24,8 @@ def parseData(filePath):
 		
 		word = extractWord(line)
 
-		if word != 'not found':
-			print word
+		# if word != 'not found':
+		# 	print word
 
 		partOfSpeech = extractPartOfSpeech(line)
 
@@ -30,35 +34,35 @@ def parseData(filePath):
 		partOfSpeechFile.write(speechLine)
 		
 
-		# if partOfSpeech == 'adjective':
-		# 	parseAdjective(line)
-		# elif partOfSpeech == 'adverb':
-		# 	parseAdverb(line)
-		# elif partOfSpeech == 'conjunction':
-		# 	parseConjunction(line)
-		# elif partOfSpeech == 'demonstrative':
-		# 	parseDemonstrative(line)
-		# elif partOfSpeech == 'determiner':
-		# 	parseDeterminer(line)
-		 elif partOfSpeech == 'interjection':
+
+        if partOfSpeech == 'interjection':
 		 	parseInterjection(line, word)
-		# elif partOfSpeech == 'interrogative':
-		# 	parseInterrogative(line)
-		# elif partOfSpeech == 'noun':
-		# 	parseNoun(line)
-		 elif partOfSpeech == 'particle':
+        if partOfSpeech == 'particle':
 		 	parseParticle(line, word)
-		# elif partOfSpeech == 'preposition':
-		# 	parsePreoposition(line)
-		# elif partOfSpeech == 'pronoun':
-		# 	parsePronoun(line)
-		# elif partOfSpeech == 'verb':
-		# 	parseVerb(line)
+		if partOfSpeech == 'noun':
+			parseNoun(line)
+		if partOfSpeech == 'preposition':
+		 	parsePreoposition(line, word)
 		
 
 
 
 
+def parseNoun(line):
+	word = extractWord(line)
+	found = False
+	for x in line.split('\t'):
+		if x == '':
+			f = 2
+		elif True:
+			if found == True:
+				words = x.split(' ')
+				break
+		if x == "Parts of Speech:":
+			found = True
+
+	words = [x for x in words if ]
+	print words
 
 
 
@@ -73,7 +77,12 @@ def extractPartOfSpeech(line):
         elif True:
             if found == True:
                 words = x.split(' ')
-                pos = words[0]
+                if 'Verb' in words:
+                	pos = 'verb'
+                elif 'Particle' in words:
+                	pos = 'particle'
+                else:
+                	pos = words[0]
                 break
         if x == "Parts of Speech:":
             found = True
@@ -91,7 +100,7 @@ def extractWord(line):
 	for x in line.split('\t'):
 		if x == '':
 			f = 2
-		elif True:
+		else:
 			if found == True:
 				words = x.split(' ')
 				pos = words[0]
@@ -103,11 +112,15 @@ def extractWord(line):
 	return pos
 
 
+
 def parseInterjection(line, word):
 	interjection[word] = True
 	
 def parseParticle(line, word):
 	particle[word] = True
+
+def parsePreoposition(line, word):
+    prepositions[word] = True
 
 filePath = ''
 
