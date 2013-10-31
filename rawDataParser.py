@@ -28,22 +28,23 @@ def parseData(filePath):
 		# if word != 'not found':
 		# 	print word
 		
-		partOfSpeech = extractPartOfSpeech(line)
+		partsOfSpeech = extractPartOfSpeech(line)
+        
+		for partOfSpeech in partsOfSpeech:
+		    speechLine = word + '\t' + partOfSpeech + '\n'
 		
-		speechLine = word + '\t' + partOfSpeech + '\n'
+		    partOfSpeechFile.write(speechLine)
 		
-		partOfSpeechFile.write(speechLine)
-		
-		if partOfSpeech == 'interjection':
-		 	parseInterjection(line, word)
-		if partOfSpeech == 'particle':
-		 	parseParticle(line, word)
-		if partOfSpeech == 'noun':
-			parseNoun(line)
-		if partOfSpeech == 'preposition':
-		 	parsePreoposition(line, word)
-		if partOfSpeech == 'conjunction':
-			parseConjunction(line)
+		    if partOfSpeech == 'interjection':
+		        parseInterjection(line, word)
+		    if partOfSpeech == 'particle':
+		        parseParticle(line, word)
+		    if partOfSpeech == 'noun':
+		        parseNoun(line)
+		    if partOfSpeech == 'preposition':
+		        parsePreoposition(line, word)
+		    if partOfSpeech == 'conjunction':
+		        parseConjunction(line)
 		
 
 
@@ -95,7 +96,8 @@ def parseNoun(line):
 def extractPartOfSpeech(line):
 	
 	found = False
-	pos = 'not found'
+    
+	word_list = []
 
 	for x in line.split('\t'):
 		if x == '':
@@ -103,6 +105,11 @@ def extractPartOfSpeech(line):
 		elif True:
 			if found == True:
 				words = x.split(' ')
+				for word in words:
+				    word = word.replace(",", "")
+				    if len(word) > 0:
+				        word_list.append(word)
+                    
 				if 'Verb' in words:
 					pos = 'verb'
 				elif 'Particle' in words:
@@ -113,10 +120,7 @@ def extractPartOfSpeech(line):
 		if x == "Parts of Speech:":
 			found = True
 
-	pos = pos.lower()
-
-	pos = re.sub(',', '', pos)
-	return pos
+	return word_list
 
 
 def extractWord(line):
