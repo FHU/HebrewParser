@@ -91,7 +91,7 @@ def extractWord(line):
 	for x in line.split('\t'):
 		if x == '':
 			f = 2
-		elif True:
+		else:
 			if found == True:
 				words = x.split(' ')
 				pos = words[0]
