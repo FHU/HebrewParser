@@ -1,0 +1,10195 @@
+בָּרָא	verb
+אֱלֹהִים	noun
+אֵת	direct
+הַשָּׁמַיִם	noun
+וְאֵת	direct
+הָאָרֶץ	noun
+הָיְתָה	verb
+תֹהוּ	noun
+וָבֹהוּ	noun
+וְחֹשֶׁךְ	noun
+עַל	noun
+פְּנֵי	noun
+וְרוּחַ	noun
+מְרַחֶפֶת	verb
+הַמָּיִם	noun
+יְהִי	verb
+וַיְהִי	verb
+אֶת	direct
+כִּי	conjunction
+וַיַּבְדֵּל	verb
+בֵּין	preposition
+וּבֵין	preposition
+הַחֹשֶׁךְ	noun
+וְלַחֹשֶׁךְ	verb
+קָרָא	noun
+לָיְלָה	verb
+עֶרֶב	verb
+בֹקֶר	noun
+אֶחָד	cardinal
+רָקִיעַ	noun
+וִיהִי	verb
+מַבְדִּיל	verb
+מַיִם	noun
+הָרָקִיעַ	direct
+הַמַּיִם	noun
+אֲשֶׁר	relative
+מִתַּחַת	preposition
+לָרָקִיעַ	noun
+מֵעַל	preposition
+כֵן	adverb
+שָׁמָיִם	noun
+שֵׁנִי	ordinal
+יִקָּווּ	verb
+אֶל	preposition
+וְתֵרָאֶה	verb
+הַיַּבָּשָׁה	noun
+לַיַּבָּשָׁה	noun
+אֶרֶץ	noun
+וּלְמִקְוֵה	noun
+יַמִּים	verb
+וַיַּרְא	verb
+דֶּשֶׁא	noun
+עֵשֶׂב	noun
+מַזְרִיעַ	verb
+זֶרַע	noun
+עֵץ	noun
+פְּרִי	noun
+עֹשֶׂה	verb
+לְמִינֵהוּ	noun
+וְעֵץ	noun
+שְׁלִישִׁי	ordinal
+מְאֹרֹת	noun
+בִּרְקִיעַ	noun
+לְהַבְדִּיל	verb
+הַלָּיְלָה	noun
+וְהָיוּ	verb
+לְאֹתֹת	noun
+וּלְיָמִים	noun
+וְשָׁנִים	noun
+לְהָאִיר	verb
+שְׁנֵי	direct
+הַמְּאֹרֹת	noun
+הַגְּדֹלִים	adjective
+הַגָּדֹל	adjective
+לְמֶמְשֶׁלֶת	noun
+הַקָּטֹן	adjective
+הַלַּיְלָה	noun
+אֹתָם	direct
+הַשָּׁמָיִם	noun
+וּבַלַּיְלָה	noun
+רְבִיעִי	ordinal
+יִשְׁרְצוּ	verb
+שֶׁרֶץ	noun
+נֶפֶשׁ	noun
+חַיָּה	adjective
+רְקִיעַ	noun
+הַתַּנִּינִם	direct
+כָּל	noun
+הַחַיָּה	noun
+הָרֹמֶשֶׂת	verb
+שָׁרְצוּ	noun
+כָּנָף	noun
+לֵאמֹר	verb
+פְּרוּ	verb
+וּרְבוּ	verb
+וּמִלְאוּ	verb
+בַּיַּמִּים	noun
+יִרֶב	verb
+בָּאָרֶץ	noun
+לְמִינָהּ	noun
+בְּהֵמָה	noun
+וָרֶמֶשׂ	noun
+חַיַּת	direct
+הַבְּהֵמָה	direct
+רֶמֶשׂ	noun
+הָאֲדָמָה	noun
+נַעֲשֶׂה	verb
+אָדָם	noun
+בְּצַלְמֵנוּ	noun
+כִּדְמוּתֵנוּ	noun
+וְיִרְדּוּ	verb
+בִדְגַת	noun
+הַיָּם	noun
+וּבַבְּהֵמָה	noun
+הָרֶמֶשׂ	noun
+הָרֹמֵשׂ	verb
+הָאָדָם	noun
+בְּצֶלֶם	noun
+זָכָר	noun
+וּנְקֵבָה	verb
+וַיֹּאמֶר	verb
+לָהֶם	preposition
+וְכִבְשֻׁהָ	verb
+וּרְדוּ	verb
+בִּדְגַת	noun
+הִנֵּה	interjection
+נָתַתִּי	verb
+לָכֶם	verb
+זֹרֵעַ	noun
+הָעֵץ	relative
+פְרִי	noun
+זָרַע	preposition
+יִהְיֶה	verb
+לְאָכְלָה	verb
+וּלְכֹל	noun
+יֶרֶק	noun
+עָשָׂה	verb
+וְהִנֵּה	interjection
+מְאֹד	adverb
+הַשִּׁשִּׁי	ordinal
+וְהָאָרֶץ	noun
+וְכָל	verb
+צְבָאָם	noun
+הַשְּׁבִיעִי	ordinal
+וַיִּשְׁבֹּת	verb
+וַיְקַדֵּשׁ	verb
+שָׁבַת	verb
+יְהוָה	proper
+שִׂיחַ	noun
+הַשָּׂדֶה	adverb
+טֶרֶם	verb
+בָאָרֶץ	noun
+יִצְמָח	conjunction
+לֹא	verb
+הִמְטִיר	proper
+וְאָדָם	adverb
+אַיִן	verb
+לַעֲבֹד	verb
+יַעֲלֶה	negative
+מִן	preposition
+וְהִשְׁקָה	verb
+עָפָר	noun
+וַיִּפַּח	verb
+בְּאַפָּיו	noun
+נִשְׁמַת	noun
+חַיִּים	noun
+לְנֶפֶשׁ	noun
+גַּן	proper
+מִקֶּדֶם	noun
+וַיָּשֶׂם	verb
+שָׁם	adverb
+נֶחְמָד	verb
+לְמַרְאֶה	noun
+לְמַאֲכָל	noun
+הַחַיִּים	noun
+הַגָּן	noun
+הַדַּעַת	noun
+וָרָע	adjective
+יֹצֵא	verb
+מֵעֵדֶן	proper
+וּמִשָּׁם	adverb
+יִפָּרֵד	verb
+וְהָיָה	verb
+לְאַרְבָּעָה	cardinal
+רָאשִׁים	noun
+הָאֶחָד	verb
+הוּא	pronoun
+הַסֹּבֵב	verb
+הַזָּהָב	noun
+הַהִוא	pronoun
+הַבְּדֹלַח	noun
+וְאֶבֶן	noun
+הַשֹּׁהַם	noun
+הַנָּהָר	noun
+הַשֵּׁנִי	ordinal
+כּוּשׁ	proper
+הַשְּׁלִישִׁי	ordinal
+חִדֶּקֶל	proper
+הַהֹלֵךְ	verb
+קִדְמַת	noun
+אַשּׁוּר	proper
+וְהַנָּהָר	noun
+הָרְבִיעִי	ordinal
+וַיַּנִּחֵהוּ	verb
+עֵדֶן	noun
+לְעָבְדָהּ	verb
+מִכֹּל	noun
+אָכֹל	verb
+תֹּאכֵל	verb
+תֹאכַל	verb
+מִמֶּנּוּ	preposition
+אֲכָלְךָ	verb
+תָּמוּת	verb
+עֵזֶר	noun
+וַיָּבֵא	verb
+מַה	pronoun
+וְכֹל	noun
+יִקְרָא	verb
+וּלְאָדָם	proper
+מָצָא	negative
+תַּרְדֵּמָה	noun
+וַיִּישָׁן	verb
+וַיִּקַּח	verb
+אַחַת	noun
+מִצַּלְעֹתָיו	verb
+וַיִּסְגֹּר	noun
+בָּשָׂר	preposition
+הַצֵּלָע	relative
+לָקַח	noun
+לְאִשָּׁה	verb
+וַיְבִאֶהָ	noun
+זֹאת	adjective
+הַפַּעַם	noun
+עֶצֶם	noun
+וּבָשָׂר	noun
+מִבְּשָׂרִי	noun
+לְזֹאת	adjective
+יִקָּרֵא	verb
+אִשָּׁה	noun
+מֵאִישׁ	noun
+זֹּאת	pronoun
+כֵּן	adverb
+אִישׁ	verb
+אָבִיו	direct
+וְדָבַק	verb
+לְבָשָׂר	noun
+שְׁנֵיהֶם	cardinal
+עֲרוּמִּים	adjective
+וְלֹא	negative
+הָיָה	verb
+עָרוּם	adjective
+הָאִשָּׁה	noun
+אַף	conjunction
+אָמַר	verb
+תֹאכְלוּ	verb
+הַנָּחָשׁ	noun
+מִפְּרִי	noun
+נֹאכֵל	verb
+תִגְּעוּ	verb
+פֶּן	conjunction
+תְּמֻתוּן	verb
+יֹדֵעַ	verb
+אֲכָלְכֶם	verb
+וְנִפְקְחוּ	verb
+עֵינֵיכֶם	noun
+וִהְיִיתֶם	verb
+יֹדְעֵי	verb
+וְכִי	conjunction
+תַאֲוָה	noun
+לָעֵינַיִם	noun
+וְנֶחְמָד	verb
+לְהַשְׂכִּיל	verb
+וַתִּקַּח	verb
+וַתֹּאכַל	verb
+וַתִּתֵּן	verb
+גַּם	noun
+לְאִישָׁהּ	noun
+עִמָּהּ	preposition
+וַיֹּאכַל	verb
+עֵינֵי	noun
+וַיֵּדְעוּ	verb
+הֵם	pronoun
+עֲלֵה	noun
+תְאֵנָה	noun
+וַיַּעֲשׂוּ	verb
+מִתְהַלֵּךְ	verb
+בַּגָּן	noun
+לְרוּחַ	noun
+וַיִּתְחַבֵּא	verb
+מִפְּנֵי	noun
+קֹלְךָ	direct
+שָׁמַעְתִּי	verb
+וָאִירָא	verb
+עֵירֹם	adjective
+אָנֹכִי	pronoun
+מִי	pronoun
+הִגִּיד	verb
+לְךָ	preposition
+אָתָּה	pronoun
+צִוִּיתִיךָ	verb
+לְבִלְתִּי	preposition
+נָתַתָּה	verb
+עִמָּדִי	preposition
+הִוא	pronoun
+נָתְנָה	negative
+לִּי	verb
+לָאִשָּׁה	noun
+עָשִׂית	verb
+וַתֹּאמֶר	verb
+הִשִּׁיאַנִי	verb
+יְהֹוָה	proper
+עָשִׂיתָ	adjective
+אָרוּר	pronoun
+אַתָּה	noun
+וּמִכֹּל	noun
+גְּחֹנְךָ	verb
+תֵלֵךְ	noun
+וְעָפָר	verb
+תֹּאכַל	noun
+יְמֵי	noun
+חַיֶּיךָ	noun
+אָשִׁית	preposition
+בֵּינְךָ	preposition
+זַרְעֲךָ	preposition
+זַרְעָהּ	pronoun
+יְשׁוּפְךָ	noun
+רֹאשׁ	pronoun
+וְאַתָּה	verb
+תְּשׁוּפֶנּוּ	noun
+הַרְבָּה	verb
+אַרְבֶּה	verb
+בְּעֶצֶב	noun
+בָנִים	noun
+וְאֶל	preposition
+אִישֵׁךְ	noun
+תְּשׁוּקָתֵךְ	noun
+וְהוּא	pronoun
+בָּךְ	preposition
+אִשְׁתֶּךָ	noun
+אֲרוּרָה	verb
+כֹּל	noun
+וְדַרְדַּר	noun
+לָךְ	preposition
+וְאָכַלְתָּ	verb
+אַפֶּיךָ	noun
+לֶחֶם	noun
+עַד	preposition
+מִמֶּנָּה	preposition
+לֻקָּחְתָּ	verb
+תָּשׁוּב	relative
+שֵׁם	noun
+חַוָּה	proper
+אֵם	noun
+חָי	relative
+לְאָדָם	proper
+וַיַּלְבִּשֵׁם	verb
+הֵן	noun
+כְּאַחַד	preposition
+לָדַעַת	noun
+וְעַתָּה	verb
+יִשְׁלַח	verb
+וְלָקַח	noun
+מֵעֵץ	verb
+וְאָכַל	noun
+וָחַי	verb
+לְעֹלָם	noun
+לֻקַּח	verb
+מִשָּׁם	adverb
+וַיַּשְׁכֵּן	verb
+הַכְּרֻבִים	direct
+לַהַט	noun
+הַחֶרֶב	noun
+הַמִּתְהַפֶּכֶת	verb
+לִשְׁמֹר	verb
+דֶּרֶךְ	direct
+יָדַע	verb
+וַתַּהַר	verb
+וַתֵּלֶד	verb
+קַיִן	direct
+קָנִיתִי	verb
+לָלֶדֶת	verb
+אָחִיו	direct
+הָבֶל	direct
+הֶבֶל	verb
+רֹעֵה	verb
+צֹאן	noun
+וְקַיִן	proper
+עֹבֵד	verb
+אֲדָמָה	noun
+מִקֵּץ	noun
+יָמִים	noun
+מִנְחָה	noun
+לַיהוָה	proper
+הֵבִיא	verb
+גַם	conjunction
+וַיִּשַׁע	verb
+שָׁעָה	verb
+וַיִּחַר	verb
+לְקַיִן	proper
+וַיִּפְּלוּ	verb
+פָּנָיו	noun
+קָיִן	proper
+לָמָּה	pronoun
+חָרָה	verb
+וְלָמָּה	pronoun
+נָפְלוּ	verb
+פָנֶיךָ	noun
+אִם	verb
+תֵּיטִיב	verb
+שְׂאֵת	verb
+וְאִם	conjunction
+תֵיטִיב	verb
+לַפֶּתַח	noun
+חַטָּאת	noun
+רֹבֵץ	verb
+וְאֵלֶיךָ	preposition
+בַּשָּׂדֶה	noun
+וַיָּקָם	verb
+וַיַּהַרְגֵהוּ	noun
+אֵי	interrogative
+אָחִיךָ	noun
+יָדַעְתִּי	verb
+הֲשֹׁמֵר	interrogative
+אָחִי	noun
+מֶה	pronoun
+דְּמֵי	noun
+צֹעֲקִים	verb
+אֵלַי	preposition
+פָּצְתָה	verb
+פִּיהָ	direct
+לָקַחַת	verb
+מִיָּדֶךָ	noun
+תַעֲבֹד	verb
+תֹסֵף	negative
+תֵּת	verb
+כֹּחָהּ	verb
+נָע	verb
+וָנָד	verb
+תִּהְיֶה	verb
+גֵּרַשְׁתָּ	verb
+אֹתִי	direct
+וּמִפָּנֶיךָ	noun
+אֶסָּתֵר	verb
+וְהָיִיתִי	verb
+מֹצְאִי	noun
+לָכֵן	adverb
+הֹרֵג	noun
+שִׁבְעָתַיִם	cardinal
+יֻקָּם	verb
+מִלִּפְנֵי	noun
+וַיֵּשֶׁב	verb
+בְּאֶרֶץ	noun
+בֹּנֶה	verb
+עִיר	noun
+וַיִּקְרָא	verb
+הָעִיר	noun
+כְּשֵׁם	noun
+עִירָד	direct
+וְעִירָד	proper
+יָלַד	verb
+וּמְחִיּיָאֵל	proper
+מְתוּשָׁאֵל	direct
+וּמְתוּשָׁאֵל	proper
+לֶמֶךְ	proper
+שְׁתֵּי	cardinal
+נָשִׁים	noun
+הָאַחַת	cardinal
+עָדָה	proper
+וְשֵׁם	noun
+הַשֵּׁנִית	ordinal
+יָבָל	direct
+אֲבִי	noun
+יֹשֵׁב	verb
+אֹהֶל	noun
+וּמִקְנֶה	noun
+יוּבָל	proper
+תֹּפֵשׂ	noun
+יָלְדָה	verb
+תּוּבַל	direct
+לֹטֵשׁ	noun
+חֹרֵשׁ	noun
+נְחֹשֶׁת	noun
+וּבַרְזֶל	noun
+נַעֲמָה	proper
+לְנָשָׁיו	noun
+וְצִלָּה	proper
+שְׁמַעַן	verb
+נְשֵׁי	noun
+הַאְזֵנָּה	verb
+אִמְרָתִי	noun
+הָרַגְתִּי	verb
+לְפִצְעִי	noun
+וְיֶלֶד	noun
+יֻקַּם	verb
+וְלֶמֶךְ	proper
+שִׁבְעִים	cardinal
+וְשִׁבְעָה	cardinal
+בֵּן	noun
+וַתִּקְרָא	verb
+שֵׁת	proper
+שָׁת	negative
+לִי	verb
+אַחֵר	adjective
+תַּחַת	preposition
+יֻלַּד	verb
+אָז	adverb
+הוּחַל	verb
+לִקְרֹא	verb
+בְּשֵׁם	noun
+סֵפֶר	noun
+בְּרֹא	verb
+בִּדְמוּת	noun
+בְּרָאָם	verb
+וַיְבָרֶךְ	verb
+שְׁמָם	direct
+שְׁלֹשִׁים	cardinal
+וּמְאַת	cardinal
+שָׁנָה	noun
+אַחֲרֵי	preposition
+שְׁמֹנֶה	cardinal
+מֵאֹת	cardinal
+בָּנִים	noun
+חַי	relative
+תְּשַׁע	cardinal
+וּשְׁלֹשִׁים	cardinal
+וַיָּמֹת	verb
+חָמֵשׁ	cardinal
+שָׁנִים	noun
+שֶׁבַע	cardinal
+וּשְׁמֹנֶה	cardinal
+שְׁתֵּים	cardinal
+עֶשְׂרֵה	cardinal
+וּתְשַׁע	cardinal
+תִּשְׁעִים	cardinal
+קֵינָן	direct
+חֲמֵשׁ	cardinal
+מַהֲלַלְאֵל	proper
+אַרְבָּעִים	cardinal
+עֶשֶׂר	cardinal
+וְשִׁשִּׁים	cardinal
+יֶרֶד	direct
+וְתִשְׁעִים	cardinal
+שְׁתַּיִם	cardinal
+הָאֱלֹהִים	noun
+מְתוּשֶׁלַח	direct
+שְׁלֹשׁ	cardinal
+וּשְׁלֹשׁ	cardinal
+וְאֵינֶנּוּ	adverb
+וּשְׁמֹנִים	cardinal
+וּשְׁבַע	cardinal
+תֵּשַׁע	cardinal
+נֹחַ	proper
+זֶה	adjective
+יְנַחֲמֵנוּ	verb
+יָדֵינוּ	noun
+וַחֲמֵשׁ	cardinal
+וְשִׁבְעִים	cardinal
+בֶּן	direct
+חָם	direct
+הֵחֵל	verb
+לָרֹב	verb
+יֻלְּדוּ	verb
+בְנֵי	noun
+טֹבֹת	adjective
+הֵנָּה	pronoun
+וַיִּקְחוּ	verb
+רוּחִי	noun
+בְּשַׁגַּם	relative
+בָשָׂר	noun
+יָמָיו	noun
+מֵאָה	cardinal
+וְעֶשְׂרִים	cardinal
+הָיוּ	verb
+בַּיָּמִים	noun
+הָהֵם	pronoun
+וְגַם	conjunction
+יָבֹאוּ	verb
+בְּנֵי	noun
+וְיָלְדוּ	verb
+הֵמָּה	pronoun
+הַגִּבֹּרִים	adjective
+אַנְשֵׁי	noun
+הַשֵּׁם	direct
+רַבָּה	adjective
+רָעַת	noun
+יֵצֶר	noun
+מַחְשְׁבֹת	noun
+רַק	adverb
+רַע	adjective
+וַיִּתְעַצֵּב	verb
+אֶמְחֶה	verb
+בָּרָאתִי	relative
+מֵאָדָם	noun
+וְעַד	preposition
+נִחַמְתִּי	verb
+עֲשִׂיתִם	verb
+חֵן	noun
+בְּעֵינֵי	noun
+צַדִּיק	adjective
+תָּמִים	adjective
+שְׁלֹשָׁה	cardinal
+לִפְנֵי	noun
+וַתִּמָּלֵא	verb
+חָמָס	noun
+נִשְׁחָתָה	verb
+הִשְׁחִית	verb
+לְנֹחַ	proper
+קֵץ	noun
+בָּא	verb
+לְפָנַי	noun
+מָלְאָה	verb
+מִפְּנֵיהֶם	noun
+וְהִנְנִי	interjection
+מַשְׁחִיתָם	verb
+תֵּבַת	noun
+עֲצֵי	noun
+גֹפֶר	noun
+קִנִּים	noun
+תַּעֲשֶׂה	noun
+הַתֵּבָה	direct
+אֹתָהּ	direct
+מִבַּיִת	noun
+וּמִחוּץ	noun
+אַמָּה	noun
+אֹרֶךְ	noun
+חֲמִשִּׁים	cardinal
+רָחְבָּהּ	noun
+לַתֵּבָה	noun
+מִלְמַעְלָה	noun
+וּפֶתַח	noun
+בְּצִדָּהּ	verb
+תָּשִׂים	adjective
+תַּחְתִּיִּם	ordinal
+שְׁנִיִּם	ordinal
+וּשְׁלִשִׁים	verb
+הִנְנִי	interjection
+מֵבִיא	verb
+הַמַּבּוּל	direct
+לְשַׁחֵת	verb
+רוּחַ	noun
+בְּרִיתִי	direct
+אִתָּךְ	preposition
+וּבָאתָ	verb
+וּבָנֶיךָ	noun
+וְאִשְׁתְּךָ	noun
+בָנֶיךָ	noun
+הָחַי	noun
+שְׁנַיִם	cardinal
+תָּבִיא	verb
+לְהַחֲיֹת	verb
+יִהְיוּ	verb
+אֵלֶיךָ	preposition
+קַח	verb
+מַאֲכָל	noun
+יֵאָכֵל	verb
+וְאָסַפְתָּ	verb
+וְלָהֶם	preposition
+כְּכֹל	noun
+צִוָּה	verb
+בֹּא	verb
+בֵּיתְךָ	noun
+אֹתְךָ	direct
+רָאִיתִי	verb
+הַזֶּה	adjective
+תִּקַּח	verb
+שִׁבְעָה	noun
+טְהֹרָה	pronoun
+לְיָמִים	noun
+מַמְטִיר	verb
+וְאַרְבָּעִים	cardinal
+וּמָחִיתִי	verb
+הַיְקוּם	direct
+עָשִׂיתִי	verb
+צִוָּהוּ	relative
+שֵׁשׁ	noun
+וְהַמַּבּוּל	noun
+וּבָנָיו	noun
+בָנָיו	noun
+מֵי	noun
+אֵינֶנָּה	adverb
+רֹמֵשׂ	relative
+בָּאוּ	verb
+כַּאֲשֶׁר	relative
+לְשִׁבְעַת	cardinal
+הַיָּמִים	noun
+וּמֵי	noun
+לְחַיֵּי	noun
+בַּחֹדֶשׁ	noun
+בְּשִׁבְעָה	cardinal
+עָשָׂר	cardinal
+לַחֹדֶשׁ	noun
+נִבְקְעוּ	verb
+מַעְיְנֹת	noun
+וַאֲרֻבֹּת	noun
+נִפְתָּחוּ	verb
+הַגֶּשֶׁם	noun
+וְחָם	proper
+וָיֶפֶת	proper
+וְאֵשֶׁת	noun
+וּשְׁלֹשֶׁת	cardinal
+אִתָּם	preposition
+הַבָּשָׂר	noun
+וַיִּרְבּוּ	verb
+וַיִּשְׂאוּ	verb
+וַתָּרָם	verb
+וַתֵּלֶךְ	verb
+גָּבְרוּ	verb
+וַיְכֻסּוּ	verb
+הֶהָרִים	noun
+הַגְּבֹהִים	adjective
+וּבַחַיָּה	noun
+הַשֶּׁרֶץ	verb
+הַשֹּׁרֵץ	noun
+בֶּחָרָבָה	noun
+מֵתוּ	verb
+וַיִּמָּחוּ	verb
+אַךְ	adverb
+וַאֲשֶׁר	verb
+בַּתֵּבָה	noun
+וַיַּעֲבֵר	verb
+וַיָּשֹׁכּוּ	verb
+וַיִּכָּלֵא	verb
+וַיַּחְסְרוּ	verb
+מִקְצֵה	noun
+הָרֵי	noun
+אֲרָרָט	verb
+הַחֹדֶשׁ	noun
+הָעֲשִׂירִי	ordinal
+בְּאֶחָד	cardinal
+נִרְאוּ	verb
+רָאשֵׁי	noun
+וַיִּפְתַּח	verb
+וַיֵּצֵא	verb
+יְבֹשֶׁת	verb
+הֲקַלּוּ	interrogative
+מָצְאָה	negative
+רַגְלָהּ	noun
+וַתָּשָׁב	verb
+אֵלָיו	preposition
+וַיִּשְׁלַח	verb
+וַיִּקָּחֶהָ	verb
+שִׁבְעַת	cardinal
+אֲחֵרִים	adjective
+וַיֹּסֶף	verb
+שַׁלַּח	verb
+לְעֵת	noun
+זַיִת	noun
+טָרָף	adjective
+בְּפִיהָ	noun
+וַיֵּדַע	verb
+קַלּוּ	verb
+וַיְשַׁלַּח	verb
+יָסְפָה	negative
+שׁוּב	verb
+בְּאַחַת	cardinal
+וְשֵׁשׁ	cardinal
+חָרְבוּ	verb
+וַיָּסַר	verb
+מִכְסֵה	direct
+יָבְשָׁה	verb
+אִתְּךָ	relative
+וּפָרוּ	noun
+וְרָבוּ	verb
+לְמִשְׁפְּחֹתֵיהֶם	noun
+יָצְאוּ	verb
+מִזְבֵּחַ	noun
+הַטָּהֹר	verb
+וַיַּעַל	noun
+עֹלֹת	noun
+בַּמִּזְבֵּחַ	noun
+רֵיחַ	direct
+הַנִּיחֹחַ	noun
+אֹסִף	negative
+לְקַלֵּל	verb
+בַּעֲבוּר	noun
+לֵב	noun
+מִנְּעֻרָיו	noun
+וְקָצִיר	noun
+וְקֹר	noun
+וָחֹם	noun
+וְקַיִץ	noun
+וָחֹרֶף	noun
+וָלַיְלָה	noun
+בָּנָיו	direct
+וְחִתְּכֶם	noun
+וְעַל	preposition
+בְּכֹל	noun
+תִּרְמֹשׂ	verb
+דְּגֵי	noun
+בְּיֶדְכֶם	noun
+כְּיֶרֶק	noun
+תֹאכֵלוּ	verb
+דִּמְכֶם	direct
+לְנַפְשֹׁתֵיכֶם	noun
+אֶדְרֹשׁ	verb
+מִיַּד	noun
+אֶדְרְשֶׁנּוּ	verb
+וּמִיַּד	noun
+דַּם	noun
+בָּאָדָם	noun
+יִשָּׁפֵךְ	verb
+שִׁרְצוּ	verb
+בָהּ	verb
+מֵקִים	verb
+אִתְּכֶם	preposition
+זַרְעֲכֶם	noun
+אַחֲרֵיכֶם	preposition
+בַּבְּהֵמָה	noun
+יֹצְאֵי	verb
+לְכֹל	noun
+יִכָּרֵת	negative
+מִמֵּי	noun
+מַבּוּל	noun
+הַבְּרִית	noun
+אֲנִי	relative
+נֹתֵן	verb
+בֵּינִי	preposition
+וּבֵינֵיכֶם	preposition
+לְדֹרֹת	noun
+קַשְׁתִּי	direct
+בֶּעָנָן	verb
+וְהָיְתָה	verb
+בְּרִית	noun
+עָנָן	noun
+וְנִרְאֲתָה	verb
+הַקֶּשֶׁת	noun
+לְמַבּוּל	noun
+וּרְאִיתִיהָ	verb
+לִזְכֹּר	verb
+הֲקִמֹתִי	verb
+הַיֹּצְאִים	verb
+וָיָפֶת	proper
+כְנָעַן	proper
+אֵלֶּה	adjective
+וּמֵאֵלֶּה	adjective
+וַיִּטַּע	verb
+הַיַּיִן	noun
+וַיִּשְׁכָּר	verb
+וַיִּתְגַּל	verb
+כְנַעַן	proper
+עֶרְוַת	noun
+וַיַּגֵּד	verb
+לִשְׁנֵי	cardinal
+אֶחָיו	cardinal
+בַּחוּץ	noun
+הַשִּׂמְלָה	direct
+וַיָּשִׂימוּ	verb
+שְׁכֶם	noun
+וַיֵּלְכוּ	verb
+אֲחֹרַנִּית	adverb
+וַיְכַסּוּ	verb
+אֲבִיהֶם	noun
+וּפְנֵיהֶם	noun
+וְעֶרְוַת	noun
+רָאוּ	negative
+הַקָּטָן	adjective
+כְּנָעַן	proper
+עֶבֶד	noun
+עֲבָדִים	noun
+לְאֶחָיו	noun
+בָּרוּךְ	verb
+אֱלֹהֵי	noun
+לְיֶפֶת	proper
+וְיִשְׁכֹּן	verb
+בְּאָהֳלֵי	adjective
+אַחַר	adverb
+וַחֲמִשִּׁים	cardinal
+וַיִּוָּלְדוּ	verb
+יֶפֶת	proper
+גֹּמֶר	proper
+וּמָדַי	proper
+וְיָוָן	proper
+וְתֻבָל	proper
+וּמֶשֶׁךְ	proper
+אַשְׁכֲּנַז	proper
+וְרִיפַת	proper
+יָוָן	proper
+אֱלִישָׁה	proper
+וְתַרְשִׁישׁ	proper
+כִּתִּים	proper
+נִפְרְדוּ	verb
+אִיֵּי	noun
+בְּאַרְצֹתָם	noun
+לְמִשְׁפְּחֹתָם	noun
+וּמִצְרַיִם	proper
+וּפוּט	proper
+כוּשׁ	proper
+סְבָא	proper
+וַחֲוִילָה	proper
+וְסַבְתָּה	proper
+וְרַעְמָה	proper
+וְסַבְתְּכָא	proper
+וּבְנֵי	noun
+רַעְמָה	proper
+שְׁבָא	proper
+וּדְדָן	proper
+נִמְרֹד	direct
+גִּבֹּר	adjective
+צַיִד	noun
+יֵאָמַר	noun
+כְּנִמְרֹד	proper
+רֵאשִׁית	noun
+בָּבֶל	proper
+וְאֶרֶךְ	proper
+וְאַכַּד	proper
+וְכַלְנֵה	proper
+שִׁנְעָר	proper
+יָצָא	verb
+וַיִּבֶן	verb
+נִינְוֵה	direct
+רְחֹבֹת	direct
+כָּלַח	proper
+רֶסֶן	direct
+הַגְּדֹלָה	adjective
+לוּדִים	direct
+עֲנָמִים	direct
+לְהָבִים	direct
+פַּתְרֻסִים	direct
+כַּסְלֻחִים	direct
+פְּלִשְׁתִּים	proper
+כַּפְתֹּרִים	proper
+צִידֹן	direct
+חֵת	noun
+הַיְבוּסִי	direct
+הָאֱמֹרִי	direct
+הַגִּרְגָּשִׁי	direct
+הַחִוִּי	proper
+הָאַרְוָדִי	direct
+הַצְּמָרִי	direct
+וְאַחַר	adverb
+נָפֹצוּ	verb
+הַכְּנַעֲנִי	proper
+גְּבוּל	noun
+מִצִּידֹן	proper
+בֹּאֲכָה	verb
+גְרָרָה	proper
+עַזָּה	proper
+סְדֹמָה	proper
+וַעֲמֹרָה	proper
+וְאַדְמָה	proper
+וּצְבֹיִם	proper
+לִלְשֹׁנֹתָם	noun
+עֵבֶר	noun
+אֲחִי	noun
+עֵילָם	proper
+וְאַשּׁוּר	proper
+וְאַרְפַּכְשַׁד	proper
+וְלוּד	proper
+וַאֲרָם	proper
+אֲרָם	proper
+עוּץ	proper
+וְחוּל	proper
+וְגֶתֶר	proper
+שָׁלַח	direct
+וְשֶׁלַח	proper
+פֶּלֶג	proper
+בְיָמָיו	noun
+נִפְלְגָה	verb
+שָׁלֶף	direct
+חֲצַרְמָוֶת	direct
+יָרַח	verb
+אוּזָל	direct
+אֲבִימָאֵל	direct
+חֲוִילָה	direct
+מִמֵּשָׁא	proper
+סְפָרָה	proper
+הַר	noun
+מִשְׁפְּחֹת	noun
+שָׂפָה	noun
+אֶחָת	cardinal
+וּדְבָרִים	noun
+אֲחָדִים	cardinal
+בְּנָסְעָם	verb
+וַיִּמְצְאוּ	verb
+בִקְעָה	noun
+וַיֵּשְׁבוּ	verb
+רֵעֵהוּ	noun
+הָבָה	verb
+נִלְבְּנָה	verb
+לְבֵנִים	noun
+וְנִשְׂרְפָה	verb
+לִשְׂרֵפָה	noun
+וַתְּהִי	verb
+הַלְּבֵנָה	noun
+לְאָבֶן	noun
+וְהַחֵמָר	noun
+לַחֹמֶר	noun
+נִבְנֶה	verb
+לָּנוּ	noun
+וּמִגְדָּל	noun
+בַשָּׁמַיִם	verb
+וְנַעֲשֶׂה	verb
+נָפוּץ	noun
+לִרְאֹת	verb
+הַמִּגְדָּל	direct
+בָּנוּ	verb
+עַם	noun
+וְשָׂפָה	noun
+לְכֻלָּם	noun
+וְזֶה	adjective
+הַחִלָּם	verb
+יִבָּצֵר	negative
+מֵהֶם	preposition
+יָזְמוּ	verb
+נֵרְדָה	verb
+וְנָבְלָה	verb
+שְׂפָתָם	noun
+יִשְׁמְעוּ	verb
+שְׂפַת	noun
+לִבְנֹת	verb
+שְׁמָהּ	noun
+בָּלַל	verb
+הֱפִיצָם	verb
+מְאַת	noun
+אַרְפַּכְשָׁד	direct
+שְׁנָתַיִם	noun
+אַרְפַּכְשַׁד	proper
+שֶׁלַח	direct
+שָׁלֹשׁ	cardinal
+וְאַרְבַּע	cardinal
+אַרְבַּע	cardinal
+פֶלֶג	verb
+רְעוּ	direct
+וּמָאתַיִם	cardinal
+שְׂרוּג	direct
+מָאתַיִם	cardinal
+תֶּרַח	direct
+תֶרַח	verb
+אַבְרָם	direct
+הָרָן	direct
+וְהָרָן	proper
+בְּאוּר	proper
+כַּשְׂדִּים	proper
+אֵשֶׁת	noun
+שָׂרָי	proper
+מִלְכָּה	noun
+בַּת	noun
+וַאֲבִי	noun
+שָׂרַי	proper
+עֲקָרָה	adjective
+אֵין	adverb
+לָהּ	preposition
+וַיֵּצְאוּ	verb
+מֵאוּר	proper
+לָלֶכֶת	verb
+אַרְצָה	noun
+כְּנַעַן	proper
+וַיָּבֹאוּ	verb
+חָרָן	proper
+וַיָּמָת	verb
+לֶךְ	verb
+מֵאַרְצְךָ	noun
+וּמִבֵּית	noun
+אָבִיךָ	noun
+אַרְאֶךָּ	verb
+וַאֲבָרֶכְךָ	verb
+וַאֲגַדְּלָה	verb
+שְׁמֶךָ	noun
+וֶהְיֵה	verb
+בְּרָכָה	noun
+מְבָרְכֶיךָ	verb
+וּמְקַלֶּלְךָ	verb
+אָאֹר	verb
+וְנִבְרְכוּ	verb
+בְךָ	preposition
+דִּבֶּר	verb
+וַיֵּלֶךְ	verb
+וְאַבְרָם	proper
+מֵחָרָן	proper
+רְכוּשָׁם	direct
+רָכָשׁוּ	verb
+הַנֶּפֶשׁ	direct
+עָשׂוּ	relative
+בְחָרָן	proper
+וְהַכְּנַעֲנִי	proper
+לְזַרְעֲךָ	noun
+אֶתֵּן	verb
+הַזֹּאת	adjective
+הַנִּרְאֶה	verb
+הָהָרָה	noun
+לְבֵית	noun
+אֵל	proper
+וַיֵּט	verb
+בֵּית	noun
+מִיָּם	noun
+וְהָעַי	proper
+רָעָב	noun
+וַיֵּרֶד	verb
+מִצְרַיְמָה	proper
+לָגוּר	verb
+כָבֵד	adjective
+הָרָעָב	noun
+הִקְרִיב	verb
+מִצְרָיְמָה	proper
+נָא	interjection
+יְפַת	adjective
+מַרְאֶה	adjective
+אָתְּ	pronoun
+יִרְאוּ	verb
+אֹתָךְ	direct
+הַמִּצְרִים	proper
+וְאָמְרוּ	verb
+וְהָרְגוּ	verb
+וְאֹתָךְ	direct
+יְחַיּוּ	verb
+אֲחֹתִי	noun
+לְמַעַן	conjunction
+יִיטַב	verb
+בַעֲבוּרֵךְ	noun
+וְחָיְתָה	verb
+נַפְשִׁי	noun
+וַיִּרְאוּ	verb
+יָפָה	adjective
+שָׂרֵי	noun
+פַרְעֹה	proper
+פַּרְעֹה	proper
+וַתֻּקַּח	verb
+הֵיטִיב	verb
+בַּעֲבוּרָהּ	noun
+וּבָקָר	noun
+וַחֲמֹרִים	noun
+וַעֲבָדִים	noun
+וּשְׁפָחֹת	noun
+וַאֲתֹנֹת	noun
+וּגְמַלִּים	noun
+נְגָעִים	adjective
+גְּדֹלִים	direct
+דְּבַר	proper
+לְאַבְרָם	proper
+הִגַּדְתָּ	negative
+אִשְׁתְּךָ	noun
+אָמַרְתָּ	verb
+וָאֶקַּח	verb
+וָלֵךְ	verb
+עָלָיו	preposition
+אֲנָשִׁים	noun
+וַיְשַׁלְּחוּ	verb
+מִמִּצְרַיִם	proper
+כָּבֵד	adjective
+בַּמִּקְנֶה	noun
+בַּכֶּסֶף	noun
+וּבַזָּהָב	noun
+לְמַסָּעָיו	noun
+מִנֶּגֶב	proper
+בַּתְּחִלָּה	proper
+הָעָי	direct
+הַמִּזְבֵּחַ	noun
+בָּרִאשֹׁנָה	adjective
+וְאֹהָלִים	noun
+נָשָׂא	negative
+לָשֶׁבֶת	verb
+יַחְדָּו	adverb
+רָב	adjective
+יָכְלוּ	verb
+רִיב	verb
+רֹעֵי	verb
+מִקְנֵה	noun
+וְהַפְּרִזִּי	proper
+אַל	noun
+תְהִי	verb
+מְרִיבָה	noun
+וּבֵינֶיךָ	preposition
+רֹעַי	verb
+רֹעֶיךָ	verb
+אַחִים	noun
+אֲנָחְנוּ	pronoun
+לְפָנֶיךָ	noun
+הִפָּרֶד	verb
+מֵעָלָי	preposition
+הַשְּׂמֹאל	noun
+וְאֵימִנָה	verb
+הַיָּמִין	noun
+עֵינָיו	direct
+כִּכַּר	direct
+הַיַּרְדֵּן	proper
+כֻלָּהּ	noun
+מַשְׁקֶה	noun
+שַׁחֵת	proper
+סְדֹם	direct
+עֲמֹרָה	noun
+כְּגַן	noun
+כְּאֶרֶץ	proper
+מִצְרַיִם	verb
+צֹעַר	preposition
+וַיִּסַּע	verb
+וַיִּפָּרְדוּ	verb
+יָשַׁב	verb
+בְּעָרֵי	noun
+הַכִּכָּר	noun
+וַיֶּאֱהַל	verb
+רָעִים	adjective
+וְחַטָּאִים	adjective
+שָׂא	verb
+עֵינֶיךָ	noun
+וּרְאֵה	verb
+צָפֹנָה	noun
+וָנֶגְבָּה	noun
+וָקֵדְמָה	adverb
+וָיָמָּה	noun
+רֹאֶה	verb
+אֶתְּנֶנָּה	verb
+וּלְזַרְעֲךָ	noun
+כַּעֲפַר	noun
+יוּכַל	noun
+עֲפַר	noun
+יִמָּנֶה	negative
+הִתְהַלֵּךְ	verb
+לְאָרְכָּהּ	noun
+וּלְרָחְבָּהּ	noun
+וַיָּבֹא	verb
+בְּאֵלֹנֵי	noun
+מַמְרֵא	proper
+בִּימֵי	noun
+אַמְרָפֶל	proper
+מֶלֶךְ	noun
+אֶלָּסָר	proper
+כְּדָרְלָעֹמֶר	proper
+וְתִדְעָל	proper
+מִלְחָמָה	noun
+בֶּרַע	proper
+בִּרְשַׁע	proper
+שִׁנְאָב	proper
+אַדְמָה	proper
+וְשֶׁמְאֵבֶר	noun
+וּמֶלֶךְ	pronoun
+בֶּלַע	verb
+הִיא	pronoun
+עֵמֶק	noun
+הַשִּׂדִּים	proper
+יָם	noun
+הַמֶּלַח	noun
+עָבְדוּ	verb
+כְדָרְלָעֹמֶר	proper
+וְהַמְּלָכִים	noun
+וַיַּכּוּ	verb
+רְפָאִים	direct
+בְּעַשְׁתְּרֹת	proper
+קַרְנַיִם	direct
+הַזּוּזִים	proper
+בְּהָם	direct
+בְּשָׁוֵה	proper
+קִרְיָתָיִם	proper
+הַחֹרִי	direct
+בְּהַרְרָם	noun
+שֵׂעִיר	proper
+אֵיל	proper
+פָּארָן	relative
+הַמִּדְבָּר	noun
+עֵין	proper
+מִשְׁפָּט	pronoun
+קָדֵשׁ	verb
+שְׂדֵה	proper
+הָעֲמָלֵקִי	conjunction
+הַיֹּשֵׁב	proper
+תָּמָר	proper
+וַיַּעַרְכוּ	verb
+בְּעֵמֶק	proper
+וְאַמְרָפֶל	proper
+אַרְבָּעָה	cardinal
+מְלָכִים	noun
+בֶּאֱרֹת	noun
+חֵמָר	noun
+וַיָּנֻסוּ	verb
+שָׁמָּה	verb
+וְהַנִּשְׁאָרִים	verb
+הֶרָה	noun
+רְכֻשׁ	direct
+אָכְלָם	direct
+וַיֵּלֵכוּ	verb
+הַפָּלִיט	noun
+הָעִבְרִי	proper
+שֹׁכֵן	verb
+אֶשְׁכֹּל	proper
+וַאֲחִי	noun
+עָנֵר	proper
+וְהֵם	pronoun
+בַּעֲלֵי	noun
+בְרִית	noun
+נִשְׁבָּה	verb
+וַיָּרֶק	verb
+חֲנִיכָיו	direct
+יְלִידֵי	noun
+שְׁמֹנָה	cardinal
+וַיִּרְדֹּף	verb
+דָּן	verb
+עֲלֵיהֶם	preposition
+לַיְלָה	pronoun
+וַעֲבָדָיו	verb
+וַיַּכֵּם	verb
+וַיִּרְדְּפֵם	verb
+מִשְּׂמֹאל	proper
+לְדַמָּשֶׂק	proper
+הָרְכֻשׁ	noun
+הֵשִׁיב	verb
+הַנָּשִׁים	direct
+הָעָם	noun
+הַמְּלָכִים	direct
+שָׁוֵה	proper
+הַמֶּלֶךְ	noun
+צֶדֶק	proper
+שָׁלֵם	proper
+וָיָיִן	noun
+כֹהֵן	noun
+לְאֵל	noun
+וַיֹּאמַר	verb
+קֹנֵה	verb
+שָׁמַיִם	noun
+וָאָרֶץ	noun
+מִגֵּן	relative
+צָרֶיךָ	noun
+בְּיָדֶךָ	noun
+מַעֲשֵׂר	noun
+וְהָרְכֻשׁ	noun
+הֲרִימֹתִי	verb
+יָדִי	noun
+מִחוּט	noun
+נַעַל	noun
+אֶקַּח	verb
+תֹאמַר	verb
+הֶעֱשַׁרְתִּי	verb
+אָכְלוּ	verb
+הַנְּעָרִים	noun
+וְחֵלֶק	noun
+הָאֲנָשִׁים	noun
+הָלְכוּ	verb
+אִתִּי	preposition
+וּמַמְרֵא	proper
+יִקְחוּ	verb
+חֶלְקָם	noun
+הַדְּבָרִים	adjective
+הָאֵלֶּה	verb
+דְבַר	pronoun
+תִּירָא	proper
+מָגֵן	preposition
+שְׂכָרְךָ	verb
+הַרְבֵּה	adverb
+אֲדֹנָי	proper
+יֱהוִה	proper
+וְאָנֹכִי	pronoun
+עֲרִירִי	adjective
+מֶשֶׁק	noun
+בֵּיתִי	noun
+דַּמֶּשֶׂק	proper
+אֱלִיעֶזֶר	proper
+יֵצֵא	verb
+מִמֵּעֶיךָ	noun
+הַחוּצָה	noun
+הַשָּׁמַיְמָה	noun
+וּסְפֹר	verb
+תּוּכַל	verb
+לִסְפֹּר	verb
+כֹּה	adverb
+זַרְעֶךָ	noun
+בַּיהוָה	proper
+וַיַּחְשְׁבֶהָ	verb
+צְדָקָה	noun
+לָתֶת	verb
+לְרִשְׁתָּהּ	verb
+בַּמָּה	pronoun
+אֵדַע	verb
+קְחָה	verb
+עֶגְלָה	noun
+מְשֻׁלֶּשֶׁת	verb
+וְעֵז	noun
+וְאַיִל	noun
+מְשֻׁלָּשׁ	verb
+וְתֹר	noun
+וַיְבַתֵּר	verb
+בַּתָּוֶךְ	noun
+וַיִּתֵּן	verb
+לִקְרַאת	verb
+הָעַיִט	noun
+הַפְּגָרִים	noun
+וַיַּשֵּׁב	verb
+הַשֶּׁמֶשׁ	noun
+וְתַרְדֵּמָה	noun
+נָפְלָה	verb
+אֵימָה	noun
+חֲשֵׁכָה	noun
+גְדֹלָה	adjective
+נֹפֶלֶת	verb
+יָדֹעַ	verb
+תֵּדַע	verb
+גֵר	noun
+וַעֲבָדוּם	verb
+וְעִנּוּ	direct
+יַעֲבֹדוּ	verb
+וְאַחֲרֵי	preposition
+יֵצְאוּ	verb
+בִּרְכֻשׁ	noun
+אֲבֹתֶיךָ	noun
+תִּקָּבֵר	verb
+בְּשֵׂיבָה	noun
+יָשׁוּבוּ	verb
+בָּאָה	verb
+וַעֲלָטָה	noun
+תַנּוּר	noun
+עָשָׁן	noun
+וְלַפִּיד	noun
+אֵשׁ	noun
+עָבַר	verb
+הַגְּזָרִים	noun
+הַהוּא	pronoun
+כָּרַת	verb
+מִנְּהַר	noun
+נְהַר	noun
+פְּרָת	noun
+הַקֵּינִי	direct
+הַקְּנִזִּי	direct
+הַקַּדְמֹנִי	adjective
+הַחִתִּי	direct
+הַפְּרִזִּי	direct
+הָרְפָאִים	proper
+וְלָהּ	preposition
+שִׁפְחָה	noun
+מִצְרִית	proper
+וּשְׁמָהּ	noun
+הָגָר	direct
+עֲצָרַנִי	verb
+מִלֶּדֶת	verb
+שִׁפְחָתִי	noun
+אוּלַי	adverb
+אִבָּנֶה	verb
+וַיִּשְׁמַע	verb
+הַמִּצְרִית	proper
+שִׁפְחָתָהּ	noun
+לְשֶׁבֶת	verb
+אִישָׁהּ	noun
+וַתֵּרֶא	verb
+הָרָתָה	verb
+וַתֵּקַל	verb
+גְּבִרְתָּהּ	noun
+בְּעֵינֶיהָ	noun
+חֲמָסִי	noun
+עָלֶיךָ	preposition
+בְּחֵיקֶךָ	noun
+וָאֵקַל	verb
+יִשְׁפֹּט	verb
+שִׁפְחָתֵךְ	noun
+בְּיָדֵךְ	noun
+עֲשִׂי	verb
+בְּעֵינָיִךְ	noun
+וַתְּעַנֶּהָ	verb
+וַתִּבְרַח	verb
+מַלְאַךְ	noun
+בַּמִּדְבָּר	noun
+הָעַיִן	noun
+בְּדֶרֶךְ	noun
+שׁוּר	proper
+שִׁפְחַת	noun
+מִזֶּה	interrogative
+בָאת	verb
+וְאָנָה	pronoun
+תֵלֵכִי	verb
+גְּבִרְתִּי	noun
+בֹּרַחַת	verb
+שׁוּבִי	verb
+גְּבִרְתֵּךְ	noun
+וְהִתְעַנִּי	verb
+יָדֶיהָ	noun
+זַרְעֵךְ	direct
+יִסָּפֵר	verb
+מֵרֹב	noun
+הִנָּךְ	interjection
+הָרָה	adjective
+וְיֹלַדְתְּ	verb
+וְקָרָאת	verb
+יִשְׁמָעֵאל	proper
+שָׁמַע	verb
+פֶּרֶא	noun
+בַכֹּל	noun
+וְיַד	noun
+יִשְׁכֹּן	verb
+הַדֹּבֵר	verb
+אֵלֶיהָ	preposition
+רֳאִי	noun
+אָמְרָה	verb
+הֲגַם	interrogative
+הֲלֹם	adverb
+רֹאִי	proper
+לַבְּאֵר	noun
+בְּאֵר	proper
+לַחַי	interjection
+בֵין	proper
+שְׁמֹנִים	noun
+בְּלֶדֶת	verb
+וְתֵשַׁע	cardinal
+וַיֵּרָא	verb
+שַׁדַּי	proper
+תָמִים	adjective
+בְרִיתִי	noun
+וּבֵינֶךָ	preposition
+וְאַרְבֶּה	verb
+בִּמְאֹד	adverb
+וַיְדַבֵּר	verb
+וְהָיִיתָ	verb
+לְאַב	noun
+שִׁמְךָ	noun
+אַבְרָהָם	proper
+נְתַתִּיךָ	negative
+וּנְתַתִּיךָ	verb
+וּמְלָכִים	noun
+מִמְּךָ	preposition
+אַחֲרֶיךָ	preposition
+לְדֹרֹתָם	noun
+לִבְרִית	noun
+לֵאלֹהִים	verb
+מְגֻרֶיךָ	direct
+לַאֲחֻזַּת	noun
+תִשְׁמֹר	verb
+וְזַרְעֲךָ	noun
+תִּשְׁמְרוּ	verb
+בְּשַׂר	noun
+עָרְלַתְכֶם	noun
+שְׁמֹנַת	noun
+לְדֹרֹתֵיכֶם	noun
+יְלִיד	noun
+בָּיִת	noun
+וּמִקְנַת	noun
+כֶּסֶף	noun
+נֵכָר	noun
+כַּסְפֶּךָ	verb
+בִּבְשַׂרְכֶם	noun
+וְנִכְרְתָה	noun
+מֵעַמֶּיהָ	direct
+הֵפַר	verb
+תִקְרָא	negative
+שָׂרָה	proper
+מַלְכֵי	noun
+עַמִּים	noun
+וַיִּצְחָק	verb
+הַלְּבֶן	interrogative
+יִוָּלֵד	verb
+תֵּלֵד	verb
+לוּ	preposition
+יִחְיֶה	verb
+אֲבָל	adverb
+יֹלֶדֶת	verb
+וְקָרָאתָ	verb
+יִצְחָק	proper
+וַהֲקִמֹתִי	verb
+אַחֲרָיו	preposition
+שְׁמַעְתִּיךָ	verb
+בֵּרַכְתִּי	direct
+וְהִפְרֵיתִי	direct
+וְהִרְבֵּיתִי	direct
+שְׁנֵים	cardinal
+נְשִׂיאִם	verb
+וּנְתַתִּיו	noun
+אָקִים	verb
+בַּשָּׁנָה	noun
+הָאַחֶרֶת	adjective
+לְדַבֵּר	verb
+מִקְנַת	noun
+בְּאַנְשֵׁי	noun
+וַיָּמָל	verb
+עָרְלָתָם	noun
+בְּעֶצֶם	noun
+וָתֵשַׁע	cardinal
+וְיִשְׁמָעֵאל	proper
+מֵאֵת	preposition
+נִמֹּלוּ	verb
+פֶּתַח	noun
+הָאֹהֶל	noun
+כְּחֹם	noun
+נִצָּבִים	verb
+וַיָּרָץ	verb
+לִקְרָאתָם	verb
+מִפֶּתַח	noun
+וַיִּשְׁתַּחוּ	verb
+אָרְצָה	noun
+מָצָאתִי	verb
+בְּעֵינֶיךָ	noun
+תַעֲבֹר	verb
+עַבְדֶּךָ	noun
+מְעַט	adjective
+וְרַחֲצוּ	verb
+רַגְלֵיכֶם	noun
+וְסַעֲדוּ	verb
+לִבְּכֶם	noun
+תַּעֲבֹרוּ	verb
+עֲבַרְתֶּם	verb
+עַבְדְּכֶם	noun
+וַיֹּאמְרוּ	verb
+דִּבַּרְתָּ	verb
+הָאֹהֱלָה	noun
+מַהֲרִי	verb
+סְאִים	noun
+קֶמַח	noun
+סֹלֶת	noun
+לוּשִׁי	verb
+וַעֲשִׂי	verb
+הַבָּקָר	noun
+רָץ	verb
+בָּקָר	noun
+רַךְ	adjective
+הַנַּעַר	noun
+וַיְמַהֵר	verb
+חֶמְאָה	noun
+וְחָלָב	noun
+לִפְנֵיהֶם	noun
+עֹמֵד	pronoun
+וַיֹּאכֵלוּ	verb
+אַיֵּה	interrogative
+אָשׁוּב	verb
+כָּעֵת	noun
+בֵן	interjection
+לְשָׂרָה	proper
+וְשָׂרָה	proper
+שֹׁמַעַת	verb
+זְקֵנִים	adjective
+בָּאִים	verb
+חָדַל	verb
+אֹרַח	noun
+כַּנָּשִׁים	noun
+בְּקִרְבָּהּ	noun
+בְלֹתִי	verb
+עֶדְנָה	noun
+וַאדֹנִי	noun
+זָקֵן	adjective
+זֶּה	adjective
+צָחֲקָה	verb
+הַאַף	interrogative
+אֻמְנָם	conjunction
+אֵלֵד	verb
+וַאֲנִי	pronoun
+זָקַנְתִּי	verb
+מֵיְהוָה	proper
+דָּבָר	noun
+וּלְשָׂרָה	proper
+צָחַקְתִּי	conjunction
+יָרֵאָה	negative
+וַיַּשְׁקִפוּ	verb
+וְאַבְרָהָם	proper
+הֹלֵךְ	verb
+עִמָּם	preposition
+לְשַׁלְּחָם	verb
+אָמָר	verb
+וְעָצוּם	adjective
+יְדַעְתִּיו	verb
+יְצַוֶּה	verb
+וְשָׁמְרוּ	verb
+וּמִשְׁפָּט	noun
+הָבִיא	verb
+זַעֲקַת	noun
+רָבָּה	verb
+וְחַטָּאתָם	noun
+כָבְדָה	verb
+נָּא	verb
+וְאֶרְאֶה	verb
+הַכְּצַעֲקָתָהּ	interrogative
+הַבָּאָה	verb
+כָּלָה	negative
+תִּסְפֶּה	verb
+עִם	noun
+רָשָׁע	verb
+יֵשׁ	adverb
+צַדִּיקִם	adjective
+תִשָּׂא	negative
+הַצַּדִּיקִם	adjective
+לְּךָ	preposition
+מֵעֲשֹׂת	verb
+כַּדָּבָר	adjective
+לְהָמִית	adjective
+כַצַּדִּיק	adjective
+כָּרָשָׁע	interjection
+חָלִלָה	preposition
+לָּךְ	interrogative
+הֲשֹׁפֵט	noun
+יַעֲשֶׂה	noun
+אֶמְצָא	verb
+בִסְדֹם	proper
+וְנָשָׂאתִי	verb
+וָאֵפֶר	noun
+יַחְסְרוּן	verb
+חֲמִשָּׁה	cardinal
+הֲתַשְׁחִית	interrogative
+בַּחֲמִשָּׁה	cardinal
+אַשְׁחִית	verb
+וַחֲמִשָּׁה	cardinal
+יִמָּצְאוּן	verb
+אֶעֱשֶׂה	verb
+יִחַר	verb
+לַאדֹנָי	proper
+וַאֲדַבֵּרָה	verb
+עֶשְׂרִים	cardinal
+וַאֲדַבְּרָה	verb
+עֲשָׂרָה	cardinal
+הָעֲשָׂרָה	verb
+כִּלָּה	verb
+שָׁב	verb
+הַמַּלְאָכִים	noun
+בָּעֶרֶב	noun
+בְּשַׁעַר	noun
+אַפַּיִם	noun
+הִנֶּה	interjection
+אֲדֹנַי	interjection
+סוּרוּ	verb
+וְלִינוּ	verb
+וְהִשְׁכַּמְתֶּם	verb
+לְדַרְכְּכֶם	noun
+לֹּא	negative
+בָּם	verb
+וַיָּסֻרוּ	verb
+וַיַּעַשׂ	verb
+מִשְׁתֶּה	noun
+אָפָה	verb
+יִשְׁכָּבוּ	verb
+וְאַנְשֵׁי	noun
+נָסַבּוּ	verb
+הַבַּיִת	noun
+מִנַּעַר	noun
+אֵלֵינוּ	preposition
+וְנֵדְעָה	verb
+אֲלֵהֶם	preposition
+הַפֶּתְחָה	noun
+וְהַדֶּלֶת	noun
+סָגַר	verb
+אַחַי	noun
+תָּרֵעוּ	adverb
+יָדְעוּ	negative
+אֶתְהֶן	direct
+אֲלֵיכֶם	preposition
+וַעֲשׂוּ	verb
+לָהֶן	preposition
+בְּעֵינֵיכֶם	noun
+הָאֵל	adjective
+תַּעֲשׂוּ	adverb
+דָבָר	noun
+בְּצֵל	noun
+הָלְאָה	verb
+וַיִּשְׁפֹּט	verb
+עַתָּה	verb
+נָרַע	preposition
+וַיִּפְצְרוּ	noun
+בָאִישׁ	proper
+וַיִּגְּשׁוּ	verb
+לִשְׁבֹּר	noun
+הַדָּלֶת	noun
+יָדָם	direct
+וַיָּבִיאוּ	verb
+אֲלֵיהֶם	preposition
+הַבָּיְתָה	noun
+הַדֶּלֶת	direct
+סָגָרוּ	verb
+הִכּוּ	verb
+בַּסַּנְוֵרִים	noun
+מִקָּטֹן	adjective
+וַיִּלְאוּ	verb
+לִמְצֹא	verb
+עֹד	adverb
+פֹה	adverb
+חָתָן	noun
+וּבְנֹתֶיךָ	noun
+בָּעִיר	noun
+מַשְׁחִתִים	verb
+אֲנַחְנוּ	pronoun
+גָדְלָה	verb
+צַעֲקָתָם	noun
+וַיְשַׁלְּחֵנוּ	verb
+לְשַׁחֲתָהּ	verb
+חֲתָנָיו	verb
+לֹקְחֵי	verb
+בְנֹתָיו	verb
+קוּמוּ	noun
+צְּאוּ	adjective
+מַשְׁחִית	direct
+כִמְצַחֵק	noun
+הַשַּׁחַר	noun
+עָלָה	verb
+וַיָּאִיצוּ	verb
+קוּם	verb
+בְנֹתֶיךָ	noun
+הַנִּמְצָאֹת	verb
+תִּסָּפֶה	verb
+וַיַּחֲזִקוּ	noun
+וּבְיַד	cardinal
+בְּחֶמְלַת	proper
+וַיֹּצִאֻהוּ	verb
+וַיַּנִּחֻהוּ	noun
+מִחוּץ	noun
+לָעִיר	noun
+הִמָּלֵט	verb
+נַפְשֶׁךָ	noun
+תַּבִּיט	adverb
+וְאַל	adverb
+תַּעֲמֹד	adverb
+עַבְדְּךָ	noun
+וַתַּגְדֵּל	verb
+חַסְדְּךָ	noun
+אוּכַל	verb
+לְהִמָּלֵט	verb
+תִּדְבָּקַנִי	verb
+הָרָעָה	adjective
+קְרֹבָה	adjective
+לָנוּס	verb
+וְהִיא	pronoun
+מִצְעָר	noun
+אִמָּלְטָה	verb
+הֲלֹא	interrogative
+וּתְחִי	verb
+נָשָׂאתִי	verb
+לַדָּבָר	noun
+הָפְכִּי	verb
+בֹּאֲךָ	verb
+גָּפְרִית	noun
+וָאֵשׁ	noun
+הֶעָרִים	noun
+יֹשְׁבֵי	noun
+וְצֶמַח	noun
+מֵאַחֲרָיו	preposition
+נְצִיב	noun
+מֶלַח	noun
+בַּבֹּקֶר	noun
+עָמַד	relative
+קִיטֹר	noun
+כְּקִיטֹר	noun
+הַכִּבְשָׁן	noun
+בְּשַׁחֵת	verb
+עָרֵי	direct
+וַיִּזְכֹּר	verb
+הַהֲפֵכָה	noun
+בַּהֲפֹךְ	verb
+בָּהֵן	preposition
+בָּהָר	noun
+וּשְׁתֵּי	cardinal
+יָרֵא	verb
+בַּמְּעָרָה	noun
+הַבְּכִירָה	adjective
+הַצְּעִירָה	adjective
+אָבִינוּ	noun
+וְאִישׁ	noun
+עָלֵינוּ	preposition
+כְּדֶרֶךְ	noun
+נַשְׁקֶה	verb
+יַיִן	noun
+וְנִשְׁכְּבָה	verb
+וּנְחַיֶּה	verb
+מֵאָבִינוּ	noun
+אֲבִיהֶן	direct
+בַּלַּיְלָה	noun
+וַתָּבֹא	verb
+וַתִּשְׁכַּב	verb
+אָבִיהָ	direct
+בְּשִׁכְבָהּ	verb
+שָׁכַבְתִּי	interjection
+אֶמֶשׁ	adverb
+אָבִי	direct
+נַשְׁקֶנּוּ	verb
+וּבֹאִי	verb
+שִׁכְבִי	verb
+יָיִן	noun
+וַתָּקָם	verb
+עַמִּי	proper
+הַנֶּגֶב	proper
+וַיָּגָר	verb
+אֲבִימֶלֶךְ	proper
+גְּרָר	proper
+הִנְּךָ	interjection
+מֵת	verb
+לָקַחְתָּ	relative
+וְהִוא	pronoun
+בְּעֻלַת	verb
+בָּעַל	verb
+קָרַב	verb
+תַּהֲרֹג	adverb
+לְבָבִי	noun
+וּבְנִקְיֹן	noun
+כַּפַּי	noun
+בַּחֲלֹם	noun
+לְבָבְךָ	noun
+וָאֶחְשֹׂךְ	verb
+לִנְגֹּעַ	verb
+הָשֵׁב	verb
+הָאִישׁ	noun
+נָבִיא	noun
+וְיִתְפַּלֵּל	verb
+וֶחְיֵה	verb
+אֵינְךָ	adverb
+מֵשִׁיב	verb
+דַּע	verb
+עֲבָדָיו	noun
+בְּאָזְנֵיהֶם	noun
+וַיִּירְאוּ	verb
+לְאַבְרָהָם	proper
+וּמֶה	pronoun
+חָטָאתִי	pronoun
+הֵבֵאתָ	verb
+עָלַי	preposition
+מַמְלַכְתִּי	noun
+חֲטָאָה	noun
+מַעֲשִׂים	noun
+מָה	pronoun
+רָאִיתָ	verb
+הַדָּבָר	direct
+אָמַרְתִּי	verb
+יִרְאַת	adverb
+וַהֲרָגוּנִי	verb
+אִשְׁתִּי	noun
+אָמְנָה	adverb
+בַת	noun
+אִמִּי	noun
+הִתְעוּ	verb
+מִבֵּית	noun
+וָאֹמַר	verb
+חַסְדֵּךְ	noun
+תַּעֲשִׂי	verb
+אִמְרִי	verb
+וַיָּשֶׁב	verb
+אַרְצִי	noun
+שֵׁב	verb
+אֶלֶף	cardinal
+לְאָחִיךְ	noun
+כְּסוּת	noun
+עֵינַיִם	noun
+וַיִּרְפָּא	verb
+וְאַמְהֹתָיו	noun
+עָצֹר	verb
+עָצַר	verb
+בְּעַד	preposition
+רֶחֶם	noun
+פָּקַד	verb
+דִּבֵּר	verb
+לִזְקֻנָיו	noun
+בְּהִוָּלֶד	verb
+צְחֹק	noun
+הַשֹּׁמֵעַ	noun
+מִלֵּל	verb
+הֵינִיקָה	verb
+יָלַדְתִּי	verb
+הַיֶּלֶד	noun
+וַיִּגָּמַל	verb
+הִגָּמֵל	verb
+מְצַחֵק	verb
+גָּרֵשׁ	verb
+הָאָמָה	noun
+בְּנָהּ	direct
+יִירַשׁ	verb
+בְּנִי	noun
+יֵרַע	adverb
+אֲמָתֶךָ	noun
+תֹּאמַר	verb
+שְׁמַע	verb
+בְּקֹלָהּ	noun
+בְיִצְחָק	proper
+אֲשִׂימֶנּוּ	verb
+וְחֵמַת	noun
+שָׂם	noun
+שִׁכְמָהּ	direct
+וַתֵּתַע	noun
+בְּמִדְבַּר	proper
+שָׁבַע	conjunction
+הַחֵמֶת	noun
+וַתַּשְׁלֵךְ	verb
+אַחַד	cardinal
+וַתֵּשֶׁב	verb
+מִנֶּגֶד	preposition
+הַרְחֵק	verb
+כִּמְטַחֲוֵי	verb
+קֶשֶׁת	noun
+אֶרְאֶה	adverb
+הַיָּלֶד	noun
+וַתִּשָּׂא	verb
+קֹלָהּ	direct
+וַתֵּבְךְּ	verb
+תִּירְאִי	verb
+בַּאֲשֶׁר	pronoun
+שְׂאִי	verb
+וְהַחֲזִיקִי	verb
+יָדֵךְ	direct
+עֵינֶיהָ	direct
+מָיִם	noun
+וַתְּמַלֵּא	verb
+וַתַּשְׁקְ	verb
+הַנָּעַר	noun
+וַיִּגְדָּל	verb
+רֹבֶה	verb
+מֵאֶרֶץ	noun
+מִצְרָיִם	proper
+בָּעֵת	noun
+וּפִיכֹל	proper
+שַׂר	noun
+עִמְּךָ	preposition
+הִשָּׁבְעָה	verb
+בֵאלֹהִים	noun
+תִּשְׁקֹר	verb
+וּלְנִינִי	noun
+וּלְנֶכְדִּי	noun
+כַּחֶסֶד	noun
+וְעִם	preposition
+גַּרְתָּה	relative
+בָּהּ	preposition
+גָּזְלוּ	verb
+עַבְדֵי	noun
+בִּלְתִּי	preposition
+לַאֲבִימֶלֶךְ	proper
+וַיִּכְרְתוּ	verb
+כִּבְשֹׂת	noun
+הַצֹּאן	noun
+כְּבָשֹׂת	noun
+הִצַּבְתָּ	verb
+מִיָּדִי	noun
+לְעֵדָה	noun
+חָפַרְתִּי	verb
+הַבְּאֵר	direct
+נִשְׁבְּעוּ	cardinal
+בִּבְאֵר	proper
+וַיָּשֻׁבוּ	verb
+אֶשֶׁל	noun
+רַבִּים	interjection
+וְהָאֱלֹהִים	noun
+נִסָּה	verb
+הִנֵּנִי	interjection
+יְחִידְךָ	preposition
+אָהַבְתָּ	relative
+הַמֹּרִיָּה	proper
+וְהַעֲלֵהוּ	verb
+לְעֹלָה	noun
+אֹמַר	verb
+וַיַּחֲבֹשׁ	verb
+נְעָרָיו	noun
+וַיְבַקַּע	verb
+עֹלָה	noun
+וַיִּשָּׂא	verb
+מֵרָחֹק	adjective
+שְׁבוּ	verb
+פֹּה	adverb
+וְהַנַּעַר	noun
+נֵלְכָה	verb
+וְנָשׁוּבָה	verb
+הָעֹלָה	noun
+הָאֵשׁ	direct
+הִנֶּנִּי	interjection
+בְנִי	noun
+וְהָעֵצִים	noun
+וְאַיֵּה	interrogative
+הַשֶּׂה	noun
+יִרְאֶה	relative
+וַיַּעֲרֹךְ	verb
+הָעֵצִים	direct
+מִמַּעַל	adverb
+לָעֵצִים	noun
+לִשְׁחֹט	verb
+תִּשְׁלַח	adverb
+יָדְךָ	noun
+תַּעַשׂ	adverb
+יְרֵא	noun
+חָשַׂכְתָּ	direct
+בִּנְךָ	direct
+מִמֶּנִּי	preposition
+אַיִל	interjection
+נֶאֱחַז	verb
+בַּסְּבַךְ	noun
+בְּקַרְנָיו	noun
+הָאַיִל	direct
+וַיַּעֲלֵהוּ	verb
+יֵאָמֵר	noun
+בְּהַר	proper
+יֵרָאֶה	negative
+שֵׁנִית	ordinal
+בִּי	preposition
+נִשְׁבַּעְתִּי	verb
+נְאֻם	noun
+יַעַן	adverb
+בָרֵךְ	verb
+אֲבָרֶכְךָ	verb
+וְהַרְבָּה	verb
+וְיִרַשׁ	verb
+שַׁעַר	noun
+אֹיְבָיו	verb
+בְזַרְעֲךָ	noun
+עֵקֶב	conjunction
+שָׁמַעְתָּ	verb
+בְּקֹלִי	noun
+וַיָּקֻמוּ	verb
+וַיֻּגַּד	verb
+בּוּז	direct
+קְמוּאֵל	direct
+כֶּשֶׂד	direct
+פִּלְדָּשׁ	direct
+יִדְלָף	direct
+בְּתוּאֵל	noun
+רִבְקָה	direct
+רְאוּמָה	proper
+טֶבַח	direct
+גַּחַם	direct
+תַּחַשׁ	direct
+מַעֲכָה	noun
+חַיֵּי	noun
+וְשֶׁבַע	cardinal
+בְּקִרְיַת	proper
+לִסְפֹּד	proper
+עִמָּכֶם	preposition
+תְּנוּ	verb
+אֲחֻזַּת	noun
+קֶבֶר	noun
+וְאֶקְבְּרָה	verb
+מֵתִי	verb
+מִלְּפָנָי	noun
+אֲדֹנִי	noun
+נְשִׂיא	noun
+בְּמִבְחַר	noun
+קְבָרֵינוּ	verb
+קְבֹר	direct
+מֵתֶךָ	noun
+יִכְלֶה	preposition
+מִקְּבֹר	verb
+לְעַם	noun
+לִבְנֵי	noun
+נַפְשְׁכֶם	noun
+לִקְבֹּר	verb
+מִלְּפָנַי	noun
+שְׁמָעוּנִי	verb
+צֹחַר	noun
+מְעָרַת	direct
+הַמַּכְפֵּלָה	proper
+בִּקְצֵה	noun
+שָׂדֵהוּ	noun
+בְּכֶסֶף	noun
+מָלֵא	adjective
+יִתְּנֶנָּה	verb
+קָבֶר	noun
+וַיַּעַן	verb
+בְּאָזְנֵי	noun
+בָּאֵי	verb
+שְׁמָעֵנִי	verb
+וְהַמְּעָרָה	noun
+נְתַתִּיהָ	verb
+לְעֵינֵי	noun
+שֶׁקֶל	noun
+וּבֵינְךָ	preposition
+מֵתְךָ	direct
+וַיִּשְׁקֹל	verb
+לְעֶפְרֹן	proper
+הַכֶּסֶף	direct
+עֹבֵר	verb
+בַּמַּכְפֵּלָה	relative
+סָבִיב	adverb
+לְמִקְנָה	noun
+קָבַר	verb
+וַיהוָה	proper
+בֵּרַךְ	verb
+בַּכֹּל	noun
+זְקַן	adjective
+הַמֹּשֵׁל	verb
+שִׂים	verb
+יְרֵכִי	verb
+וֵאלֹהֵי	noun
+תִקַּח	negative
+לִבְנִי	noun
+תֵּלֵךְ	verb
+וְלָקַחְתָּ	verb
+לְיִצְחָק	proper
+הָעֶבֶד	noun
+תֹאבֶה	negative
+אַחֲרַי	preposition
+אָשִׁיב	verb
+יָצָאתָ	relative
+הִשָּׁמֶר	verb
+תָּשִׁיב	verb
+לְקָחַנִי	noun
+וּמֵאֶרֶץ	noun
+נִשְׁבַּע	verb
+וְנִקִּיתָ	verb
+מִשְּׁבֻעָתִי	noun
+תָשֵׁב	verb
+יֶרֶךְ	noun
+אֲדֹנָיו	noun
+וַיִּשָּׁבַע	verb
+גְמַלִּים	noun
+מִגְּמַלֵּי	noun
+טוּב	noun
+אֲרַם	proper
+נַהֲרַיִם	verb
+הַגְּמַלִּים	noun
+צֵאת	verb
+וַעֲשֵׂה	verb
+חֶסֶד	preposition
+נִצָּב	verb
+יֹצְאֹת	verb
+לִשְׁאֹב	verb
+הַנַּעֲרָ	noun
+כַדֵּךְ	noun
+וְאֶשְׁתֶּה	verb
+וְאָמְרָה	verb
+שְׁתֵה	verb
+גְּמַלֶּיךָ	noun
+אַשְׁקֶה	verb
+הֹכַחְתָּ	verb
+לְעַבְדְּךָ	noun
+וּבָהּ	preposition
+יֹצֵאת	verb
+יֻלְּדָה	verb
+לִבְתוּאֵל	proper
+וְכַדָּהּ	noun
+טֹבַת	adjective
+בְּתוּלָה	noun
+יְדָעָהּ	verb
+וַתֵּרֶד	verb
+הָעַיְנָה	noun
+כַדָּהּ	noun
+לִקְרָאתָהּ	verb
+הַגְמִיאִינִי	verb
+וַתְּמַהֵר	verb
+וַתֹּרֶד	verb
+כַּדָּהּ	noun
+יָדָהּ	noun
+וַתַּשְׁקֵהוּ	verb
+לִגְמַלֶּיךָ	noun
+אֶשְׁאָב	verb
+כִּלּוּ	verb
+לִשְׁתֹּת	verb
+וַתְּעַר	verb
+הַשֹּׁקֶת	noun
+וַתָּרָץ	verb
+וַתִּשְׁאַב	verb
+מִשְׁתָּאֵה	verb
+מַחֲרִישׁ	verb
+נֶזֶם	noun
+זָהָב	noun
+בֶּקַע	noun
+וּשְׁנֵי	cardinal
+צְמִידִים	noun
+אַתְּ	pronoun
+הַגִּידִי	verb
+הֲיֵשׁ	interrogative
+אָבִיךְ	noun
+לָנוּ	preposition
+תֶּבֶן	noun
+רַב	adjective
+עִמָּנוּ	preposition
+לָלוּן	verb
+עָזַב	negative
+מֵעִם	preposition
+בַּדֶּרֶךְ	noun
+נָחַנִי	verb
+אֲחֵי	noun
+וַתַּגֵּד	verb
+אִמָּהּ	noun
+כַּדְּבָרִים	noun
+אָח	noun
+לָבָן	proper
+הָעָיִן	noun
+כִּרְאֹת	direct
+הַנֶּזֶם	direct
+הַצְּמִדִים	noun
+יְדֵי	noun
+דִּבְרֵי	proper
+דִבֶּר	preposition
+בְּרוּךְ	verb
+תַעֲמֹד	verb
+פִּנִּיתִי	verb
+לַגְּמַלִּים	noun
+הַבַּיְתָה	noun
+וַיְפַתַּח	verb
+וּמַיִם	noun
+לִרְחֹץ	verb
+רַגְלָיו	noun
+וְרַגְלֵי	noun
+לְפָנָיו	verb
+לֶאֱכֹל	negative
+אֹכַל	verb
+דִּבַּרְתִּי	verb
+דְּבָרָי	verb
+דַּבֵּר	verb
+וְכֶסֶף	noun
+וְזָהָב	noun
+וַעֲבָדִם	noun
+לַאדֹנִי	verb
+זִקְנָתָהּ	noun
+מִשְׁפַּחְתִּי	noun
+אֻלַי	adverb
+אַחֲרָי	preposition
+אֵלָי	preposition
+הִתְהַלַּכְתִּי	relative
+וְהִצְלִיחַ	verb
+דַּרְכֶּךָ	noun
+מִמִּשְׁפַּחְתִּי	noun
+תִּנָּקֶה	verb
+מֵאָלָתִי	noun
+יִתְּנוּ	verb
+נָקִי	adjective
+יֶשְׁךָ	adverb
+מַצְלִיחַ	verb
+דַּרְכִּי	noun
+עָלֶיהָ	preposition
+הָעַלְמָה	noun
+הַיֹּצֵאת	verb
+וְאָמַרְתִּי	verb
+הַשְׁקִינִי	verb
+הֹכִיחַ	relative
+אֲכַלֶּה	verb
+לִבִּי	noun
+וַתִּשְׁאָב	verb
+מֵעָלֶיהָ	preposition
+וָאֵשְׁתְּ	verb
+וָאָשִׂם	verb
+אַפָּהּ	noun
+וְהַצְּמִידִים	noun
+וָאֲבָרֵךְ	verb
+הִנְחַנִי	verb
+אֱמֶת	noun
+יֶשְׁכֶם	adverb
+עֹשִׂים	verb
+וֶאֱמֶת	adverb
+הַגִּידוּ	verb
+וְאֶפְנֶה	verb
+יָמִין	noun
+וּבְתוּאֵל	proper
+נוּכַל	verb
+וּתְהִי	verb
+אֲדֹנֶיךָ	noun
+דִּבְרֵיהֶם	direct
+כְּלֵי	noun
+כֶסֶף	noun
+וּכְלֵי	noun
+וּבְגָדִים	noun
+לְרִבְקָה	proper
+וּמִגְדָּנֹת	noun
+נָתַן	verb
+לְאָחִיהָ	noun
+וַיִּשְׁתּוּ	verb
+וְהָאֲנָשִׁים	noun
+וַיָּלִינוּ	verb
+וַיָּקוּמוּ	verb
+בַבֹּקֶר	noun
+שַׁלְּחֻנִי	verb
+אָחִיהָ	noun
+וְאִמָּהּ	noun
+תֵּשֵׁב	verb
+אִתָּנוּ	preposition
+תְּאַחֲרוּ	adverb
+הִצְלִיחַ	verb
+שַׁלְּחוּנִי	verb
+וְאֵלְכָה	verb
+נִקְרָא	verb
+וְנִשְׁאֲלָה	verb
+הֲתֵלְכִי	interrogative
+אֵלֵךְ	verb
+אֲחֹתָם	noun
+מֵנִקְתָּהּ	direct
+אֲנָשָׁיו	noun
+אֲחֹתֵנוּ	noun
+הֲיִי	verb
+לְאַלְפֵי	cardinal
+רְבָבָה	cardinal
+וְיִירַשׁ	verb
+וְנַעֲרֹתֶיהָ	noun
+וַתִּרְכַּבְנָה	verb
+וַתֵּלַכְנָה	verb
+וַיֵּלַךְ	verb
+לָשׂוּחַ	verb
+עָרֶב	noun
+וַתִּפֹּל	verb
+הַגָּמָל	noun
+הַלָּזֶה	adjective
+לִקְרָאתֵנוּ	verb
+הַצָּעִיף	noun
+וַיֶּאֱהָבֶהָ	verb
+וַיִּנָּחֵם	verb
+קְטוּרָה	proper
+זִמְרָן	direct
+יָקְשָׁן	direct
+מְדָן	direct
+מִדְיָן	direct
+יִשְׁבָּק	direct
+דְּדָן	direct
+דְדָן	proper
+אַשּׁוּרִם	proper
+וּלְטוּשִׁים	proper
+וּלְאֻמִּים	noun
+עֵיפָה	proper
+וָעֵפֶר	proper
+וַחֲנֹךְ	proper
+וַאֲבִידָע	proper
+וְאֶלְדָּעָה	proper
+מַתָּנֹת	noun
+וַיְשַׁלְּחֵם	verb
+קֵדְמָה	adverb
+קֶדֶם	noun
+וְחָמֵשׁ	cardinal
+וְשָׂבֵעַ	adjective
+וַיֵּאָסֶף	verb
+עַמָּיו	noun
+עֶפְרֹן	proper
+קָנָה	relative
+קֻבַּר	verb
+תֹּלְדֹת	noun
+בִּשְׁמֹתָם	noun
+בְּכֹר	noun
+נְבָיֹת	proper
+וְקֵדָר	proper
+וְאַדְבְּאֵל	proper
+וְדוּמָה	proper
+וּמַשָּׂא	noun
+וְתֵימָא	proper
+יְטוּר	proper
+נָפִישׁ	proper
+וְאֵלֶּה	adjective
+שְׁמֹתָם	noun
+בְּחַצְרֵיהֶם	noun
+וַיִּגְוַע	verb
+אַשּׁוּרָה	proper
+נָפָל	verb
+הָאֲרַמִּי	preposition
+מִפַּדַּן	proper
+לְנֹכַח	preposition
+וַיֵּעָתֶר	verb
+הַבָּנִים	noun
+לִדְרֹשׁ	verb
+בְּבִטְנֵךְ	noun
+לְאֻמִּים	verb
+מִמֵּעַיִךְ	noun
+יִפָּרֵדוּ	noun
+וּלְאֹם	verb
+מִלְאֹם	adjective
+וְרַב	adjective
+יַעֲבֹד	verb
+צָעִיר	pronoun
+יָמֶיהָ	noun
+כְּאַדֶּרֶת	noun
+שֵׂעָר	noun
+וַיִּקְרְאוּ	verb
+עֵשָׂו	proper
+אֹחֶזֶת	verb
+בַּעֲקֵב	noun
+יַעֲקֹב	proper
+וְיִצְחָק	proper
+שִׁשִּׁים	noun
+שָׂדֶה	noun
+וְיַעֲקֹב	proper
+תָּם	adjective
+אֹהָלִים	noun
+בְּפִיו	noun
+וְרִבְקָה	proper
+אֹהֶבֶת	verb
+נָזִיד	noun
+עָיֵף	adjective
+הַלְעִיטֵנִי	verb
+הָאָדֹם	adjective
+מִכְרָה	verb
+לָמוּת	verb
+וַיִּמְכֹּר	verb
+לְיַעֲקֹב	proper
+לְעֵשָׂו	proper
+וּנְזִיד	noun
+עֲדָשִׁים	noun
+וַיֵּשְׁתְּ	verb
+וַיִּבֶז	verb
+מִלְּבַד	noun
+תֵּרֵד	adverb
+שְׁכֹן	verb
+וַאֲבָרְכֶךָּ	verb
+הָאֲרָצֹת	noun
+הַשְּׁבֻעָה	direct
+וְנָתַתִּי	verb
+וְהִתְבָּרֲכוּ	verb
+וַיִּשְׁמֹר	verb
+מִשְׁמַרְתִּי	noun
+וַיַּשְׁקֵף	verb
+וְאֵיךְ	interjection
+אָמוּת	verb
+כִּמְעַט	adjective
+שָׁכַב	verb
+וְהֵבֵאתָ	verb
+אָשָׁם	noun
+הַנֹּגֵעַ	verb
+בָּאִישׁ	noun
+יוּמָת	verb
+וַיִּמְצָא	verb
+שְׁעָרִים	noun
+וַיְבָרֲכֵהוּ	verb
+וְגָדֵל	verb
+גָדַל	verb
+וּמִקְנֵה	noun
+בָקָר	noun
+וַעֲבֻדָּה	noun
+וַיְקַנְאוּ	verb
+הַבְּאֵרֹת	noun
+חָפְרוּ	verb
+סִתְּמוּם	verb
+וַיְמַלְאוּם	verb
+לֵךְ	verb
+מֵעִמָּנוּ	preposition
+וַיִּחַן	verb
+בְּנַחַל	noun
+וַיַּחְפֹּר	verb
+בְּאֵרֹת	noun
+וַיְסַתְּמוּם	proper
+כַּשֵּׁמֹת	relative
+בַּנָּחַל	noun
+גְרָר	proper
+עֵשֶׂק	proper
+אַחֶרֶת	adjective
+וַיָּרִיבוּ	verb
+שִׂטְנָה	noun
+רָבוּ	verb
+הִרְחִיב	verb
+וּפָרִינוּ	verb
+עַבְדִּי	noun
+הָלַךְ	verb
+מִגְּרָר	proper
+וַאֲחֻזַּת	proper
+מֵרֵעֵהוּ	negative
+מַדּוּעַ	adverb
+בָּאתֶם	verb
+וְאַתֶּם	pronoun
+שְׂנֵאתֶם	verb
+וַתְּשַׁלְּחוּנִי	verb
+מֵאִתְּכֶם	preposition
+רָאִינוּ	verb
+עִמָּךְ	verb
+וַנֹּאמֶר	verb
+תְּהִי	interjection
+אָלָה	preposition
+בֵּינֵינוּ	preposition
+רָעָה	adjective
+וְכַאֲשֶׁר	relative
+עָשִׂינוּ	verb
+וַיֹּאכְלוּ	verb
+וַיִּשָּׁבְעוּ	verb
+לְאָחִיו	noun
+וַיַּגִּדוּ	preposition
+חָפָרוּ	verb
+מָצָאנוּ	noun
+יְהוּדִית	direct
+בְּאֵרִי	noun
+בָּשְׂמַת	direct
+אֵילֹן	noun
+מֹרַת	noun
+וּלְרִבְקָה	proper
+וַתִּכְהֶיןָ	verb
+מֵרְאֹת	verb
+כֵלֶיךָ	noun
+תֶּלְיְךָ	noun
+וְקַשְׁתֶּךָ	noun
+וְצֵא	verb
+וְצוּדָה	verb
+מַטְעַמִּים	noun
+אָהַבְתִּי	verb
+וְהָבִיאָה	verb
+וְאֹכֵלָה	verb
+תְּבָרֶכְךָ	verb
+בְּטֶרֶם	adverb
+בְּדַבֵּר	verb
+לָצוּד	verb
+לְהָבִיא	verb
+מְדַבֵּר	verb
+וַאֲבָרֶכְכָה	verb
+לַאֲשֶׁר	relative
+מְצַוָּה	verb
+וְקַח	verb
+גְּדָיֵי	noun
+עִזִּים	noun
+טֹבִים	adjective
+וְאֶעֱשֶׂה	verb
+לְאָבִיךָ	noun
+אָהֵב	verb
+וְאָכָל	verb
+בַּעֲבֻר	noun
+יְבָרֶכְךָ	verb
+שָׂעִר	adjective
+חָלָק	adjective
+יְמֻשֵּׁנִי	verb
+בְעֵינָיו	noun
+כִּמְתַעְתֵּעַ	verb
+וְהֵבֵאתִי	verb
+קְלָלָה	noun
+בְרָכָה	noun
+קִלְלָתְךָ	noun
+וְלֵךְ	verb
+וַתַּעַשׂ	verb
+בִּגְדֵי	direct
+הַחֲמֻדֹת	noun
+אִתָּהּ	preposition
+בַּבָּיִת	noun
+וַתַּלְבֵּשׁ	verb
+עֹרֹת	noun
+הָעִזִּים	noun
+הִלְבִּישָׁה	verb
+יָדָיו	noun
+חֶלְקַת	noun
+צַוָּארָיו	noun
+הַמַּטְעַמִּים	direct
+הַלֶּחֶם	direct
+עָשָׂתָה	verb
+בְּיַד	noun
+בְּכֹרֶךָ	noun
+שְׁבָה	verb
+וְאָכְלָה	verb
+מִצֵּידִי	noun
+תְּבָרֲכַנִּי	verb
+מִהַרְתָּ	verb
+הִקְרָה	verb
+אֱלֹהֶיךָ	noun
+לְפָנָי	noun
+הַאַתָּה	interrogative
+וַיְמֻשֵּׁהוּ	verb
+הַקֹּל	noun
+וְהַיָּדַיִם	noun
+כִּידֵי	noun
+שְׂעִרֹת	adjective
+אָנִי	pronoun
+הַגִּשָׁה	verb
+מִצֵּיד	noun
+וַיִּשַּׁק	verb
+וַיָּרַח	verb
+בְּגָדָיו	noun
+רְאֵה	verb
+כְּרֵיחַ	noun
+מִטַּל	noun
+וּמִשְׁמַנֵּי	noun
+וְרֹב	noun
+דָּגָן	noun
+וְתִירֹשׁ	noun
+הֱוֵה	noun
+גְבִיר	verb
+לְאַחֶיךָ	preposition
+אִמֶּךָ	verb
+אֹרְרֶיךָ	verb
+לְבָרֵךְ	verb
+יָצֹא	verb
+וְעֵשָׂו	proper
+לְאָבִיו	noun
+יָקֻם	verb
+וְיֹאכַל	verb
+חֲרָדָה	noun
+גְּדֹלָה	adjective
+וָאֹכַל	verb
+וָאֲבָרֲכֵהוּ	verb
+וַיִּצְעַק	verb
+צְעָקָה	noun
+וּמָרָה	adjective
+בָּרֲכֵנִי	verb
+בְּמִרְמָה	noun
+הֲכִי	interrogative
+פַעֲמַיִם	noun
+בְּכֹרָתִי	direct
+לָקָח	verb
+בִּרְכָתִי	noun
+אָצַלְתָּ	interrogative
+גְּבִיר	noun
+שַׂמְתִּיו	verb
+לַעֲבָדִים	noun
+וְדָגָן	noun
+סְמַכְתִּיו	verb
+וּלְכָה	preposition
+וַיֵּבְךְּ	verb
+מִשְׁמַנֵּי	noun
+וּמִטַּל	noun
+מֵעָל	noun
+חַרְבְּךָ	noun
+תִחְיֶה	verb
+תַּעֲבֹד	verb
+תָּרִיד	verb
+וּפָרַקְתָּ	verb
+צַוָּארֶךָ	noun
+הַבְּרָכָה	noun
+יִקְרְבוּ	verb
+אֵבֶל	noun
+וַתִּשְׁלַח	verb
+מִתְנַחֵם	verb
+לְהָרְגֶךָ	verb
+וְקוּם	verb
+בְּרַח	verb
+חֲמַת	noun
+וְשָׁכַח	verb
+וְשָׁלַחְתִּי	verb
+וּלְקַחְתִּיךָ	verb
+לָמָה	pronoun
+אֶשְׁכַּל	verb
+שְׁנֵיכֶם	cardinal
+קַצְתִּי	verb
+בְחַיַּי	noun
+לֹקֵחַ	verb
+כָּאֵלֶּה	adjective
+וַיְצַוֵּהוּ	verb
+בֵּיתָה	proper
+בְתוּאֵל	noun
+יְבָרֵךְ	verb
+וְיַפְרְךָ	verb
+וְיַרְבֶּךָ	verb
+לִקְהַל	noun
+בִּרְכַּת	direct
+לְרִשְׁתְּךָ	verb
+בֵרַךְ	verb
+וְשִׁלַּח	verb
+וַיְצַו	verb
+מָחֲלַת	direct
+נָשָׁיו	preposition
+מִבְּאֵר	proper
+וַיָּלֶן	verb
+בָא	verb
+מֵאַבְנֵי	noun
+מְרַאֲשֹׁתָיו	noun
+וַיִּשְׁכַּב	verb
+סֻלָּם	noun
+מֻצָּב	verb
+מַגִּיעַ	verb
+הַשָּׁמָיְמָה	noun
+מַלְאֲכֵי	noun
+עֹלִים	verb
+וְיֹרְדִים	verb
+שֹׁכֵב	verb
+וּפָרַצְתָּ	verb
+יָמָּה	noun
+וְצָפֹנָה	noun
+וְנִבְרֲכוּ	verb
+וּשְׁמַרְתִּיךָ	verb
+וַהֲשִׁבֹתִיךָ	verb
+אָכֵן	adverb
+יָדָעְתִּי	verb
+הָאֶבֶן	direct
+מַצֵּבָה	noun
+וַיִּצֹק	verb
+שֶׁמֶן	noun
+רֹאשָׁהּ	direct
+וְאוּלָם	conjunction
+לוּז	proper
+נֶדֶר	noun
+וּשְׁמָרַנִי	verb
+וְנָתַן	verb
+וּבֶגֶד	noun
+לִלְבֹּשׁ	direct
+שַׂמְתִּי	relative
+עַשֵּׂר	verb
+אֲעַשְּׂרֶנּוּ	verb
+בְאֵר	noun
+עֶדְרֵי	noun
+רֹבְצִים	verb
+יַשְׁקוּ	verb
+הָעֲדָרִים	noun
+וְהָאֶבֶן	noun
+פִּי	noun
+וְגָלֲלוּ	verb
+וְהִשְׁקוּ	verb
+וְהֵשִׁיבוּ	verb
+מֵאַיִן	adverb
+אַתֶּם	pronoun
+הַיְדַעְתֶּם	interrogative
+רָחֵל	proper
+עֵת	negative
+הֵאָסֵף	verb
+הַמִּקְנֶה	noun
+הַשְׁקוּ	verb
+וּלְכוּ	verb
+יֵאָסְפוּ	verb
+וְהִשְׁקִינוּ	verb
+וְרָחֵל	proper
+לְאָבִיהָ	conjunction
+רֹעָה	pronoun
+רָאָה	verb
+וַיִּגַּשׁ	verb
+וַיָּגֶל	verb
+וַיַּשְׁקְ	verb
+לְרָחֵל	proper
+כִשְׁמֹעַ	verb
+שֵׁמַע	direct
+וַיְבִיאֵהוּ	noun
+וַיְסַפֵּר	verb
+לְלָבָן	direct
+עַצְמִי	noun
+וּבְשָׂרִי	noun
+חֹדֶשׁ	noun
+וַעֲבַדְתַּנִי	verb
+חִנָּם	adverb
+הַגִּידָה	verb
+לֵאָה	proper
+הַקְּטַנָּה	adjective
+תֹּאַר	adjective
+וִיפַת	adjective
+בְּרָחֵל	proper
+בִּתְּךָ	noun
+תִּתִּי	verb
+מִתִּתִּי	verb
+לְאִישׁ	noun
+וַיִּהְיוּ	verb
+כְּיָמִים	noun
+מָלְאוּ	verb
+יָמָי	noun
+בָעֶרֶב	noun
+זִלְפָּה	direct
+לְלֵאָה	proper
+בְרָחֵל	proper
+עָבַדְתִּי	verb
+רִמִּיתָנִי	verb
+יֵעָשֶׂה	negative
+לָתֵת	verb
+שְׁבֻעַ	noun
+וְנִתְּנָה	verb
+בַּעֲבֹדָה	noun
+וַיְמַלֵּא	verb
+בִּלְהָה	direct
+לְשִׁפְחָה	noun
+וַיֶּאֱהַב	verb
+מִלֵּאָה	proper
+וַיַּעֲבֹד	verb
+שְׂנוּאָה	verb
+רַחְמָהּ	direct
+רְאוּבֵן	proper
+בְּעָנְיִי	noun
+יֶאֱהָבַנִי	verb
+אִישִׁי	noun
+יִלָּוֶה	verb
+לֵוִי	proper
+קָרְאָה	verb
+יְהוּדָה	proper
+וַתַּעֲמֹד	verb
+וַתְּקַנֵּא	verb
+בַּאֲחֹתָהּ	noun
+מֵתָה	verb
+הֲתַחַת	interrogative
+מָנַע	relative
+מִמֵּךְ	preposition
+אֲמָתִי	noun
+בִלְהָה	proper
+וְתֵלֵד	verb
+בִּרְכַּי	noun
+וְאִבָּנֶה	verb
+דָּנַנִּי	verb
+נַפְתּוּלֵי	noun
+נִפְתַּלְתִּי	noun
+יָכֹלְתִּי	verb
+נַפְתָּלִי	proper
+עָמְדָה	verb
+גָּד	proper
+בְּאָשְׁרִי	noun
+אִשְּׁרוּנִי	verb
+אָשֵׁר	proper
+קְצִיר	noun
+חִטִּים	noun
+תְּנִי	verb
+מִדּוּדָאֵי	noun
+בְּנֵךְ	noun
+הַמְעַט	interrogative
+קַחְתֵּךְ	verb
+וְלָקַחַת	verb
+דּוּדָאֵי	noun
+יִשְׁכַּב	verb
+בְנֵךְ	verb
+וַתֵּצֵא	verb
+שָׂכֹר	verb
+שְׂכַרְתִּיךָ	verb
+בְּדוּדָאֵי	noun
+שְׂכָרִי	noun
+לְאִישִׁי	noun
+יִשָּׂשכָר	proper
+שִׁשִּׁי	noun
+זְבָדַנִי	verb
+זֵבֶד	adjective
+יִזְבְּלֵנִי	noun
+שִׁשָּׁה	noun
+זְבֻלוּן	proper
+דִּינָה	direct
+אָסַף	verb
+חֶרְפָּתִי	noun
+יֹסֵף	verb
+שַׁלְּחֵנִי	verb
+נָשַׁי	direct
+יְלָדַי	direct
+וְאֵלֵכָה	verb
+יָדַעְתָּ	verb
+עֲבֹדָתִי	direct
+עֲבַדְתִּיךָ	verb
+נִחַשְׁתִּי	verb
+וַיְבָרֲכֵנִי	verb
+נָקְבָה	verb
+וְאֶתֵּנָה	noun
+מִקְנְךָ	noun
+וַיִּפְרֹץ	verb
+לְרַגְלִי	noun
+מָתַי	interrogative
+לְבֵיתִי	noun
+מְאוּמָה	noun
+אָשׁוּבָה	verb
+אֶרְעֶה	verb
+צֹאנְךָ	noun
+אֶשְׁמֹר	verb
+הָסֵר	verb
+שֶׂה	noun
+נָקֹד	verb
+וְטָלוּא	adjective
+חוּם	noun
+בַּכְּשָׂבִים	verb
+וְנָקֹד	noun
+בָּעִזִּים	verb
+צִדְקָתִי	noun
+מָחָר	adverb
+אֵינֶנּוּ	relative
+וְחוּם	adjective
+גָּנוּב	verb
+הַתְּיָשִׁים	direct
+וְהַטְּלֻאִים	verb
+וְהַטְּלֻאֹת	verb
+שְׁלֹשֶׁת	cardinal
+רֹעֶה	verb
+מַקַּל	noun
+לִבְנֶה	noun
+לַח	adjective
+וְלוּז	noun
+וַיְפַצֵּל	verb
+מַחְשֹׂף	noun
+הַלָּבָן	adjective
+פִּצֵּל	verb
+בָּרֳהָטִים	noun
+תָּבֹאןָ	verb
+וַיֵּחַמְנָה	verb
+בְּבֹאָן	verb
+וַתֵּלַדְןָ	verb
+עֲקֻדִּים	adjective
+נְקֻדִּים	adjective
+הִפְרִיד	verb
+עָקֹד	adjective
+בְּצֹאן	noun
+וַיָּשֶׁת	verb
+עֲדָרִים	noun
+שָׁתָם	verb
+יַחֵם	noun
+וְשָׂם	verb
+לְיַחְמֵנָּה	verb
+יָשִׂים	verb
+הָעֲטֻפִים	noun
+וְהַקְּשֻׁרִים	verb
+לְאָבִינוּ	noun
+וּמֵאֲשֶׁר	relative
+הַכָּבֹד	noun
+וּלְלֵאָה	proper
+אֲבִיכֶן	noun
+כִּתְמֹל	adverb
+שִׁלְשֹׁם	adverb
+יְדַעְתֶּן	verb
+כֹּחִי	noun
+הֵתֶל	verb
+וְהֶחֱלִף	verb
+מַשְׂכֻּרְתִּי	direct
+עֲשֶׂרֶת	cardinal
+מֹנִים	noun
+לְהָרַע	verb
+יֹאמַר	verb
+שְׂכָרֶךָ	noun
+אֲבִיכֶם	noun
+בְּעֵת	noun
+וָאֶשָּׂא	verb
+עֵינַי	noun
+וָאֵרֶא	verb
+הָעֹלִים	verb
+וּבְרֻדִּים	adjective
+מָשַׁחְתָּ	verb
+שָּׁם	adverb
+נָדַרְתָּ	verb
+צֵא	verb
+וְשׁוּב	verb
+וְלֵאָה	proper
+וַתֹּאמַרְנָה	verb
+חֵלֶק	noun
+וְנַחֲלָה	noun
+בְּבֵית	noun
+נֶחְשַׁבְנוּ	verb
+מְכָרָנוּ	verb
+כַּסְפֵּנוּ	noun
+הָעֹשֶׁר	noun
+הִצִּיל	verb
+וּלְבָנֵינוּ	noun
+עֲשֵׂה	verb
+מִקְנֵהוּ	direct
+רָכָשׁ	verb
+רָכַשׁ	verb
+בְּפַדַּן	proper
+לִגְזֹז	verb
+וַתִּגְנֹב	verb
+הַתְּרָפִים	direct
+בְּלִי	adverb
+בֹרֵחַ	verb
+וַיַּעֲבֹר	verb
+הַגִּלְעָד	noun
+בָרַח	verb
+וַיַּדְבֵּק	verb
+תְּדַבֵּר	verb
+רָע	adjective
+תָּקַע	verb
+וְלָבָן	proper
+וַתְּנַהֵג	verb
+בְּנֹתַי	direct
+חָרֶב	noun
+נַחְבֵּאתָ	verb
+לִבְרֹחַ	verb
+בְּשִׂמְחָה	noun
+וּבְשִׁרִים	noun
+בְּתֹף	noun
+נְטַשְׁתַּנִי	verb
+לְנַשֵּׁק	verb
+לְבָנַי	noun
+וְלִבְנֹתָי	noun
+מִדַּבֵּר	proper
+הָלֹךְ	verb
+הָלַכְתָּ	verb
+נִכְסֹף	verb
+נִכְסַפְתָּה	verb
+גָנַבְתָּ	verb
+אֱלֹהָי	noun
+יָרֵאתִי	verb
+תִּגְזֹל	verb
+תִּמְצָא	verb
+נֶגֶד	preposition
+אַחֵינוּ	noun
+בְּאֹהֶל	proper
+וּבְאֹהֶל	cardinal
+הָאֲמָהֹת	negative
+מֵאֹהֶל	proper
+לָקְחָה	verb
+וַתְּשִׂמֵם	verb
+בְּכַר	noun
+וַיְמַשֵּׁשׁ	verb
+לָקוּם	verb
+מִפָּנֶיךָ	noun
+דֶרֶךְ	noun
+וַיְחַפֵּשׂ	verb
+וַיָּרֶב	verb
+בְּלָבָן	proper
+פִּשְׁעִי	pronoun
+חַטָּאתִי	noun
+דָלַקְתָּ	verb
+מִשַּׁשְׁתָּ	verb
+כֵּלַי	direct
+מָּצָאתָ	pronoun
+בֵיתֶךָ	noun
+וְאַחֶיךָ	noun
+שְׁנֵינוּ	cardinal
+רְחֵלֶיךָ	noun
+וְעִזֶּיךָ	noun
+שִׁכֵּלוּ	verb
+וְאֵילֵי	noun
+אָכָלְתִּי	verb
+הֵבֵאתִי	negative
+אֲחַטֶּנָּה	verb
+תְּבַקְשֶׁנָּה	verb
+אֲכָלַנִי	verb
+חֹרֶב	noun
+וְקֶרַח	noun
+בַּלָּיְלָה	noun
+וַתִּדַּד	verb
+שְׁנָתִי	noun
+בְּבֵיתֶךָ	noun
+בִּשְׁתֵּי	cardinal
+בְּצֹאנֶךָ	noun
+וַתַּחֲלֵף	verb
+וּפַחַד	noun
+רֵיקָם	adverb
+שִׁלַּחְתָּנִי	verb
+עָנְיִי	direct
+וְהַבָּנִים	noun
+בָּנַי	noun
+וְהַצֹּאן	noun
+צֹאנִי	noun
+וְלִבְנֹתַי	noun
+לָאֵלֶּה	adjective
+לִבְנֵיהֶן	noun
+יָלָדוּ	verb
+לְכָה	verb
+נִכְרְתָה	verb
+וָאָתָּה	pronoun
+לְעֵד	noun
+אָבֶן	noun
+וַיְרִימֶהָ	verb
+לִקְטוּ	verb
+אֲבָנִים	noun
+גָל	verb
+יְגַר	proper
+שָׂהֲדוּתָא	proper
+הַגַּל	noun
+עֵד	noun
+יִצֶף	verb
+נִסָּתֵר	verb
+תְּעַנֶּה	verb
+יָרִיתִי	preposition
+וְעֵדָה	noun
+הַמַּצֵּבָה	direct
+אֶעֱבֹר	verb
+לְרָעָה	adjective
+יִשְׁפְּטוּ	verb
+בֵינֵינוּ	preposition
+בְּפַחַד	noun
+זֶבַח	noun
+לָחֶם	verb
+וַיְנַשֵּׁק	verb
+לְבָנָיו	noun
+אֶתְהֶם	direct
+וַיָּשָׁב	verb
+רָאָם	verb
+מַחֲנֵה	noun
+מַחֲנָיִם	proper
+מַלְאָכִים	noun
+תֹאמְרוּן	verb
+גַּרְתִּי	verb
+וָאֵחַר	verb
+עָתָּה	adverb
+וְעֶבֶד	noun
+וְשִׁפְחָה	noun
+וָאֶשְׁלְחָה	verb
+לְהַגִּיד	verb
+בָּאנוּ	verb
+וַיֵּצֶר	verb
+וַיַּחַץ	verb
+וְהַגְּמַלִּים	noun
+הַמַּחֲנֶה	noun
+וְהִכָּהוּ	verb
+הַנִּשְׁאָר	verb
+לִפְלֵיטָה	noun
+הָאֹמֵר	verb
+לְאַרְצְךָ	noun
+וְאֵיטִיבָה	verb
+הַחֲסָדִים	noun
+הָאֱמֶת	noun
+בְמַקְלִי	noun
+עָבַרְתִּי	verb
+הָיִיתִי	verb
+וְהִכַּנִי	verb
+הֵיטֵב	verb
+אֵיטִיב	verb
+וְשַׂמְתִּי	verb
+הַבָּא	verb
+וּתְיָשִׁים	noun
+רְחֵלִים	noun
+וְאֵילִים	noun
+וּבְנֵיהֶם	noun
+וּפָרִים	noun
+אֲתֹנֹת	noun
+עֵדֶר	noun
+עִבְרוּ	verb
+וְרֶוַח	noun
+תָּשִׂימוּ	verb
+לְמִי	pronoun
+וּלְמִי	pronoun
+שְׁלוּחָה	verb
+אַחֲרֵינוּ	preposition
+הַהֹלְכִים	direct
+תְּדַבְּרוּן	verb
+בְּמֹצַאֲכֶם	verb
+אֲכַפְּרָה	verb
+פָנָיו	noun
+בַּמִּנְחָה	noun
+הַהֹלֶכֶת	verb
+יִשָּׂא	verb
+פָנָי	direct
+הַמִּנְחָה	noun
+לָן	verb
+שִׁפְחֹתָיו	direct
+יְלָדָיו	verb
+מַעֲבַר	proper
+יַבֹּק	proper
+הַנָּחַל	direct
+וַיֵּאָבֵק	verb
+הַשָּׁחַר	noun
+יָכֹל	verb
+וַיִּגַּע	verb
+בְּכַף	noun
+וַתֵּקַע	verb
+כַּף	noun
+שְּׁמֶךָ	pronoun
+יִשְׂרָאֵל	proper
+שָׂרִיתָ	verb
+וַתּוּכָל	verb
+תִּשְׁאַל	verb
+לִשְׁמִי	noun
+פְּנִיאֵל	proper
+פָּנִים	noun
+וַתִּנָּצֵל	verb
+פְּנוּאֵל	direct
+צֹלֵעַ	verb
+יֹאכְלוּ	verb
+נָגַע	noun
+הַיְלָדִים	direct
+יַלְדֵיהֶן	direct
+רִאשֹׁנָה	adjective
+וִילָדֶיהָ	noun
+אַחֲרֹנִים	adjective
+פְּעָמִים	noun
+וַיִּפֹּל	verb
+וַיִּבְכּוּ	verb
+חָנַן	relative
+וְיַלְדֵיהֶן	noun
+וַיִּשְׁתַּחֲווּ	preposition
+נִגַּשׁ	verb
+פָּגָשְׁתִּי	verb
+מִנְחָתִי	noun
+הֻבָאת	verb
+חַנַּנִי	verb
+כֹל	adverb
+וַיִּקָּח	verb
+נִסְעָה	verb
+וְנֵלֵכָה	verb
+לְנֶגְדֶּךָ	noun
+רַכִּים	adjective
+וְהַבָּקָר	noun
+עָלָי	preposition
+וּדְפָקוּם	verb
+וָמֵתוּ	verb
+לְאִטִּי	adverb
+לְרֶגֶל	noun
+הַמְּלָאכָה	noun
+וּלְרֶגֶל	noun
+אָבֹא	relative
+שֵׂעִירָה	verb
+נָסַע	verb
+סֻכֹּתָה	proper
+וּלְמִקְנֵהוּ	noun
+סֻכֹּת	noun
+נָטָה	verb
+בְּמֵאָה	cardinal
+קְשִׂיטָה	verb
+דִינָה	proper
+וַיְעַנֶּהָ	verb
+בְּדִינָה	proper
+הַיַּלְדָּה	direct
+טִמֵּא	verb
+וְהֶחֱרִשׁ	verb
+בֹּאָם	verb
+כְּשָׁמְעָם	verb
+נְבָלָה	noun
+בְיִשְׂרָאֵל	proper
+לִשְׁכַּב	verb
+וְכֵן	adverb
+בְּבִתְּכֶם	noun
+אֹתָנוּ	direct
+בְּנֹתֵיכֶם	direct
+תִּתְּנוּ	verb
+בְּנֹתֵינוּ	direct
+תִּקְחוּ	verb
+תֵּשֵׁבוּ	verb
+לִפְנֵיכֶם	noun
+וּסְחָרוּהָ	verb
+וְהֵאָחֲזוּ	verb
+אַחֶיהָ	noun
+תֹּאמְרוּ	verb
+מֹהַר	noun
+וּמַתָּן	noun
+וְאֶתְּנָה	verb
+וּתְנוּ	verb
+וַיְדַבֵּרוּ	verb
+עָרְלָה	noun
+חֶרְפָּה	noun
+בְּזֹאת	adverb
+תִּהְיוּ	verb
+כָמֹנוּ	preposition
+לְהִמֹּל	verb
+נִקַּח	verb
+וְיָשַׁבְנוּ	verb
+וְהָיִינוּ	verb
+תִשְׁמְעוּ	verb
+וְלָקַחְנוּ	verb
+בִּתֵּנוּ	direct
+דִבְרֵיהֶם	noun
+וּבְעֵינֵי	noun
+אֵחַר	negative
+חָפֵץ	verb
+נִכְבָּד	verb
+וּשְׁכֶם	proper
+עִירָם	noun
+וַיְדַבְּרוּ	verb
+שְׁלֵמִים	adverb
+וְיֵשְׁבוּ	verb
+וְיִסְחֲרוּ	verb
+רַחֲבַת	noun
+יָדַיִם	adjective
+בְּנֹתָם	direct
+לְנָשִׁים	noun
+נִתֵּן	verb
+יֵאֹתוּ	verb
+וְקִנְיָנָם	noun
+בְּהֶמְתָּם	noun
+וַיִּמֹּלוּ	verb
+וְלֵוִי	proper
+בֶּטַח	noun
+וַיַּהַרְגוּ	verb
+הָרְגוּ	verb
+לְפִי	noun
+הַחֲלָלִים	noun
+וַיָּבֹזּוּ	verb
+טִמְּאוּ	verb
+צֹאנָם	direct
+בְּקָרָם	direct
+לָקָחוּ	verb
+חֵילָם	direct
+טַפָּם	direct
+נְשֵׁיהֶם	direct
+שָׁבוּ	verb
+עֲכַרְתֶּם	verb
+לְהַבְאִישֵׁנִי	verb
+בְּיֹשֵׁב	verb
+וּבַפְּרִזִּי	proper
+מְתֵי	noun
+מִסְפָּר	noun
+וְנֶאֶסְפוּ	verb
+וְהִכּוּנִי	verb
+וְנִשְׁמַדְתִּי	verb
+וּבֵיתִי	direct
+בֵית	proper
+לָאֵל	noun
+הָסִרוּ	verb
+הַנֵּכָר	noun
+בְּתֹכְכֶם	noun
+וְהַחֲלִיפוּ	verb
+וְנַעֲלֶה	verb
+הָעֹנֶה	verb
+צָרָתִי	noun
+בְּיָדָם	noun
+הַנְּזָמִים	direct
+וַיִּטְמֹן	verb
+הָאֵלָה	noun
+חִתַּת	noun
+סְבִיבֹתֵיהֶם	negative
+רָדְפוּ	verb
+לוּזָה	proper
+נִגְלוּ	verb
+דְּבֹרָה	proper
+מֵינֶקֶת	verb
+וַתִּקָּבֵר	verb
+פְּרֵה	verb
+וּרְבֵה	verb
+וּקְהַל	noun
+מִמֶּךָּ	preposition
+מֵחֲלָצֶיךָ	noun
+וּלְיִצְחָק	proper
+מֵעָלָיו	preposition
+מַצֶּבֶת	noun
+וַיַּסֵּךְ	verb
+נֶסֶךְ	noun
+שָׁמֶן	noun
+אֶפְרָתָה	verb
+וַתְּקַשׁ	verb
+בְּלִדְתָּהּ	verb
+בְהַקְשֹׁתָהּ	verb
+הַמְיַלֶּדֶת	verb
+בְּצֵאת	verb
+נַפְשָׁהּ	noun
+וְאָבִיו	noun
+בִנְיָמִין	proper
+קְבֻרָתָהּ	noun
+קְבֻרַת	noun
+מֵהָלְאָה	adverb
+לְמִגְדַּל	noun
+בִּשְׁכֹּן	verb
+פִּילֶגֶשׁ	noun
+וִיהוּדָה	proper
+וְיִשָּׂשכָר	proper
+וּזְבוּלֻן	proper
+וּבִנְיָמִן	proper
+וְנַפְתָּלִי	proper
+וְאָשֵׁר	proper
+קִרְיַת	proper
+גָּר	verb
+וּשְׂבַע	adjective
+וַיִּקְבְּרוּ	verb
+אָהֳלִיבָמָה	proper
+עֲנָה	noun
+אֱלִיפָז	direct
+וּבָשְׂמַת	proper
+רְעוּאֵל	proper
+יַעְלָם	noun
+קֹרַח	proper
+בְּנֹתָיו	direct
+מִשֶּׁבֶת	verb
+יָכְלָה	negative
+לָשֵׂאת	verb
+מִקְנֵיהֶם	direct
+אֱלִיפַז	proper
+תֵּימָן	proper
+וְגַעְתָּם	proper
+פִילֶגֶשׁ	proper
+לֶאֱלִיפַז	direct
+עֲמָלֵק	adjective
+נַחַת	proper
+וָזֶרַח	proper
+שַׁמָּה	proper
+וּמִזָּה	proper
+בָשְׂמַת	proper
+אַלּוּפֵי	noun
+אַלּוּף	noun
+קְנַז	proper
+גַּעְתָּם	proper
+זֶרַח	proper
+מִזָּה	proper
+יְעוּשׁ	proper
+אַלּוּפֵיהֶם	noun
+וַעֲנָה	proper
+וְאֵצֶר	proper
+וְדִישָׁן	proper
+חֹרִי	proper
+וְהֵימָם	proper
+תִּמְנָע	proper
+עַלְוָן	proper
+וּמָנַחַת	proper
+וְעֵיבָל	proper
+וְאַיָּה	proper
+הַיֵּמִם	direct
+הַחֲמֹרִים	direct
+דִּשֹׁן	proper
+וְאָהֳלִיבָמָה	proper
+דִישָׁן	proper
+חֶמְדָּן	proper
+וְאֶשְׁבָּן	proper
+וְיִתְרָן	proper
+אֵצֶר	noun
+בִּלְהָן	proper
+וְזַעֲוָן	proper
+דִּישָׁן	proper
+לְאַלֻּפֵיהֶם	noun
+מָלְכוּ	verb
+בָּלַע	proper
+וַיִּמְלֹךְ	verb
+תַּחְתָּיו	preposition
+מִבָּצְרָה	adjective
+חֻשָׁם	proper
+הַתֵּימָנִי	proper
+הֲדַד	proper
+בְּדַד	noun
+הַמַּכֶּה	verb
+בִּשְׂדֵה	noun
+הֲדָד	proper
+שַׂמְלָה	proper
+שָׁאוּל	proper
+בַּעַל	proper
+חָנָן	noun
+הֲדַר	noun
+פָּעוּ	noun
+מְהֵיטַבְאֵל	noun
+מַטְרֵד	noun
+לִמְקֹמֹתָם	noun
+אֵלָה	proper
+מִבְצָר	noun
+מַגְדִּיאֵל	proper
+אֲחֻזָּתָם	pronoun
+מְגוּרֵי	noun
+שְׁבַע	cardinal
+בַּצֹּאן	pronoun
+נַעַר	noun
+דִּבָּתָם	adjective
+אָהַב	verb
+זְקֻנִים	noun
+וְעָשָׂה	verb
+כְּתֹנֶת	noun
+פַּסִּים	noun
+לְשָׁלֹם	noun
+שְׂנֹא	verb
+שִׁמְעוּ	verb
+חָלָמְתִּי	verb
+מְאַלְּמִים	verb
+אֲלֻמִּים	noun
+קָמָה	verb
+אֲלֻמָּתִי	noun
+נִצָּבָה	verb
+תְסֻבֶּינָה	verb
+אֲלֻמֹּתֵיכֶם	noun
+הֲמָלֹךְ	interrogative
+תִּמְלֹךְ	verb
+תִּמְשֹׁל	verb
+חֲלֹמֹתָיו	noun
+דְּבָרָיו	verb
+חָלַמְתִּי	verb
+וְהַיָּרֵחַ	noun
+וְאַחַד	cardinal
+וַיִּגְעַר	verb
+חָלָמְתָּ	verb
+וְאִמְּךָ	noun
+שָׁמַר	verb
+בִּשְׁכֶם	proper
+אַחֶיךָ	noun
+רֹעִים	verb
+וְאֶשְׁלָחֲךָ	verb
+וַהֲשִׁבֵנִי	verb
+וַיִּשְׁלָחֵהוּ	verb
+מֵעֵמֶק	noun
+שְׁכֶמָה	proper
+תֹעֶה	verb
+וַיִּשְׁאָלֵהוּ	verb
+תְּבַקֵּשׁ	adverb
+מְבַקֵּשׁ	verb
+אֵיפֹה	interrogative
+נָסְעוּ	verb
+אֹמְרִים	verb
+דֹּתָיְנָה	proper
+וַיִּמְצָאֵם	verb
+וּבְטֶרֶם	adverb
+יִקְרַב	verb
+לְכוּ	verb
+וְנַשְׁלִכֵהוּ	cardinal
+בְּאַחַד	noun
+וְאָמַרְנוּ	noun
+אֲכָלָתְהוּ	verb
+וְנִרְאֶה	pronoun
+יִּהְיוּ	noun
+וַיַּצִּלֵהוּ	verb
+מִיָּדָם	noun
+נַכֶּנּוּ	verb
+נָפֶשׁ	noun
+תִּשְׁפְּכוּ	adverb
+דָם	verb
+הַשְׁלִיכוּ	direct
+וְיָד	adverb
+תִּשְׁלְחוּ	verb
+הַצִּיל	direct
+וַיַּפְשִׁיטוּ	verb
+הַפַּסִּים	noun
+וַיַּשְׁלִכוּ	verb
+הַבֹּרָה	noun
+רֵק	adjective
+עֵינֵיהֶם	direct
+אֹרְחַת	noun
+יִשְׁמְעֵאלִים	proper
+מִגִּלְעָד	proper
+וּגְמַלֵּיהֶם	noun
+נֹשְׂאִים	verb
+נְכֹאת	noun
+וּצְרִי	noun
+וָלֹט	noun
+בֶּצַע	pronoun
+נַהֲרֹג	verb
+אָחִינוּ	direct
+וְכִסִּינוּ	verb
+וְנִמְכְּרֶנּוּ	verb
+לַיִּשְׁמְעֵאלִים	proper
+וְיָדֵנוּ	noun
+בְשָׂרֵנוּ	noun
+וַיִּשְׁמְעוּ	verb
+מִדְיָנִים	proper
+וַיִּמְשְׁכוּ	verb
+וַיַּעֲלוּ	verb
+וַיִּמְכְּרוּ	verb
+בְּעֶשְׂרִים	cardinal
+כָּסֶף	noun
+וַיִּקְרַע	verb
+אָנָה	pronoun
+וַיִּשְׁחֲטוּ	verb
+שְׂעִיר	noun
+וַיִּטְבְּלוּ	verb
+הַכֻּתֹּנֶת	direct
+בַּדָּם	noun
+הַכְּתֹנֶת	interrogative
+טָרֹף	verb
+טֹרַף	verb
+שִׂמְלֹתָיו	noun
+שַׂק	noun
+בְּמָתְנָיו	noun
+וַיִּתְאַבֵּל	verb
+וַיְמָאֵן	verb
+לְהִתְנַחֵם	verb
+אֵרֵד	verb
+אָבֵל	adjective
+שְׁאֹלָה	noun
+מָכְרוּ	verb
+סְרִיס	noun
+הַטַּבָּחִים	noun
+עֲדֻלָּמִי	proper
+כְּנַעֲנִי	proper
+שׁוּעַ	proper
+עֵר	proper
+שֵׁלָה	proper
+בִכְזִיב	proper
+לְעֵר	proper
+וַיְמִתֵהוּ	verb
+וְיַבֵּם	verb
+וְהָקֵם	verb
+לְאָחִיךָ	noun
+הַזָּרַע	noun
+וְשִׁחֵת	verb
+וַיָּמֶת	verb
+לְתָמָר	proper
+שְׁבִי	verb
+אַלְמָנָה	noun
+יִגְדַּל	verb
+יָמוּת	verb
+כְּאֶחָיו	noun
+וַתָּמָת	verb
+וַיִּנָּחֶם	verb
+וְחִירָה	proper
+הָעֲדֻלָּמִי	proper
+תִּמְנָתָה	proper
+חָמִיךְ	noun
+עֹלֶה	verb
+תִמְנָתָה	proper
+לָגֹז	verb
+אַלְמְנוּתָהּ	noun
+וַתְּכַס	verb
+בַּצָּעִיף	noun
+וַתִּתְעַלָּף	verb
+בְּפֶתַח	noun
+רָאֲתָה	verb
+נִתְּנָה	negative
+כִסְּתָה	verb
+פָּנֶיהָ	noun
+הַדֶּרֶךְ	noun
+אֵלַיִךְ	preposition
+אֲשַׁלַּח	verb
+גְּדִי	direct
+תִּתֵּן	verb
+וּפְתִילֶךָ	noun
+וּמַטְּךָ	noun
+לָּהּ	verb
+וַתָּסַר	verb
+צְעִיפָהּ	noun
+וַתִּלְבַּשׁ	verb
+מְצָאָהּ	verb
+מְקֹמָהּ	noun
+הַקְּדֵשָׁה	adjective
+בָעֵינַיִם	proper
+הַדָּרֶךְ	noun
+בָזֶה	adjective
+קְדֵשָׁה	adjective
+מְצָאתִיהָ	verb
+אָמְרוּ	verb
+נִהְיֶה	verb
+לָבוּז	noun
+שָׁלַחְתִּי	verb
+הַגְּדִי	noun
+כְּמִשְׁלֹשׁ	noun
+חֳדָשִׁים	verb
+לִיהוּדָה	proper
+זָנְתָה	verb
+כַּלָּתֶךָ	conjunction
+לִזְנוּנִים	verb
+מוּצֵאת	verb
+שָׁלְחָה	verb
+חָמִיהָ	noun
+הַחֹתֶמֶת	noun
+וְהַפְּתִילִים	noun
+וְהַמַּטֶּה	noun
+לְשֵׁלָה	proper
+יָסַף	negative
+לִדְתָּהּ	verb
+בְלִדְתָּהּ	verb
+יָד	verb
+וַתִּקְשֹׁר	verb
+שָׁנִי	noun
+כְּמֵשִׁיב	noun
+פָּרַצְתָּ	preposition
+פָּרֶץ	verb
+הַשָּׁנִי	noun
+זָרַח	direct
+הוּרַד	verb
+וַיִּקְנֵהוּ	verb
+מִצְרִי	proper
+הַיִּשְׁמְעֵאלִים	proper
+הַמִּצְרִי	proper
+בְּעֵינָיו	noun
+וַיְשָׁרֶת	verb
+וַיַּפְקִדֵהוּ	verb
+מֵאָז	adverb
+הִפְקִיד	verb
+בִּגְלַל	noun
+בַּבַּיִת	noun
+יְפֵה	adjective
+תֹאַר	adjective
+וִיפֵה	adjective
+שִׁכְבָה	verb
+עִמִּי	preposition
+בְּיָדִי	noun
+חָשַׂךְ	negative
+וְחָטָאתִי	verb
+כְּדַבְּרָהּ	verb
+אֶצְלָהּ	verb
+וְאֵין	adverb
+מֵאַנְשֵׁי	noun
+וַיַּעֲזֹב	verb
+בְּיָדָהּ	noun
+וַיָּנָס	verb
+לְאַנְשֵׁי	noun
+בֵיתָהּ	noun
+רְאוּ	verb
+עִבְרִי	proper
+לְצַחֶק	verb
+וָאֶקְרָא	verb
+אֶצְלִי	preposition
+כַּהֲרִימִי	verb
+דִּבְּרָה	verb
+אֲדֹנֵי	noun
+וַיִּתְּנֵהוּ	verb
+הַסֹּהַר	noun
+אֲסוּרִים	noun
+חָסֶד	noun
+הָאֲסִירִם	noun
+חָטְאוּ	verb
+מַשְׁקֵה	noun
+וְהָאֹפֶה	verb
+לַאֲדֹנֵיהֶם	noun
+לְמֶלֶךְ	noun
+סָרִיסָיו	noun
+הַמַּשְׁקִים	noun
+בְּמִשְׁמַר	noun
+אָסוּר	verb
+בְּלַיְלָה	noun
+הַמַּשְׁקֶה	noun
+וְהִנָּם	interjection
+סְרִיסֵי	direct
+בְמִשְׁמַר	noun
+פְּנֵיכֶם	noun
+חָלַמְנוּ	verb
+וּפֹתֵר	verb
+פִּתְרֹנִים	noun
+סַפְּרוּ	verb
+גֶפֶן	interjection
+שָׂרִיגִם	noun
+כְפֹרַחַת	verb
+עָלְתָה	verb
+נִצָּהּ	noun
+הִבְשִׁילוּ	verb
+אַשְׁכְּלֹתֶיהָ	noun
+עֲנָבִים	noun
+וָאֶתֵּן	verb
+הַשָּׂרִגִים	noun
+רֹאשֶׁךָ	verb
+כַּנֶּךָ	verb
+וְנָתַתָּ	noun
+כַּמִּשְׁפָּט	adjective
+הָיִיתָ	noun
+מַשְׁקֵהוּ	noun
+זְכַרְתַּנִי	verb
+וְעָשִׂיתָ	preposition
+וְהִזְכַּרְתַּנִי	verb
+גֻנֹּב	verb
+גֻּנַּבְתִּי	verb
+הָעִבְרִים	proper
+שָׂמוּ	verb
+הָאֹפִים	noun
+פָּתָר	verb
+סַלֵּי	noun
+רֹאשִׁי	noun
+מַאֲכַל	noun
+מַעֲשֵׂה	noun
+אֹפֶה	verb
+אֹכֵל	verb
+הַסַּל	noun
+הַסַּלִּים	noun
+רֹאשְׁךָ	noun
+מֵעָלֶיךָ	preposition
+וְתָלָה	direct
+בְּשָׂרְךָ	preposition
+הֻלֶּדֶת	direct
+תָּלָה	verb
+פָּתַר	verb
+זָכַר	negative
+וּפַרְעֹה	proper
+חֹלֵם	verb
+הַיְאֹר	proper
+וּבְרִיאֹת	adjective
+וַתִּרְעֶינָה	verb
+אַחֲרֵיהֶן	preposition
+אֵצֶל	preposition
+הַמַּרְאֶה	noun
+וְדַקֹּת	adjective
+יְפֹת	adjective
+וְהַבְּרִיאֹת	adjective
+וַיִּיקַץ	verb
+וַיַּחֲלֹם	verb
+שִׁבֳּלִים	verb
+בְּקָנֶה	cardinal
+וּשְׁדוּפֹת	verb
+קָדִים	noun
+הַשִּׁבֳּלִים	noun
+וַתִּפָּעֶם	verb
+חַרְטֻמֵּי	direct
+חֲכָמֶיהָ	direct
+לְפַרְעֹה	proper
+חֲטָאַי	direct
+מַזְכִּיר	verb
+קָצַף	verb
+וָהוּא	pronoun
+לְשַׂר	noun
+חֲלֹמֹתֵינוּ	direct
+כַּנִּי	noun
+וַיְרִיצֻהוּ	verb
+וַיְגַלַּח	verb
+וַיְחַלֵּף	verb
+תִּשְׁמַע	verb
+לִפְתֹּר	verb
+בִּלְעָדָי	preposition
+יַעֲנֶה	verb
+בַּחֲלֹמִי	noun
+וִיפֹת	adjective
+כָהֵנָּה	pronoun
+קִרְבֶּנָה	noun
+בָאוּ	verb
+וּמַרְאֵיהֶן	noun
+מְלֵאֹת	adjective
+אַחֲרֵיהֶם	preposition
+הַדַּקֹּת	adjective
+הַחַרְטֻמִּים	noun
+מַגִּיד	verb
+פָּרֹת	noun
+הַטֹּבֹת	adjective
+וְהָרָעֹת	adjective
+הָעֹלֹת	verb
+הַקָּדִים	noun
+הֶרְאָה	verb
+שָׂבָע	noun
+וְנִשְׁכַּח	verb
+הַשָּׂבָע	noun
+וְכִלָּה	verb
+יִוָּדַע	negative
+פַּעֲמָיִם	noun
+וּמְמַהֵר	verb
+יֵרֶא	verb
+וְחָכָם	adjective
+וִישִׁיתֵהוּ	verb
+וְיַפְקֵד	verb
+פְּקִדִים	noun
+וְחִמֵּשׁ	verb
+בְּשֶׁבַע	cardinal
+אֹכֶל	noun
+הַשָּׁנִים	noun
+הַבָּאֹת	verb
+בָר	verb
+יַד	noun
+בֶּעָרִים	noun
+הָאֹכֶל	noun
+לָאָרֶץ	noun
+לְשֶׁבַע	cardinal
+תִּהְיֶיןָ	verb
+תִכָּרֵת	negative
+בָּרָעָב	noun
+הֲנִמְצָא	interrogative
+כָזֶה	adjective
+פִּיךָ	noun
+יִשַּׁק	verb
+הַכִּסֵּא	noun
+אֶגְדַּל	verb
+וַיַּלְבֵּשׁ	verb
+רְבִד	noun
+בְּמִרְכֶּבֶת	noun
+הַמִּשְׁנֶה	noun
+אַבְרֵךְ	adverb
+וּבִלְעָדֶיךָ	preposition
+יָרִים	negative
+פַּעְנֵחַ	verb
+פֶרַע	proper
+כֹּהֵן	noun
+אֹן	verb
+סְבִיבֹתֶיהָ	verb
+בָּר	noun
+שְׁנַת	noun
+מְנַשֶּׁה	proper
+נַשַּׁנִי	verb
+עֲמָלִי	direct
+אֶפְרָיִם	proper
+הִפְרַנִי	verb
+לַלָּחֶם	noun
+בָּהֶם	preposition
+וַיִּשְׁבֹּר	verb
+לְמִצְרַיִם	proper
+וַיֶּחֱזַק	verb
+חָזַק	verb
+שֶׁבֶר	adverb
+בְּמִצְרָיִם	proper
+רְדוּ	verb
+וְנִחְיֶה	verb
+נָמוּת	verb
+מִמִּצְרָיִם	proper
+בִּנְיָמִין	direct
+יִקְרָאֶנּוּ	verb
+הַבָּאִים	verb
+הַשַּׁלִּיט	adjective
+הַמַּשְׁבִּיר	verb
+וַיַּכִּרֵם	verb
+וַיִּתְנַכֵּר	verb
+חָלַם	verb
+מְרַגְּלִים	verb
+וַעֲבָדֶיךָ	noun
+נָחְנוּ	pronoun
+כֵּנִים	adjective
+עֲבָדֶיךָ	noun
+וְהָאֶחָד	adverb
+אֲלֵכֶם	preposition
+תִּבָּחֵנוּ	verb
+חֵי	noun
+תֵּצְאוּ	verb
+אֲחִיכֶם	noun
+מִכֶּם	preposition
+וְיִקַּח	verb
+הֵאָסְרוּ	verb
+דִּבְרֵיכֶם	noun
+מִשְׁמָר	noun
+עֲשׂוּ	verb
+יֵאָסֵר	verb
+מִשְׁמַרְכֶם	noun
+הָבִיאוּ	verb
+בָּתֵּיכֶם	noun
+תָּבִיאוּ	verb
+וְיֵאָמְנוּ	verb
+דִבְרֵיכֶם	noun
+תָמוּתוּ	verb
+אֲשֵׁמִים	adjective
+צָרַת	noun
+שָׁמָעְנוּ	adverb
+הַצָּרָה	adjective
+תֶּחֶטְאוּ	noun
+בַיֶּלֶד	negative
+שְׁמַעְתֶּם	noun
+שֹׁמֵעַ	verb
+הַמֵּלִיץ	verb
+מֵעֲלֵיהֶם	preposition
+מֵאִתָּם	preposition
+וַיֶּאֱסֹר	verb
+לְעֵינֵיהֶם	noun
+וַיְמַלְאוּ	verb
+כְּלֵיהֶם	direct
+וּלְהָשִׁיב	verb
+כַּסְפֵּיהֶם	noun
+וְלָתֵת	verb
+צֵדָה	noun
+לַדָּרֶךְ	noun
+שִׁבְרָם	direct
+חֲמֹרֵיהֶם	noun
+בְּפִי	noun
+הוּשַׁב	verb
+כַּסְפִּי	noun
+בְאַמְתַּחְתִּי	noun
+לִבָּם	noun
+וַיֶּחֶרְדוּ	adjective
+וַיַּגִּידוּ	verb
+הַקֹּרֹת	noun
+הָיִינוּ	verb
+וְהַקָּטֹן	adjective
+כֵנִים	adjective
+הַנִּיחוּ	verb
+קְחוּ	verb
+וָלֵכוּ	verb
+וְאֵדְעָה	verb
+מְרִיקִים	verb
+שַׂקֵּיהֶם	noun
+וַאֲבִיהֶם	noun
+שִׁכַּלְתֶּם	verb
+בִּנְיָמִן	direct
+תִּקָּחוּ	verb
+בָנַי	noun
+תָּמִית	verb
+אֲבִיאֶנּוּ	verb
+תְּנָה	verb
+אֲשִׁיבֶנּוּ	verb
+יֵרֵד	negative
+נִשְׁאָר	verb
+וּקְרָאָהוּ	verb
+תֵּלְכוּ	verb
+שֵׂיבָתִי	direct
+הַשֶּׁבֶר	direct
+הֵבִיאוּ	verb
+שֻׁבוּ	verb
+שִׁבְרוּ	verb
+הָעֵד	verb
+הֵעִד	verb
+תִרְאוּ	negative
+פָנַי	noun
+מְשַׁלֵּחַ	verb
+וְנִשְׁבְּרָה	verb
+נֵרֵד	verb
+הֲרֵעֹתֶם	verb
+לָאִישׁ	noun
+שָׁאַל	verb
+נֵדַע	verb
+שִׁלְחָה	verb
+וְנָקוּמָה	verb
+טַפֵּנוּ	noun
+תְּבַקְשֶׁנּוּ	verb
+הֲבִיאֹתִיו	verb
+וְהִצַּגְתִּיו	verb
+לוּלֵא	conjunction
+הִתְמַהְמָהְנוּ	verb
+שַׁבְנוּ	verb
+מִזִּמְרַת	noun
+בִּכְלֵיכֶם	verb
+צֳרִי	adjective
+וּמְעַט	noun
+דְּבַשׁ	noun
+בָּטְנִים	noun
+מִשְׁנֶה	noun
+בְיֶדְכֶם	noun
+הַמּוּשָׁב	verb
+תָּשִׁיבוּ	verb
+מִשְׁגֶּה	noun
+קָחוּ	verb
+וְקוּמוּ	verb
+שׁוּבוּ	verb
+יִתֵּן	verb
+רַחֲמִים	noun
+שָׁכֹלְתִּי	verb
+וּמִשְׁנֶה	noun
+לָקְחוּ	verb
+בְיָדָם	noun
+וַיֵּרְדוּ	verb
+וַיַּעַמְדוּ	verb
+הָבֵא	verb
+וּטְבֹחַ	verb
+וְהָכֵן	verb
+הַשָּׁב	verb
+בְּאַמְתְּחֹתֵינוּ	noun
+מוּבָאִים	verb
+לְהִתְגֹּלֵל	verb
+וּלְהִתְנַפֵּל	verb
+הַבָּיִת	noun
+יָרֹד	verb
+יָרַדְנוּ	verb
+בָאנוּ	verb
+אַמְתְּחֹתֵינוּ	direct
+וַנָּשֶׁב	verb
+בְּיָדֵנוּ	noun
+בְיָדֵנוּ	noun
+יָדַעְנוּ	verb
+תִּירָאוּ	adverb
+אֱלֹהֵיכֶם	noun
+בְּאַמְתְּחֹתֵיכֶם	noun
+כַּסְפְּכֶם	noun
+וַיִּרְחֲצוּ	verb
+רַגְלֵיהֶם	noun
+שָׁמְעוּ	negative
+וַיָּבִיאּוּ	verb
+הַזָּקֵן	adjective
+אֲמַרְתֶּם	verb
+וַיִּקְּדוּ	verb
+הֲזֶה	interrogative
+יָחְנְךָ	verb
+נִכְמְרוּ	verb
+רַחֲמָיו	noun
+וַיְבַקֵּשׁ	verb
+הַחַדְרָה	noun
+וַיִּתְאַפַּק	verb
+שִׂימוּ	verb
+לְבַדָּם	noun
+וְלַמִּצְרִים	proper
+הָאֹכְלִים	verb
+יוּכְלוּן	verb
+לְמִצְרָיִם	adverb
+הַבְּכֹר	noun
+וְהַצָּעִיר	adjective
+וַיִּתְמְהוּ	verb
+מַשְׂאֹת	noun
+וַתֵּרֶב	verb
+מַשְׂאַת	noun
+מִמַּשְׂאֹת	noun
+כֻּלָּם	noun
+מַלֵּא	verb
+אַמְתְּחֹת	direct
+וְשִׂים	verb
+גְּבִיעִי	direct
+גְּבִיעַ	noun
+אַמְתַּחַת	noun
+כִּדְבַר	noun
+שֻׁלְּחוּ	verb
+הִרְחִיקוּ	verb
+רְדֹף	verb
+וְהִשַּׂגְתָּם	verb
+וְאָמַרְתָּ	verb
+שִׁלַּמְתֶּם	verb
+יִשְׁתֶּה	verb
+נַחֵשׁ	verb
+יְנַחֵשׁ	verb
+עֲשִׂיתֶם	verb
+יְדַבֵּר	verb
+חָלִילָה	interjection
+לַעֲבָדֶיךָ	noun
+הֱשִׁיבֹנוּ	verb
+נִגְנֹב	verb
+יִמָּצֵא	verb
+מֵעֲבָדֶיךָ	noun
+וָמֵת	verb
+כְדִבְרֵיכֶם	noun
+עָבֶד	noun
+נְקִיִּם	adjective
+וּבַקָּטֹן	adjective
+וַיִּמָּצֵא	verb
+הַגָּבִיעַ	noun
+בְּאַמְתַּחַת	noun
+שִׂמְלֹתָם	noun
+הָעִירָה	noun
+וְאֶחָיו	noun
+הַמַּעֲשֶׂה	pronoun
+יְדַעְתֶּם	verb
+כָּמֹנִי	noun
+נֹּאמַר	pronoun
+נְּדַבֵּר	pronoun
+נִּצְטַדָּק	pronoun
+הִנֶּנּוּ	interjection
+נִמְצָא	relative
+עֲלוּ	verb
+אַפְּךָ	noun
+בְּעַבְדֶּךָ	noun
+אָב	noun
+קָטָן	adjective
+וְאָחִיו	noun
+וַיִּוָּתֵר	verb
+וְאָשִׂימָה	verb
+עֵינִי	noun
+לַעֲזֹב	verb
+וְעָזַב	verb
+תֹסִפוּן	verb
+פָּנָי	direct
+עָלִינוּ	verb
+לָרֶדֶת	verb
+וְיָרַדְנוּ	verb
+וְאָחִינוּ	noun
+מֵאִתִּי	preposition
+טֹרָף	verb
+רְאִיתִיו	verb
+פָּנַי	noun
+וְקָרָהוּ	verb
+בְּרָעָה	adjective
+כְּבֹאִי	verb
+קְשׁוּרָה	verb
+שֵׂיבַת	direct
+עָרַב	verb
+לְאָבִי	noun
+יֵשֶׁב	relative
+יַעַל	verb
+אֵיךְ	interjection
+אֶעֱלֶה	verb
+בָרָע	adjective
+יִמְצָא	verb
+לְהִתְאַפֵּק	verb
+הַנִּצָּבִים	verb
+בְּהִתְוַדַּע	verb
+בִּבְכִי	noun
+נִבְהֲלוּ	verb
+מִפָּנָיו	noun
+גְּשׁוּ	verb
+וַיִּגָּשׁוּ	verb
+מְכַרְתֶּם	relative
+תֵּעָצְבוּ	adverb
+שְׁלָחַנִי	noun
+בְּקֶרֶב	noun
+חָרִישׁ	adverb
+לָשׂוּם	verb
+שְׁאֵרִית	noun
+שְׁלַחְתֶּם	verb
+וַיְשִׂימֵנִי	verb
+לְאָב	noun
+וּמֹשֵׁל	verb
+וַעֲלוּ	verb
+וַאֲמַרְתֶּם	verb
+שָׂמַנִי	verb
+רְדָה	verb
+גֹּשֶׁן	noun
+וְצֹאנְךָ	noun
+וּבְקָרְךָ	noun
+תִּוָּרֵשׁ	verb
+וּבֵיתְךָ	noun
+וְעֵינֵי	noun
+פִי	noun
+בְּמִצְרַיִם	proper
+רְאִיתֶם	verb
+צַוְּארֵי	noun
+בִנְיָמִן	proper
+בָּכָה	verb
+דִּבְּרוּ	verb
+נִשְׁמַע	verb
+וַיִּיטַב	verb
+אֱמֹר	verb
+בְּעִירְכֶם	direct
+בֹאוּ	verb
+וּבֹאוּ	verb
+וְאִכְלוּ	verb
+חֵלֶב	direct
+צֻוֵּיתָה	verb
+לְטַפְּכֶם	noun
+וְלִנְשֵׁיכֶם	noun
+וּנְשָׂאתֶם	verb
+וּבָאתֶם	verb
+תָּחֹס	adverb
+כְּלֵיכֶם	noun
+שְׂמָלֹת	noun
+וּלְבִנְיָמִן	proper
+חֲלִפֹת	noun
+כְּזֹאת	adjective
+חֲמֹרִים	noun
+מִטּוּב	noun
+וְעֶשֶׂר	cardinal
+וָלֶחֶם	noun
+תִּרְגְּזוּ	adverb
+בַּדָּרֶךְ	noun
+מֹשֵׁל	verb
+וַיָּפָג	verb
+הֶאֱמִין	negative
+וַתְּחִי	verb
+אֵלְכָה	interjection
+וְאֶרְאֶנּוּ	verb
+בְּאֵרָה	proper
+שָּׁבַע	verb
+וַיִּזְבַּח	verb
+זְבָחִים	noun
+לֵאלֹהֵי	noun
+לְיִשְׂרָאֵל	noun
+בְּמַרְאֹת	noun
+מֵרְדָה	verb
+עָלֹה	verb
+יָשִׁית	verb
+וּפַלּוּא	proper
+וְכַרְמִי	proper
+יְמוּאֵל	proper
+וְיָמִין	proper
+וְאֹהַד	proper
+וְיָכִין	proper
+וְצֹחַר	proper
+וְשָׁאוּל	proper
+קְהָת	proper
+וּמְרָרִי	proper
+וְשֵׁלָה	proper
+וָפֶרֶץ	proper
+וָזָרַח	proper
+פֶרֶץ	noun
+יִשָׂשכָר	proper
+וּפֻוָּה	proper
+זְבוּלֻן	proper
+סֶרֶד	proper
+וְשָׁלֹשׁ	cardinal
+גָד	proper
+וְחַגִּי	proper
+שׁוּנִי	proper
+וְאֶצְבֹּן	proper
+עֵרִי	proper
+יִמְנָה	proper
+וְיִשְׁוָה	proper
+וְיִשְׁוִי	proper
+וּבְרִיעָה	proper
+וְשֶׂרַח	proper
+בְרִיעָה	proper
+חֶבֶר	proper
+וּמַלְכִּיאֵל	proper
+וָבֶכֶר	proper
+וְאַשְׁבֵּל	proper
+גֵּרָא	proper
+וְנַעֲמָן	proper
+אֵחִי	proper
+וָרֹאשׁ	proper
+מֻפִּים	proper
+וְחֻפִּים	proper
+דָן	noun
+חֻשִׁים	verb
+יַחְצְאֵל	proper
+וְגוּנִי	proper
+וְיֵצֶר	proper
+וְשִׁלֵּם	noun
+וָשֵׁשׁ	noun
+בְמִצְרַיִם	proper
+שְׁנָיִם	cardinal
+גֹּשְׁנָה	proper
+אָמוּתָה	verb
+הַפָּעַם	noun
+פָּנֶיךָ	direct
+וְאַגִּידָה	verb
+וּבֵית	noun
+מִקְנֶה	noun
+וְצֹאנָם	noun
+וּבְקָרָם	noun
+וְאָמַר	verb
+מַּעֲשֵׂיכֶם	pronoun
+מִנְּעוּרֵינוּ	noun
+אֲבֹתֵינוּ	noun
+תֵּשְׁבוּ	verb
+וְאַחַי	noun
+וַיַּצִּגֵם	verb
+מִרְעֶה	noun
+לַצֹּאן	noun
+יֵשְׁבוּ	verb
+בְּמֵיטַב	noun
+חַיִל	noun
+וְשַׂמְתָּם	verb
+כַּמָּה	pronoun
+מְגוּרַי	noun
+וְרָעִים	adjective
+חַיַּי	noun
+הִשִּׂיגוּ	verb
+אֲבֹתַי	noun
+אֲחֻזָּה	noun
+רַעְמְסֵס	proper
+וַתֵּלַהּ	verb
+וְאֶרֶץ	noun
+הַנִּמְצָא	verb
+וּבְאֶרֶץ	noun
+בַּשֶּׁבֶר	noun
+שֹׁבְרִים	verb
+נֶגְדֶּךָ	preposition
+אָפֵס	verb
+הָבוּ	verb
+מִקְנֵיכֶם	noun
+בְּמִקְנֵיכֶם	noun
+בַּסּוּסִים	noun
+וּבְמִקְנֵה	noun
+וּבַחֲמֹרִים	noun
+וַיְנַהֲלֵם	verb
+בַּלֶּחֶם	noun
+מִקְנֵהֶם	noun
+הַשָּׁנָה	noun
+נְכַחֵד	negative
+תַּם	verb
+נִשְׁאַר	verb
+גְּוִיָּתֵנוּ	noun
+וְאַדְמָתֵנוּ	noun
+לְעֵינֶיךָ	noun
+אַדְמָתֵנוּ	direct
+קְנֵה	verb
+בַּלָּחֶם	noun
+וְהָאֲדָמָה	noun
+אַדְמַת	direct
+עֲלֵהֶם	preposition
+הֶעֱבִיר	verb
+לֶעָרִים	noun
+גְבוּל	noun
+קָצֵהוּ	negative
+הַכֹּהֲנִים	noun
+חֹק	noun
+לַכֹּהֲנִים	noun
+וְאָכְלוּ	verb
+חֻקָּם	direct
+אַדְמָתָם	direct
+אֶתְכֶם	direct
+אַדְמַתְכֶם	direct
+הֵא	verb
+וּזְרַעְתֶּם	verb
+בַּתְּבוּאֹת	noun
+וּנְתַתֶּם	verb
+חֲמִישִׁית	ordinal
+הַיָּדֹת	noun
+לְזֶרַע	noun
+וְלַאֲשֶׁר	relative
+בְּבָתֵּיכֶם	noun
+וְלֶאֱכֹל	verb
+הֶחֱיִתָנוּ	verb
+לְחֹק	noun
+לַחֹמֶשׁ	noun
+וַיֵּאָחֲזוּ	verb
+וַיִּפְרוּ	verb
+חַיָּיו	noun
+תִקְבְּרֵנִי	proper
+וּנְשָׂאתַנִי	verb
+וּקְבַרְתַּנִי	verb
+בִּקְבֻרָתָם	noun
+הַמִּטָּה	noun
+חֹלֶה	verb
+וַיִּתְחַזֵּק	verb
+נִרְאָה	verb
+בְּלוּז	proper
+מַפְרְךָ	verb
+וְהִרְבִּיתִךָ	verb
+בֹּאִי	verb
+אֶפְרַיִם	proper
+וּמְנַשֶּׁה	proper
+כִּרְאוּבֵן	proper
+אֲחֵיהֶם	noun
+יִקָּרְאוּ	verb
+בְּבֹאִי	proper
+מִפַּדָּן	verb
+לָבֹא	proper
+וָאֶקְבְּרֶהָ	adverb
+אֶפְרָת	pronoun
+בָּזֶה	adjective
+כָּבְדוּ	verb
+מִזֹּקֶן	noun
+וַיַּגֵּשׁ	verb
+וַיְחַבֵּק	verb
+רְאֹה	verb
+פִלָּלְתִּי	verb
+בִּרְכָּיו	noun
+לְאַפָּיו	noun
+מִימִין	noun
+הַצָּעִיר	adjective
+שִׂכֵּל	verb
+הִתְהַלְּכוּ	verb
+הָרֹעֶה	verb
+הַגֹּאֵל	verb
+וְיִקָּרֵא	verb
+בָהֶם	preposition
+שְׁמִי	noun
+וְיִדְגּוּ	verb
+וַיֵּרַע	verb
+וַיִּתְמֹךְ	verb
+לְהָסִיר	verb
+יְמִינְךָ	noun
+לְּעָם	verb
+יִגְדָּל	verb
+מְלֹא	noun
+בְּךָ	preposition
+כְּאֶפְרַיִם	proper
+וְכִמְנַשֶּׁה	proper
+וְהֵשִׁיב	verb
+אֲבֹתֵיכֶם	noun
+לָקַחְתִּי	verb
+בְּחַרְבִּי	noun
+הֵאָסְפוּ	noun
+בְּאַחֲרִית	noun
+וְשִׁמְעוּ	verb
+בְּכֹרִי	noun
+וְרֵאשִׁית	noun
+יֶתֶר	noun
+וְיֶתֶר	noun
+עָז	adjective
+כַּמַּיִם	noun
+עָלִיתָ	verb
+מִשְׁכְּבֵי	noun
+חִלַּלְתָּ	verb
+יְצוּעִי	noun
+תָּבֹא	adverb
+בִּקְהָלָם	noun
+תֵּחַד	adverb
+כְּבֹדִי	noun
+בְאַפָּם	noun
+וּבִרְצֹנָם	noun
+אַפָּם	noun
+וְעֶבְרָתָם	noun
+קָשָׁתָה	verb
+אֲחַלְּקֵם	verb
+בְּיַעֲקֹב	proper
+וַאֲפִיצֵם	verb
+בְּיִשְׂרָאֵל	relative
+בְּעֹרֶף	noun
+אֹיְבֶיךָ	verb
+אַרְיֵה	noun
+מִטֶּרֶף	noun
+כָּרַע	verb
+רָבַץ	verb
+כְּאַרְיֵה	noun
+וּכְלָבִיא	noun
+יְקִימֶנּוּ	verb
+יָסוּר	negative
+שֵׁבֶט	noun
+מִיהוּדָה	noun
+וּמְחֹקֵק	verb
+מִבֵּין	preposition
+יָבֹא	verb
+לַגֶּפֶן	noun
+וְלַשֹּׂרֵקָה	noun
+כִּבֵּס	noun
+בַּיַּיִן	noun
+מִיָּיִן	noun
+שִׁנַּיִם	adjective
+מֵחָלָב	noun
+חֲמֹר	noun
+גָּרֶם	noun
+מְנֻחָה	noun
+נָעֵמָה	verb
+לִסְבֹּל	verb
+לְמַס	noun
+יָדִין	verb
+שִׁבְטֵי	noun
+נָחָשׁ	noun
+עֲלֵי	noun
+שְׁפִיפֹן	noun
+הַנֹּשֵׁךְ	verb
+סוּס	noun
+קִוִּיתִי	verb
+גְּדוּד	noun
+יְגוּדֶנּוּ	verb
+יָגֻד	verb
+שְׁמֵנָה	adjective
+אַיָּלָה	noun
+שְׁלֻחָה	verb
+הַנֹּתֵן	verb
+אִמְרֵי	noun
+שָׁפֶר	noun
+פֹּרָת	verb
+עָיִן	noun
+צָעֲדָה	verb
+וָרֹבּוּ	verb
+חִצִּים	noun
+בְּאֵיתָן	adjective
+וַיָּפֹזּוּ	verb
+זְרֹעֵי	noun
+מִידֵי	noun
+אֲבִיר	noun
+אֶבֶן	noun
+וְיַעְזְרֶךָּ	verb
+וִיבָרְכֶךָּ	verb
+בִּרְכֹת	noun
+רֹבֶצֶת	verb
+תָּחַת	preposition
+שָׁדַיִם	noun
+תַּאֲוַת	noun
+גִּבְעֹת	noun
+לְרֹאשׁ	noun
+וּלְקָדְקֹד	noun
+נְזִיר	noun
+זְאֵב	noun
+יִטְרָף	verb
+יֹאכַל	verb
+וְלָעֶרֶב	noun
+יְחַלֵּק	verb
+שָׁלָל	noun
+וְזֹאת	adjective
+נֶאֱסָף	verb
+קִבְרוּ	verb
+אֲבֹתָי	noun
+הַמְּעָרָה	noun
+קָבְרוּ	verb
+וְשָׁמָּה	adverb
+קָבַרְתִּי	verb
+וַיֶּאֱסֹף	verb
+הָרֹפְאִים	verb
+לַחֲנֹט	verb
+וַיַּחַנְטוּ	verb
+יִמְלְאוּ	verb
+הַחֲנֻטִים	adjective
+דַּבְּרוּ	verb
+הִשְׁבִּיעַנִי	verb
+בְּקִבְרִי	noun
+כָּרִיתִי	verb
+תִּקְבְּרֵנִי	verb
+וְאָשׁוּבָה	noun
+וּקְבֹר	verb
+זִקְנֵי	adjective
+עָזְבוּ	verb
+רֶכֶב	noun
+פָּרָשִׁים	noun
+גֹּרֶן	proper
+הָאָטָד	relative
+בְּעֵבֶר	proper
+וַיִּסְפְּדוּ	verb
+מִסְפֵּד	adjective
+וְכָבֵד	adverb
+הָאֵבֶל	direct
+בְּגֹרֶן	proper
+צִוָּם	verb
+בִּמְעָרַת	noun
+יִשְׂטְמֵנוּ	verb
+וְהָשֵׁב	verb
+יָשִׁיב	verb
+גָּמַלְנוּ	verb
+תֹאמְרוּ	adverb
+אָנָּא	interjection
+פֶּשַׁע	noun
+גְמָלוּךָ	verb
+לְפֶשַׁע	noun
+בְּדַבְּרָם	verb
+חֲשַׁבְתֶּם	verb
+חֲשָׁבָהּ	verb
+לְטֹבָה	noun
+עֲשֹׂה	verb
+אֲכַלְכֵּל	verb
+טַפְּכֶם	direct
+וַיְנַחֵם	verb
+וַיְחִי	verb
+וָעֶשֶׂר	cardinal
+לְאֶפְרַיִם	proper
+שִׁלֵּשִׁים	noun
+מָכִיר	proper
+בִּרְכֵּי	noun
+וֵאלֹהִים	verb
+פָּקֹד	verb
+יִפְקֹד	verb
+וְהֶעֱלָה	verb
+וְהַעֲלִתֶם	verb
+עַצְמֹתַי	direct
+וַיִּישֶׂם	verb
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
+not found	not found
