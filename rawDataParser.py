@@ -3,6 +3,8 @@
 import re
 from sys import argv
 
+interjection = {}
+particle = {}
 
 def parseData(filePath):
 
@@ -38,14 +40,14 @@ def parseData(filePath):
 		# 	parseDemonstrative(line)
 		# elif partOfSpeech == 'determiner':
 		# 	parseDeterminer(line)
-		# elif partOfSpeech == 'interjection':
-		# 	parseInterjection(line)
+		 elif partOfSpeech == 'interjection':
+		 	parseInterjection(line, word)
 		# elif partOfSpeech == 'interrogative':
 		# 	parseInterrogative(line)
 		# elif partOfSpeech == 'noun':
 		# 	parseNoun(line)
-		# elif partOfSpeech == 'particle':
-		# 	parseParticle(line)
+		 elif partOfSpeech == 'particle':
+		 	parseParticle(line, word)
 		# elif partOfSpeech == 'preposition':
 		# 	parsePreoposition(line)
 		# elif partOfSpeech == 'pronoun':
@@ -101,6 +103,11 @@ def extractWord(line):
 	return pos
 
 
+def parseInterjection(line, word):
+	interjection[word] = True
+	
+def parseParticle(line, word):
+	particle[word] = True
 
 filePath = ''
 
