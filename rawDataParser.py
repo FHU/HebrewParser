@@ -61,8 +61,14 @@ def parseNoun(line):
 		if x == "Parts of Speech:":
 			found = True
 
-	words = [x for x in words if ]
-	print words
+	words = [x for x in words if x != 'Noun' and x != '' ]
+
+	firstLevel = {}
+
+	firstLevel['Gender'] = words[0]
+	firstLevel['Number'] = words[1]
+
+	Nouns[word] = firstLevel
 
 
 
