@@ -7,8 +7,7 @@ interjection = {}
 particle = {}
 Nouns = {}
 conjunctions = {}
-
-
+adjectives = {}
 prepositions = {}
 
 def parseData(filePath):
@@ -45,8 +44,8 @@ def parseData(filePath):
 		        parsePreoposition(line, word)
 		    if partOfSpeech == 'conjunction':
 		        parseConjunction(line)
-		
-
+			if partOfSpeech == 'adjective':
+				parseAdjective(line)
 
 def parseConjunction(line):
 	word = '';
@@ -144,11 +143,12 @@ def parseNoun(line):
 
 
 	Nouns[word] = firstLevel
+	
+	
 
 
 
 def extractPartOfSpeech(line):
-	
 	found = False
     
 	word_list = []
@@ -175,6 +175,35 @@ def extractPartOfSpeech(line):
 			found = True
 
 	return word_list
+	
+def parseAdjective(line):	
+	word = ''
+	root = ''
+	gender = ''
+	plurality = ''
+	otherThing = ''
+	strongsNumber = ''
+	#parse line
+	lineArray =  line.split('\t')
+	while(True):
+		try:
+			lineArray.remove('')
+		except:
+			break
+	for x in lineArray:
+		if x == "Word Parsed:":
+			word = lineArray[lineArray.index(x) + 1]
+		if x == "Root:":
+			root = lineArray[lineArray.index(x) + 1]
+		if x == "Parts of Speech:":
+			#print lineArray[lineArray.index(x) + 1]
+			gender = lineArray[lineArray.index(x) + 1][17:20]
+			plurality = lineArray[lineArray.index(x) + 1][22:26]
+			#print lineArray[lineArray.index(x) + 1][26:37]
+		if x == "Strong's Number:":
+			strongsNumber = lineArray[lineArray.index(x) + 1]
+	#add to dictionary
+	adjectives[word] = {'root': root, 'strongsNumber': strongsNumber, 'gender' : gender, 'plurality' : plurality}
 
 
 def extractWord(line):
