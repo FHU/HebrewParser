@@ -25,15 +25,15 @@ def parseData(filePath):
 			speechLine = word + '\t' + partOfSpeech + '\n'
 			partOfSpeechFile.write(speechLine)
 			
-			if partOfSpeech == 'interjection':
+			if partOfSpeech == 'Interjection':
 				parseInterjection(line, word)
-			if partOfSpeech == 'particle':
+			if partOfSpeech == 'Particle':
 				parseParticle(line, word)
-			if partOfSpeech == 'noun':
+			if partOfSpeech == 'Noun':
 				parseNoun(line)
-			if partOfSpeech == 'preposition':
+			if partOfSpeech == 'Preposition':
 				parsePreoposition(line, word)
-			if partOfSpeech == 'conjunction':
+			if partOfSpeech == 'Conjunction':
 				parseConjunction(line)
 			if partOfSpeech == 'Adjective':
 				print "i'm in here"
