@@ -11,40 +11,32 @@ adjectives = {}
 prepositions = {}
 
 def parseData(filePath):
-
 	partOfSpeechFile = open('partsOfSpeech.txt', 'w')
-
-
 
 	rawDataFile = open(filePath)
 
 	rawData = rawDataFile.readlines()
 
 	for line in rawData:
-		
 		word = extractWord(line)
-		
-		# if word != 'not found':
-		# 	print word
-		
 		partsOfSpeech = extractPartOfSpeech(line)
         
 		for partOfSpeech in partsOfSpeech:
-		    speechLine = word + '\t' + partOfSpeech + '\n'
-		
-		    partOfSpeechFile.write(speechLine)
-		
-		    if partOfSpeech == 'interjection':
-		        parseInterjection(line, word)
-		    if partOfSpeech == 'particle':
-		        parseParticle(line, word)
-		    if partOfSpeech == 'noun':
-		        parseNoun(line)
-		    if partOfSpeech == 'Preposition':
-		        parsePreoposition(line, word)
-		    if partOfSpeech == 'conjunction':
-		        parseConjunction(line)
-			if partOfSpeech == 'adjective':
+			speechLine = word + '\t' + partOfSpeech + '\n'
+			partOfSpeechFile.write(speechLine)
+			
+			if partOfSpeech == 'interjection':
+				parseInterjection(line, word)
+			if partOfSpeech == 'particle':
+				parseParticle(line, word)
+			if partOfSpeech == 'noun':
+				parseNoun(line)
+			if partOfSpeech == 'preposition':
+				parsePreoposition(line, word)
+			if partOfSpeech == 'conjunction':
+				parseConjunction(line)
+			if partOfSpeech == 'Adjective':
+				print "i'm in here"
 				parseAdjective(line)
 
 def parseConjunction(line):
@@ -233,9 +225,7 @@ def parseParticle(line, word):
 	particle[word] = True
 
 def parsePreoposition(line, word):
-	prepositions[word] = {}
-	prepositions[word]["isVerb"] = ("Verb" in line)
-	prepositions[word]["isPronoun"] = ("Pronoun" in line)
+	prepositions[word] = True
 
 filePath = ''
 
