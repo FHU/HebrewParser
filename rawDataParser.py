@@ -233,8 +233,9 @@ def computeStatsForVerse(verse, partOfSpeech, key, value):
 	foundWords = []
 	for word in verse.split(" "):
 		wordCount = wordCount + 1
-		temp = partOfSpeech[word]
-		if (temp):
+		temp = ''
+		if word in partOfSpeech:
+			temp = partOfSpeech[word]
 			if (temp[key] == value):
 				foundWords.append(word)
 	return foundWords.count() / wordCount
