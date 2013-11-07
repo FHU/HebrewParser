@@ -40,7 +40,7 @@ def parseData(filePath):
 		        parseParticle(line, word)
 		    if partOfSpeech == 'noun':
 		        parseNoun(line)
-		    if partOfSpeech == 'preposition':
+		    if partOfSpeech == 'Preposition':
 		        parsePreoposition(line, word)
 		    if partOfSpeech == 'conjunction':
 		        parseConjunction(line)
@@ -233,7 +233,9 @@ def parseParticle(line, word):
 	particle[word] = True
 
 def parsePreoposition(line, word):
-	prepositions[word] = True
+	prepositions[word] = {}
+	prepositions[word]["isVerb"] = ("Verb" in line)
+	prepositions[word]["isPronoun"] = ("Pronoun" in line)
 
 filePath = ''
 
