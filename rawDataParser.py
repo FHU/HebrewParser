@@ -227,8 +227,17 @@ def parseParticle(line, word):
 def parsePreoposition(line, word):
 	prepositions[word] = True
 
-def computeStatsForVerse(verse, partOfSpeech, key, value): #computeStatsForVerse(string verse, dictionary partOfSpeech, string key, string value)
-	return 0.00
+def computeStatsForVerse(verse, partOfSpeech, key, value):
+	#computeStatsForVerse(string verse, dictionary partOfSpeech, string key, string value)
+	wordCount = 0
+	foundWords = []
+	for word in verse.split(" "):
+		wordCount = wordCount + 1
+		temp = partOfSpeech[word]
+		if (temp):
+			if (temp[key] == value):
+				foundWords.append(word)
+	return foundWords.count() / wordCount
 
 filePath = ''
 
