@@ -226,6 +226,7 @@ def parseParticle(line, word):
 
 def parsePreoposition(line, word):
 	prepositions[word] = {}
+	prepositions[word]["isPreposition"] = True
 	prepositions[word]["isVerb"] = ("Verb" in line)
 	prepositions[word]["isPronoun"] = ("Pronoun" in line)
 
