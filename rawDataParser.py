@@ -225,7 +225,9 @@ def parseParticle(line, word):
 	particle[word] = True
 
 def parsePreoposition(line, word):
-	prepositions[word] = True
+	prepositions[word] = {}
+	prepositions[word]["isVerb"] = ("Verb" in line)
+	prepositions[word]["isPronoun"] = ("Pronoun" in line)
 
 def computeStatsForVerse(verse, partOfSpeech, key, value):
 	#computeStatsForVerse(string verse, dictionary partOfSpeech, string key, string value)
