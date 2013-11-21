@@ -242,7 +242,7 @@ def parsePreoposition(line, word):
 	prepositions[word]["isVerb"] = ("Verb" in line)
 	prepositions[word]["isPronoun"] = ("Pronoun" in line)
 	
-def parseInterrogative()
+def parseInterrogative():
 	InterrogativeDict = dict()
 	defList = []
 	
