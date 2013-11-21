@@ -64,6 +64,9 @@ def parseConjunction(line):
 	conjunctions[word] = {'root': root, 'strongsNumber': strongsNumber}
 
 def parseNoun(line):
+	firstLevel = {}
+
+
 	word = extractWord(line)
 	found = False
 	for x in line.split('\t'):
@@ -76,22 +79,29 @@ def parseNoun(line):
 		if x == "Parts of Speech:":
 			found = True
 
-	words = [x for x in words if x != 'Noun' and x != '' ]
 
-	firstLevel = {}
 
-	firstLevel['Gender'] = words[0]
-	firstLevel['Number'] = words[1]
+	words = [x for x in words if x != 'Noun' and x != '']
 
-	for x in line.split('\t'):
-		if x == '':
-			f = 2
-		elif True:
-			if found == True:
-				words = x.split(' ')
-				break
-		if x == "Parts of Speech:":
-			found = True
+	if "Proper" in words:
+		firstLevel['Gender'] = "null"
+		firstLevel['Number'] = "null"
+		firstLevel['isProperNoun'] = "True"
+	
+	else:
+		firstLevel['isProperNoun'] = "False"
+		firstLevel['Gender'] = words[0]
+		firstLevel['Number'] = words[1]
+
+		for x in line.split('\t'):
+			if x == '':
+				f = 2
+			elif True:
+				if found == True:
+					words = x.split(' ')
+					break
+			if x == "Parts of Speech:":
+				found = True
 
 	
 
@@ -111,7 +121,7 @@ def parseNoun(line):
 
 
 	
-	words = [x for x in words if x != 'Noun' and x != '' ]
+	words = [x for x in words if x != 'Noun' and x != ''  and x != "Proper"]
 
 	firstLevel['Root'] = words[0]
 
@@ -233,7 +243,8 @@ def parsePreoposition(line, word):
 	prepositions[word]["isVerb"] = ("Verb" in line)
 	prepositions[word]["isPronoun"] = ("Pronoun" in line)
 	
-def parseInterrogative()
+
+def parseInterrogative():
 	InterrogativeDict = dict()
 	defList = []
 	
@@ -249,6 +260,17 @@ def parseInterrogative()
 	count = 0
 	for e in defList:
 		count += 1
+
+def parseInterrogative(line):
+	defList = []
+
+	placeholder = line.split("\t")
+	for e in placeholder:
+		if(e != ''):
+			if(e != ' '):
+				defList.append(e)
+	for e in defList:
+
 		if "Interrogative" in e[3]:
 			for i in e:
 				if i == "Strong's Number:":
@@ -321,6 +343,7 @@ def parseInterrogative()
 			
 			interrogatives[hebWord] = attributeDict
 	
+
 	#for w in InterrogativeDict:
 	#	print w
 	#	for k in InterrogativeDict[w]:
@@ -358,6 +381,12 @@ def parseAdverb(line):
 	
 	#add to dictionary
 	adverbs[word] = {'root': root, 'strongsNumber': strongsNumber, 'gender' : gender, 'plurality' : plurality}
+
+
+	#for w in interrogatives:
+	#	print w
+	#	for k in interrogatives[w]:
+	#		print k + ": " + interrogatives[w][k]
 
 
 def computeStatsForVerse(verse, partOfSpeech, key, value):
