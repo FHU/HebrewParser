@@ -325,6 +325,40 @@ def parseInterrogative()
 	#		print k + ": " + InterrogativeDict[w][k]
 	return InterrogativeDict
 
+def parseAdverb(line):        
+	word = ''
+	root = ''
+	gender = ''
+	plurality = ''
+	strongsNumber = ''
+	
+	#parse line
+	
+	lineArray =  line.split('\t')
+	while(True):
+		try:
+			lineArray.remove('')
+		except:
+			break
+	
+	for x in lineArray:
+		if x == "Word Parsed:":
+			word = lineArray[lineArray.index(x) + 1]
+		
+		if x == "Root:":
+			root = lineArray[lineArray.index(x) + 1]
+		
+		if x == "Parts of Speech:":
+			gender = lineArray[lineArray.index(x) + 1][17:20]
+			plurality = lineArray[lineArray.index(x) + 1][22:26]
+		
+		if x == "Strong's Number:":
+			strongsNumber = lineArray[lineArray.index(x) + 1]
+	
+	#add to dictionary
+	adverbs[word] = {'root': root, 'strongsNumber': strongsNumber, 'gender' : gender, 'plurality' : plurality}
+
+
 def computeStatsForVerse(verse, partOfSpeech, key, value):
 	#computeStatsForVerse(string verse, dictionary partOfSpeech, string key, string value)
 	wordCount = 0
