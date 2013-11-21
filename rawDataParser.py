@@ -47,6 +47,8 @@ def parseData(filePath):
 			if partOfSpeech == 'Relative':
 				relative = True;
 				parsePronoun(line, word, relative)
+			if partOfSpeech == 'Interrogative':
+				parseInterrogative(line)
 			
 
 def parseConjunction(line):
