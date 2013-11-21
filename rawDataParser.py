@@ -11,6 +11,7 @@ adjectives = {}
 prepositions = {}
 interrogatives = {}
 adverbs = {}
+pronouns = {}
 
 def parseData(filePath):
 	partOfSpeechFile = open('partsOfSpeech.txt', 'w')
@@ -40,6 +41,12 @@ def parseData(filePath):
 			if partOfSpeech == 'Adjective':
 				print "i'm in here"
 				parseAdjective(line)
+			if partOfSpeech == 'Pronoun':
+				relative = False
+				parsePronoun(line, word, relative)
+			if partOfSpeech == 'Relative':
+				relative = True;
+				parsePronoun(line, word, relative)
 			
 
 def parseConjunction(line):
@@ -149,7 +156,26 @@ def parseNoun(line):
 
 	Nouns[word] = firstLevel
 	
-	
+def parsePronoun(line,word, relative):
+	word = '';
+	root = '';
+	strongsNumber = '';
+	#parse line
+	lineArray =  line.split('\t')
+	while(True):
+		try:
+			lineArray.remove('')
+		except:
+			break
+	for x in lineArray:
+		if x == "Word Parsed:":
+			word = lineArray[lineArray.index(x) + 1]
+		if x == "Root:":
+			root = lineArray[lineArray.index(x) + 1]
+		if x == "Strong's Number:":
+			strongsNumber = lineArray[lineArray.index(x) + 1]
+		#add to dictionary
+	pronouns[word] = {'Root': root, 'Strongs Number': strongsNumber, 'Relative': relative}	
 
 
 
