@@ -204,6 +204,7 @@ def parseAdjective(line):
 			#print lineArray[lineArray.index(x) + 1]
 			gender = lineArray[lineArray.index(x) + 1][17:20]
 			plurality = lineArray[lineArray.index(x) + 1][22:26]
+			plurality = plurality.strip()
 			#print lineArray[lineArray.index(x) + 1][26:37]
 		if x == "Strong's Number:":
 			strongsNumber = lineArray[lineArray.index(x) + 1]
