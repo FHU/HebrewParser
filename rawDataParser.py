@@ -9,6 +9,7 @@ Nouns = {}
 conjunctions = {}
 adjectives = {}
 prepositions = {}
+interrogatives = {}
 
 def parseData(filePath):
 	partOfSpeechFile = open('partsOfSpeech.txt', 'w')
@@ -317,13 +318,12 @@ def parseInterrogative()
 			wordDefInfo = [poS, gender, tense, number, strongNum]
 			attributeDict = dict(zip(wordDefTypes, wordDefInfo))
 			
-			InterrogativeDict[hebWord] = attributeDict
+			interrogatives[hebWord] = attributeDict
 	
 	#for w in InterrogativeDict:
 	#	print w
 	#	for k in InterrogativeDict[w]:
 	#		print k + ": " + InterrogativeDict[w][k]
-	return InterrogativeDict
 
 def computeStatsForVerse(verse, partOfSpeech, key, value):
 	#computeStatsForVerse(string verse, dictionary partOfSpeech, string key, string value)
