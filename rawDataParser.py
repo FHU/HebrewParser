@@ -232,22 +232,15 @@ def parsePreoposition(line, word):
 	prepositions[word]["isVerb"] = ("Verb" in line)
 	prepositions[word]["isPronoun"] = ("Pronoun" in line)
 	
-def parseInterrogative()
-	InterrogativeDict = dict()
+def parseInterrogative(line):
 	defList = []
-	
-	for line in hebFile:
-		wordDef = []
-		placeholder = line.split("\t")
-		for e in placeholder:
-			if(e != ''):
-				if(e != ' '):
-					wordDef.append(e)
-		defList.append(wordDef);
 
-	count = 0
+	placeholder = line.split("\t")
+	for e in placeholder:
+		if(e != ''):
+			if(e != ' '):
+				defList.append(e)
 	for e in defList:
-		count += 1
 		if "Interrogative" in e[3]:
 			for i in e:
 				if i == "Strong's Number:":
@@ -320,44 +313,10 @@ def parseInterrogative()
 			
 			interrogatives[hebWord] = attributeDict
 	
-	#for w in InterrogativeDict:
+	#for w in interrogatives:
 	#	print w
-	#	for k in InterrogativeDict[w]:
-	#		print k + ": " + InterrogativeDict[w][k]
-
-def parseAdverb(line):        
-	word = ''
-	root = ''
-	gender = ''
-	plurality = ''
-	strongsNumber = ''
-	
-	#parse line
-	
-	lineArray =  line.split('\t')
-	while(True):
-		try:
-			lineArray.remove('')
-		except:
-			break
-	
-	for x in lineArray:
-		if x == "Word Parsed:":
-			word = lineArray[lineArray.index(x) + 1]
-		
-		if x == "Root:":
-			root = lineArray[lineArray.index(x) + 1]
-		
-		if x == "Parts of Speech:":
-			gender = lineArray[lineArray.index(x) + 1][17:20]
-			plurality = lineArray[lineArray.index(x) + 1][22:26]
-		
-		if x == "Strong's Number:":
-			strongsNumber = lineArray[lineArray.index(x) + 1]
-	
-	#add to dictionary
-	adverbs[word] = {'root': root, 'strongsNumber': strongsNumber, 'gender' : gender, 'plurality' : plurality}
-
+	#	for k in interrogatives[w]:
+	#		print k + ": " + interrogatives[w][k]
 
 def computeStatsForVerse(verse, partOfSpeech, key, value):
 	#computeStatsForVerse(string verse, dictionary partOfSpeech, string key, string value)
