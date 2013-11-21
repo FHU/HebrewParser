@@ -242,6 +242,7 @@ def parsePreoposition(line, word):
 	prepositions[word]["isVerb"] = ("Verb" in line)
 	prepositions[word]["isPronoun"] = ("Pronoun" in line)
 	
+
 def parseInterrogative():
 	InterrogativeDict = dict()
 	defList = []
@@ -258,6 +259,17 @@ def parseInterrogative():
 	count = 0
 	for e in defList:
 		count += 1
+
+def parseInterrogative(line):
+	defList = []
+
+	placeholder = line.split("\t")
+	for e in placeholder:
+		if(e != ''):
+			if(e != ' '):
+				defList.append(e)
+	for e in defList:
+
 		if "Interrogative" in e[3]:
 			for i in e:
 				if i == "Strong's Number:":
@@ -330,6 +342,7 @@ def parseInterrogative():
 			
 			interrogatives[hebWord] = attributeDict
 	
+
 	#for w in InterrogativeDict:
 	#	print w
 	#	for k in InterrogativeDict[w]:
@@ -369,6 +382,12 @@ def parseAdverb(line):
 	adverbs[word] = {'root': root, 'strongsNumber': strongsNumber, 'gender' : gender, 'plurality' : plurality}
 
 
+	#for w in interrogatives:
+	#	print w
+	#	for k in interrogatives[w]:
+	#		print k + ": " + interrogatives[w][k]
+
+
 def computeStatsForVerse(verse, partOfSpeech, key, value):
 	#computeStatsForVerse(string verse, dictionary partOfSpeech, string key, string value)
 	wordCount = 0
@@ -393,4 +412,4 @@ elif True:
 parseData(filePath)
 
 
-print Nouns
+#print Nouns
