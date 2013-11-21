@@ -61,6 +61,9 @@ def parseConjunction(line):
 	conjunctions[word] = {'root': root, 'strongsNumber': strongsNumber}
 
 def parseNoun(line):
+	firstLevel = {}
+
+
 	word = extractWord(line)
 	found = False
 	for x in line.split('\t'):
@@ -73,22 +76,29 @@ def parseNoun(line):
 		if x == "Parts of Speech:":
 			found = True
 
-	words = [x for x in words if x != 'Noun' and x != '' ]
 
-	firstLevel = {}
 
-	firstLevel['Gender'] = words[0]
-	firstLevel['Number'] = words[1]
+	words = [x for x in words if x != 'Noun' and x != '']
 
-	for x in line.split('\t'):
-		if x == '':
-			f = 2
-		elif True:
-			if found == True:
-				words = x.split(' ')
-				break
-		if x == "Parts of Speech:":
-			found = True
+	if "Proper" in words:
+		firstLevel['Gender'] = "null"
+		firstLevel['Number'] = "null"
+		firstLevel['isProperNoun'] = "True"
+	
+	else:
+		firstLevel['isProperNoun'] = "False"
+		firstLevel['Gender'] = words[0]
+		firstLevel['Number'] = words[1]
+
+		for x in line.split('\t'):
+			if x == '':
+				f = 2
+			elif True:
+				if found == True:
+					words = x.split(' ')
+					break
+			if x == "Parts of Speech:":
+				found = True
 
 	
 
@@ -108,7 +118,7 @@ def parseNoun(line):
 
 
 	
-	words = [x for x in words if x != 'Noun' and x != '' ]
+	words = [x for x in words if x != 'Noun' and x != ''  and x != "Proper"]
 
 	firstLevel['Root'] = words[0]
 
@@ -254,4 +264,4 @@ elif True:
 parseData(filePath)
 
 
-#print Nouns
+print Nouns
