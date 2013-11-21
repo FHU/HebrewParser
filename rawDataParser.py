@@ -10,6 +10,7 @@ conjunctions = {}
 adjectives = {}
 prepositions = {}
 interrogatives = {}
+adverbs = {}
 
 def parseData(filePath):
 	partOfSpeechFile = open('partsOfSpeech.txt', 'w')
