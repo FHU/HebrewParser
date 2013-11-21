@@ -289,7 +289,7 @@ def parseInterrogative()
 			elif "Infinitive" and "Absolute" in subLine:
 				tense = "Infinitive Absolute"
 			else:
-				tense = "None"
+				tense = ""
 				
 			#Gender
 			if "Mas." in subLine or "Mas." in e[4]:
@@ -299,7 +299,7 @@ def parseInterrogative()
 			if "Com." in subLine or "Com." in e[4]:
 				gender = "Com."
 			else:
-				gender = "None"
+				gender = ""
 				
 			#Number
 			if "Sing." and "Absolute" in subLine or "Sing." and "Absolute" in e[4]:
@@ -309,10 +309,10 @@ def parseInterrogative()
 			elif "Pl." in subLine or "Pl." in e[4]:
 				number = "Pl."
 			else:
-				number = "None"
+				number = ""
 		
 			if not poS:
-				poS = "None"
+				poS = ""
 			wordDefTypes = ["pOS", "Gender", "Tense", "Number", "Strong's Number"]
 			wordDefInfo = [poS, gender, tense, number, strongNum]
 			attributeDict = dict(zip(wordDefTypes, wordDefInfo))
