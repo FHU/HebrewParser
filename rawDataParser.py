@@ -373,6 +373,8 @@ def parseInterrogative(line):
 			interrogatives[hebWord] = attributeDict
 	
 
+
+# comment from my phone.
 	#for w in InterrogativeDict:
 	#	print w
 	#	for k in InterrogativeDict[w]:
