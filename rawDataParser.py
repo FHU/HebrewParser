@@ -2,6 +2,7 @@
 
 import re
 from sys import argv
+import pandas
 
 interjection = {}
 particle = {}
@@ -465,7 +466,10 @@ elif True:
 
 parseData(filePath)
 
-projectGenesisToVerses("genesis.txt")
+df = pandas.DataFrame(projectGenesisToVerses("genesis.txt"))
+writer = pandas.ExcelWriter('hallelujah.xlsx')
+df.to_excel(writer,'data')
+writer.save()
 
 
 #print Nouns
