@@ -39,7 +39,6 @@ def parseData(filePath):
 			if partOfSpeech == 'Conjunction':
 				parseConjunction(line)
 			if partOfSpeech == 'Adjective':
-				print "i'm in here"
 				parseAdjective(line)
 			if partOfSpeech == 'Pronoun':
 				relative = False
@@ -120,7 +119,7 @@ def parseNoun(line):
 		if x == '':
 			f = 2
 		elif True:
-			print x
+			#print x
 			if found == True:
 				words = x.split(' ')
 				break
@@ -141,7 +140,6 @@ def parseNoun(line):
 		if x == '':
 			f = 2
 		elif True:
-			print x
 			if found == True:
 				words = x.split(' ')
 				break
@@ -428,6 +426,35 @@ def computeStatsForVerse(verse, partOfSpeech, key, value):
 				foundWords.append(word)
 	return foundWords.count() / wordCount
 
+def projectGenesisToVerses(filename):
+    f = open(filename)
+    dataset = []
+    for line in f:
+        if (line.find("xxxx") > -1):
+            continue
+        unsorted_parts = line.split("\xc2\xa0")
+        parts = []
+        for part in unsorted_parts:
+            if len(part) > 0:
+                parts.append(part)
+        verse = (parts[3]).replace("\xd7\x83", "").replace('\u202b', "").replace('\u202c', "")
+        cn = parts[2].replace("\xd7\x83", "")
+        vn = parts[1]
+       
+        print cn + ":" + vn
+        row = calculateDataForVerse(verse, cn, vn)
+        
+        dataset.append(row)
+    return dataset
+    
+def calculateDataForVerse(text, chapter, verse):
+    words = text.split()
+    data = [chapter, verse]
+    # Calculate the values somehow?
+    return data
+    
+    
+
 filePath = ''
 
 if len(argv) < 2:
@@ -437,6 +464,8 @@ elif True:
 	filePath = argv[1]
 
 parseData(filePath)
+
+projectGenesisToVerses("genesis.txt")
 
 
 #print Nouns
