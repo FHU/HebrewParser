@@ -48,7 +48,7 @@ def parseData(filePath):
 				relative = True;
 				parsePronoun(line, word, relative)
 			if partOfSpeech == 'Interrogative':
-				parseInterrogative(line)
+				parseInterrogative(line, word)
 			
 
 def parseConjunction(line):
@@ -272,7 +272,6 @@ def parsePreoposition(line, word):
 	prepositions[word]["isVerb"] = ("Verb" in line)
 	prepositions[word]["isPronoun"] = ("Pronoun" in line)
 	
-
 def parseInterrogative():
 	InterrogativeDict = dict()
 	defList = []
@@ -290,8 +289,9 @@ def parseInterrogative():
 	for e in defList:
 		count += 1
 
-def parseInterrogative(line):
+def parseInterrogative(line, word):
 	defList = []
+	strongNum = ''
 
 	placeholder = line.split("\t")
 	for e in placeholder:
@@ -299,86 +299,81 @@ def parseInterrogative(line):
 			if(e != ' '):
 				defList.append(e)
 	for e in defList:
-
-		if "Interrogative" in e[3]:
-			for i in e:
-				if i == "Strong's Number:":
-					strongNum = e[(e.index(i) + 1)]
-			hebWord = e[1]
-			subLine = e[3]
+		if e == "Strong's Number:":
+			strongNum = defList[(defList.index(e) + 1)]
+		hebWord = word
+		subLine = line
 			
-			poS = ''
-			#Parts of Speech
-			if "Noun" in subLine:
-				poS += "Noun"
-			elif "Adjective" in subLine:
-				poS += "Adjective"
-			elif "Adverb" in subLine:
-				poS += "Adverb"
-			elif "Conjunction" in subLine:
-				poS += "Conjunction"
-			elif "Pronoun" in subLine:
-				poS += "Pronoun"
-			elif "Preposition" in subLine:
-				poS += "Preposition"
-			elif "Verb" and "Qal" in subLine:
-				poS += "Verb Qal"
-			elif "Verb" and "Hiphil" in subLine:
-				poS += "Verb Hiphil"
-			elif "Verb" and "Niphal" in subLine:
-				poS += "Verb Niphal"
-			if "Negative" and "Particle" in subLine:
-				poS += "Negative Particle"
+		poS = ''
+		#Parts of Speech
+		if "Noun" in subLine:
+			poS += "Noun"
+		elif "Adjective" in subLine:
+			poS += "Adjective"
+		elif "Adverb" in subLine:
+			poS += "Adverb"
+		elif "Conjunction" in subLine:
+			poS += "Conjunction"
+		elif "Pronoun" in subLine:
+			poS += "Pronoun"
+		elif "Preposition" in subLine:
+			poS += "Preposition"
+		elif "Verb" and "Qal" in subLine:
+			poS += "Verb Qal"
+		elif "Verb" and "Hiphil" in subLine:
+			poS += "Verb Hiphil"
+		elif "Verb" and "Niphal" in subLine:
+			poS += "Verb Niphal"
+		if "Negative" and "Particle" in subLine:
+			poS += "Negative Particle"
 			
 			#Tenses
-			if "Participle" in subLine:
-				tense = "Participle"
-			elif "Perfect" and "3" in subLine:
-				tense = "Perfect 3rd"
-			elif "Perfect" and "2" in subLine:
-				tense = "Perfect 2nd"
-			elif "Imperfect" and "2" in subLine:
-				tense = "Imperfect 2nd"
-			elif "Infinitive" and "Absolute" in subLine:
-				tense = "Infinitive Absolute"
-			else:
-				tense = ""
+		if "Participle" in subLine:
+			tense = "Participle"
+		elif "Perfect" and "3" in subLine:
+			tense = "Perfect 3rd"
+		elif "Perfect" and "2" in subLine:
+			tense = "Perfect 2nd"
+		elif "Imperfect" and "2" in subLine:
+			tense = "Imperfect 2nd"
+		elif "Infinitive" and "Absolute" in subLine:
+			tense = "Infinitive Absolute"
+		else:
+			tense = "None"
 				
 			#Gender
-			if "Mas." in subLine or "Mas." in e[4]:
-				gender = "Mas."
-			if "Fem." in subLine or "Fem." in e[4]:
-				gender = "Fem."
-			if "Com." in subLine or "Com." in e[4]:
-				gender = "Com."
-			else:
-				gender = ""
+		if "Mas." in subLine:
+			gender = "Mas."
+		if "Fem." in subLine:
+			gender = "Fem."
+		if "Com." in subLine:
+			gender = "Com."
+		else:
+			gender = "None"
 				
 			#Number
-			if "Sing." and "Absolute" in subLine or "Sing." and "Absolute" in e[4]:
-				number = "Singular Absolute"
-			if "Sing." in subLine or "Sing." in e[4]:
-					number = "Sing."
-			elif "Pl." in subLine or "Pl." in e[4]:
-				number = "Pl."
-			else:
-				number = ""
+		if "Sing." and "Absolute" in subLine:
+			number = "Singular Absolute"
+		if "Sing." in subLine:
+				number = "Sing."
+		elif "Pl." in subLine:
+			number = "Pl."
+		else:
+			number = "None"
 		
-			if not poS:
-				poS = ""
-			wordDefTypes = ["pOS", "Gender", "Tense", "Number", "Strong's Number"]
-			wordDefInfo = [poS, gender, tense, number, strongNum]
-			attributeDict = dict(zip(wordDefTypes, wordDefInfo))
+		if not poS:
+			poS = "None"
+		wordDefTypes = ["pOS", "Gender", "Tense", "Number", "Strong's Number"]
+		wordDefInfo = [poS, gender, tense, number, strongNum]
+		attributeDict = dict(zip(wordDefTypes, wordDefInfo))
 			
-			interrogatives[hebWord] = attributeDict
-	
-
+		interrogatives[hebWord] = attributeDict
 
 # comment from my phone.
-	#for w in InterrogativeDict:
-	#	print w
-	#	for k in InterrogativeDict[w]:
-	#		print k + ": " + InterrogativeDict[w][k]
+		#for w in interrogatives:
+		#	print w
+		#	for k in interrogatives[w]:
+		#		print k + ": " + interrogatives[w][k]
 
 def parseAdverb(line):        
 	word = ''
