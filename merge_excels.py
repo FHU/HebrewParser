@@ -29,7 +29,7 @@ f.write("% Title: Reallywritter\n%\n@RELATION text\n")
 for key in new_data:
     f.write("@ATTRIBUTE\t"+key+"\t")
     if key == "Genre":
-        f.write("{Genealogy, Narrative, Blessing, Law, Covenant, Genealogies}")
+        f.write("{Genealogy, Narrative, Blessing, Law, Covenant}")
     elif key == "hasElohim" or key == "hasYHWH":
         f.write("{Y, N}")
     elif key == "Classification":
@@ -53,4 +53,4 @@ for i in xrange(0, len(verses)):
         first = False
     f.write("\n")
 f.close()
-        
+
