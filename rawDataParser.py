@@ -414,6 +414,8 @@ def parseAdverb(line):
 	#		print k + ": " + interrogatives[w][k]
 
 
+
+
 def computeStatsForVerse(verse, partOfSpeech, key, value):
 	#computeStatsForVerse(string verse, dictionary partOfSpeech, string key, string value)
 	wordCount = 0
@@ -425,7 +427,8 @@ def computeStatsForVerse(verse, partOfSpeech, key, value):
 			temp = partOfSpeech[word]
 			if (temp[key] == value):
 				foundWords.append(word)
-	return foundWords.count() / wordCount
+	print str(len(foundWords)) + "/" + str (wordCount)
+	return (len(foundWords) * 1.0) / (wordCount * 1.0)
 
 def projectGenesisToVerses(filename):
     f = open(filename)
@@ -448,10 +451,18 @@ def projectGenesisToVerses(filename):
         dataset.append(row)
     return dataset
     
+columns = [
+    [prepositions, "isPreposition", True],
+    [prepositions, "isVerb", True],
+    [prepositions, "isPronoun", True]
+    ]
+    
 def calculateDataForVerse(text, chapter, verse):
     words = text.split()
     data = [chapter, verse]
     # Calculate the values somehow?
+    for column in columns:
+        data.append(computeStatsForVerse(text, column[0], column[1], column[2]))
     return data
     
     
