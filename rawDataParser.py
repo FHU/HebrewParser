@@ -429,6 +429,8 @@ def computeStatsForVerse(verse, partOfSpeech, key, value):
 			if (temp[key] == value):
 				foundWords.append(word)
 	print str(len(foundWords)) + "/" + str (wordCount)
+	if wordCount == 0:
+	    return 0
 	return (len(foundWords) * 1.0) / (wordCount * 1.0)
 
 def projectGenesisToVerses(filename):
@@ -457,8 +459,8 @@ def projectGenesisToVerses(filename):
     
 columns = [
     ["Prepositions",prepositions, "isPreposition", True],
-    ["Prepositions+verb", prepositions, "isVerb", True],
-    ["Prepositions+pronoun",prepositions, "isPronoun", True],
+    ["Prepositions_verb", prepositions, "isVerb", True],
+    ["Prepositions_pronoun",prepositions, "isPronoun", True],
     ["Particle",particle, "isParticle", True],
     ["Propernouns",Nouns, "isProperNoun", "True"]
     
