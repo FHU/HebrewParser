@@ -263,7 +263,7 @@ def parseInterjection(line, word):
 	interjection[word] = True
 	
 def parseParticle(line, word):
-	particle[word] = True
+	particle[word]["isParticle"] = True
 
 def parsePreoposition(line, word):
 	prepositions[word] = {}
@@ -454,7 +454,9 @@ def projectGenesisToVerses(filename):
 columns = [
     [prepositions, "isPreposition", True],
     [prepositions, "isVerb", True],
-    [prepositions, "isPronoun", True]
+    [prepositions, "isPronoun", True],
+    [particle, "isParticle", True],
+    [Nouns, "isProperNoun", "True"],
     ]
     
 def calculateDataForVerse(text, chapter, verse):
