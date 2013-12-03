@@ -263,6 +263,7 @@ def parseInterjection(line, word):
 	interjection[word] = True
 	
 def parseParticle(line, word):
+	particle[word] = {}
 	particle[word]["isParticle"] = True
 
 def parsePreoposition(line, word):
@@ -432,7 +433,7 @@ def computeStatsForVerse(verse, partOfSpeech, key, value):
 
 def projectGenesisToVerses(filename):
     f = open(filename)
-    dataset = []
+    dataset = {}
     for line in f:
         if (line.find("xxxx") > -1):
             continue
@@ -448,23 +449,30 @@ def projectGenesisToVerses(filename):
         print cn + ":" + vn
         row = calculateDataForVerse(verse, cn, vn)
         
-        dataset.append(row)
+        for column in row:
+        	if not column in dataset:
+        		dataset[column] = []
+        	dataset[column].append(row[column])
     return dataset
     
 columns = [
-    [prepositions, "isPreposition", True],
-    [prepositions, "isVerb", True],
-    [prepositions, "isPronoun", True],
-    [particle, "isParticle", True],
-    [Nouns, "isProperNoun", "True"],
+    ["Prepositions",prepositions, "isPreposition", True],
+    ["Prepositions+verb", prepositions, "isVerb", True],
+    ["Prepositions+pronoun",prepositions, "isPronoun", True],
+    ["Particle",particle, "isParticle", True],
+    ["Propernouns",Nouns, "isProperNoun", "True"]
+    
     ]
     
 def calculateDataForVerse(text, chapter, verse):
     words = text.split()
-    data = [chapter, verse]
+    data = {}
+    data["chapter"] = chapter
+    data["verse"] = verse
     # Calculate the values somehow?
     for column in columns:
-        data.append(computeStatsForVerse(text, column[0], column[1], column[2]))
+    	val = computeStatsForVerse(text, column[1], column[2], column[3])
+        data[column[0]] = val
     return data
     
     
