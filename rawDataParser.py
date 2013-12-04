@@ -263,7 +263,7 @@ def extractWord(line):
 
 
 def parseInterjection(line, word):
-	interjection[word] = True
+	interjection[word]["isInterjection"] = True
 	
 def parseParticle(line, word):
 	particle[word] = {}
@@ -419,6 +419,48 @@ def parseAdverb(line):
 
 
 
+def parseVerb(line):
+	word = 'Not Found'
+	root = 'Not Found'
+	gender = 'Not Found'
+	number = 'Not Found'
+	tense = 'Not Found'
+	stem = 'Not Found'
+	line = re.sub(',', '', line)
+	s1 = []
+	for x in line.split('\t'):
+		 i = -1
+		u = x.split(' ')
+		if x!='':
+			for y in x.split(' '):
+				if y!='':
+					s1.append(y)
+	for z in s1:
+		if z == 'Parsed:':
+			word = s1[s1.index(z) + 1]
+		if z == 'Root:':
+			root = s1[s1.index(z) + 1]
+		if z == 'Verb':
+			stem = s1[s1.index(z) + 1]
+			tense = s1[s1.index(z) + 2]
+			if tense == 'Participle':
+				gender = 'Not Found'
+				number = 'Not Found'
+			elif tense == 'Imperative':
+				gender = 'Not Found'
+				number = 'Not Found'
+			elif tense == 'Infinitive':
+				tense += (' ' + s1[s1.index(z) + 3])
+				gender = 'Not Found'
+				number = 'Not Found'
+			else:
+				gender = s1[s1.index(z) + 5]
+				number = s1[s1.index(z) + 6]
+	verbs[word] = {'root': root, 'gender': gender ,'number': number ,'tense': tense, 'stem': stem}
+
+
+
+
 
 def computeStatsForVerse(verse, partOfSpeech, key, value):
 	#computeStatsForVerse(string verse, dictionary partOfSpeech, string key, string value)
@@ -465,8 +507,9 @@ columns = [
     ["Prepositions_verb", prepositions, "isVerb", True],
     ["Prepositions_pronoun",prepositions, "isPronoun", True],
     ["Particle",particle, "isParticle", True],
-    ["Propernouns",Nouns, "isProperNoun", "True"]
-    
+    ["Propernouns",Nouns, "isProperNoun", "True"],
+    ["Interjection",interjection, "isInterjection", True]
+
     ]
     
 def calculateDataForVerse(text, chapter, verse):
