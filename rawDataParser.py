@@ -314,16 +314,16 @@ def parseAdjective(line):
 					isAbsolute = False
 					isConstruct = False
 			elif lineArray[lineArray.index(x) + 1][0:17] == "Adverb, Adjective":
-				gender = lineArray[lineArray.index(x) + 1][24:28]
-				if lineArray[lineArray.index(x) + 1][29] == "S":
+				gender = lineArray[lineArray.index(x) + 1][25:29]
+				if lineArray[lineArray.index(x) + 1][30] == "S":
 					plurality = "Sing."
-				elif lineArray[lineArray.index(x) + 1][29] == "P":
+				elif lineArray[lineArray.index(x) + 1][30] == "P":
 					plurality = "Pl."
 														
-				if lineArray[lineArray.index(x) + 1][33:43] == ". Absolute" or lineArray[lineArray.index(x) + 1][33:43] == "Absolute":
+				if lineArray[lineArray.index(x) + 1][34:44] == ". Absolute" or lineArray[lineArray.index(x) + 1][34:44] == "Absolute":
 					isAbsolute = True
 					isConstruct = False
-				elif lineArray[lineArray.index(x) + 1][33:43] == ". Construct" or lineArray[lineArray.index(x) + 1][33:43] == "Construct":
+				elif lineArray[lineArray.index(x) + 1][34:44] == ". Construct" or lineArray[lineArray.index(x) + 1][34:44] == "Construct":
 					isConstruct = True
 					isAbsolute = False
 				else:
@@ -364,7 +364,7 @@ def parseAdjective(line):
 		if x == "Strong's Number:":
 			strongsNumber = lineArray[lineArray.index(x) + 1]
 	#add to dictionary
-	adjectives[word] = {'root': root, 'strongsNumber': strongsNumber, 'gender' : gender, 'plurality' : plurality, 'isAbsolute' : isAbsolute, 'isConstruct' : isConstruct}
+	adjectives[word] = {'root': root, 'strongsNumber': strongsNumber, 'gender' : gender, 'number' : plurality, 'isAbsolute' : isAbsolute, 'isConstruct' : isConstruct}
 	
 
 
@@ -667,6 +667,8 @@ columns = [
 
     ["Interrogative_mas",interrogatives, "Gender", "Mas."],
     ["Interrogative_fem",interrogatives, "Gender", "Fem."]
+	
+	["Adjective", adjectives, "isAdjective", True],
 	
     ]
     
