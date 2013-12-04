@@ -3,6 +3,8 @@
 import re
 from sys import argv
 import pandas
+import openpyxl
+from openpyxl import workbook
 
 interjection = {}
 particle = {}
@@ -54,6 +56,7 @@ def parseData(filePath):
 				parseVerb(line)
 			
 	print adjectives
+	
 def parseConjunction(line):
 	word = '';
 	root = '';
@@ -73,7 +76,7 @@ def parseConjunction(line):
 		if x == "Strong's Number:":
 			strongsNumber = lineArray[lineArray.index(x) + 1]
 	#add to dictionary
-	conjunctions[word] = {'root': root, 'strongsNumber': strongsNumber}
+	conjunctions[word] = {'root': root, 'strongsNumber': strongsNumber, 'isConjunction': True}
 
 def parseNoun(line):
 	firstLevel = {}
@@ -666,7 +669,9 @@ columns = [
 	["Adjective_interrogative", adjectives, "POS", "Interrogative"],
 	["Adjective_interjection", adjectives, "POS", "Interjection"],
 	["Adjective_adjective", adjectives, "POS", "Adjective"],
-	["Adjective_adverb", adjectives, "POS", "Adverb"]
+	["Adjective_adverb", adjectives, "POS", "Adverb"],
+	
+	["Conjunction", conjunctions, "isConjunction", True]
 	
     ]
     
