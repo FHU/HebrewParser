@@ -50,6 +50,8 @@ def parseData(filePath):
 				parsePronoun(line, word, relative)
 			if partOfSpeech == 'Interrogative':
 				parseInterrogative(line, word)
+			if partOfSpeech == 'Verb':
+				parseVerb(line)
 			
 def parseConjunction(line):
 	word = '';
@@ -458,6 +460,7 @@ def parseVerb(line):
 			else:
 				gender = s1[s1.index(z) + 5]
 				number = s1[s1.index(z) + 6]
+	#print gender
 	verbs[word] = {'root': root, 'gender': gender ,'number': number ,'tense': tense, 'stem': stem}
 
 
@@ -475,7 +478,7 @@ def computeStatsForVerse(verse, partOfSpeech, key, value):
 			temp = partOfSpeech[word]
 			if (temp[key] == value):
 				foundWords.append(word)
-	print str(len(foundWords)) + "/" + str (wordCount)
+	#print str(len(foundWords)) + "/" + str (wordCount)
 	if wordCount == 0:
 	    return 0
 	return (len(foundWords) * 1.0) / (wordCount * 1.0)
@@ -495,7 +498,7 @@ def projectGenesisToVerses(filename):
         cn = parts[2].replace("\xd7\x83", "")
         vn = parts[1]
        
-        print cn + ":" + vn
+        #print cn + ":" + vn
         row = calculateDataForVerse(verse, cn, vn)
         
         for column in row:
