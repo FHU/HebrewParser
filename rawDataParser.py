@@ -13,6 +13,7 @@ prepositions = {}
 interrogatives = {}
 adverbs = {}
 pronouns = {}
+verbs = {}
 
 def parseData(filePath):
 	partOfSpeechFile = open('partsOfSpeech.txt', 'w')
@@ -429,7 +430,7 @@ def parseVerb(line):
 	line = re.sub(',', '', line)
 	s1 = []
 	for x in line.split('\t'):
-		 i = -1
+		i = -1
 		u = x.split(' ')
 		if x!='':
 			for y in x.split(' '):
@@ -506,10 +507,16 @@ columns = [
     ["Prepositions",prepositions, "isPreposition", True],
     ["Prepositions_verb", prepositions, "isVerb", True],
     ["Prepositions_pronoun",prepositions, "isPronoun", True],
-    ["Particle",particle, "isParticle", True],
-    ["Propernouns",Nouns, "isProperNoun", "True"],
-    ["Interjection",interjection, "isInterjection", True]
 
+    ["Particle",particle, "isParticle", True],
+    
+    ["Propernouns",Nouns, "isProperNoun", "True"],
+    
+    ["Interjection",interjection, "isInterjection", True],
+
+	["Verb_Mas", verbs, "gender", "Mas."],
+	["Verb_Fem", verbs, "gender", "Fem."],
+	["Verb_Com", verbs, "gender", "Com."]
     ]
     
 def calculateDataForVerse(text, chapter, verse):
