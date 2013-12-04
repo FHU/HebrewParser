@@ -29,7 +29,7 @@ def parseData(filePath):
 			speechLine = word + '\t' + partOfSpeech + '\n'
 			partOfSpeechFile.write(speechLine)
 			
-			if partOfSpeech == 'Interjection':
+			'''if partOfSpeech == 'Interjection':
 				parseInterjection(line, word)
 			if partOfSpeech == 'Particle':
 				parseParticle(line, word)
@@ -38,19 +38,18 @@ def parseData(filePath):
 			if partOfSpeech == 'Preposition':
 				parsePreoposition(line, word)
 			if partOfSpeech == 'Conjunction':
-				parseConjunction(line)
+				parseConjunction(line)'''
 			if partOfSpeech == 'Adjective':
 				parseAdjective(line)
-			if partOfSpeech == 'Pronoun':
+			'''if partOfSpeech == 'Pronoun':
 				relative = False
 				parsePronoun(line, word, relative)
 			if partOfSpeech == 'Relative':
 				relative = True;
 				parsePronoun(line, word, relative)
 			if partOfSpeech == 'Interrogative':
-				parseInterrogative(line, word)
+				parseInterrogative(line, word)'''
 			
-
 def parseConjunction(line):
 	word = '';
 	root = '';
@@ -215,6 +214,7 @@ def parseAdjective(line):
 	plurality = ''
 	otherThing = ''
 	strongsNumber = ''
+	isAbsolute = False
 	#parse line
 	lineArray =  line.split('\t')
 	while(True):
@@ -228,15 +228,18 @@ def parseAdjective(line):
 		if x == "Root:":
 			root = lineArray[lineArray.index(x) + 1]
 		if x == "Parts of Speech:":
-			#print lineArray[lineArray.index(x) + 1]
 			gender = lineArray[lineArray.index(x) + 1][17:20]
 			plurality = lineArray[lineArray.index(x) + 1][22:26]
 			plurality = plurality.strip()
-			#print lineArray[lineArray.index(x) + 1][26:37]
+			if lineArray[lineArray.index(x) + 1][26:36] == ". Absolute" or lineArray[lineArray.index(x) + 1][26:36] == "Absolute":
+				isAbsolute = True
+			else:
+				isAbsolute = False
 		if x == "Strong's Number:":
 			strongsNumber = lineArray[lineArray.index(x) + 1]
 	#add to dictionary
-	adjectives[word] = {'root': root, 'strongsNumber': strongsNumber, 'gender' : gender, 'plurality' : plurality}
+	adjectives[word] = {'root': root, 'strongsNumber': strongsNumber, 'gender' : gender, 'plurality' : plurality, 'isAbsolute' : isAbsolute}
+	
 
 
 def extractWord(line):
