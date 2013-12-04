@@ -520,7 +520,27 @@ columns = [
 
 	["Verb_Mas", verbs, "gender", "Mas."],
 	["Verb_Fem", verbs, "gender", "Fem."],
-	["Verb_Com", verbs, "gender", "Com."]
+	["Verb_Com", verbs, "gender", "Com."],
+	
+	["Interrogative",interrogatives, "isInterrogative", True],
+    ["Interrogative_negativeParticle",interrogatives, "pOS", "Negative Particle"],
+    ["Interrogative_adverb",interrogatives, "pOS", "Adverb"],
+    ["Interrogative_adjective",interrogatives, "pOS", "Adjective"],
+    ["Interrogative_qal",interrogatives, "pOS", "Verb Qal"],
+    ["Interrogative_hiphil",interrogatives, "pOS", "Verb Hiphil"],
+    ["Interrogative_niphal",interrogatives, "pOS", "Verb Niphal"],
+    ["Interrogative_Noun",interrogatives, "pOS", "Noun"],
+    ["Interrogative_conjunction",interrogatives, "pOS", "Conjunction"],
+    ["Interrogative_verb",interrogatives, "pOS", "Verb"],
+    ["Interrogative_tense_participle",interrogatives, "Tense", "Participle"], 
+    ["Interrogative_p3rd",interrogatives, "Tense", "Perfect 3rd"],
+    ["Interrogative_p2nd",interrogatives, "Tense", "Perfect 2nd"],   
+    ["Interrogative_infinitiveAbsolute",particle, "Tense", "Infinitive Absolute"],
+    ["Interrogative_pl",interrogatives, "Number", "Pl."],
+    ["Interrogative_sing",interrogatives, "Number", "Sing."],
+    ["Interrogative_mas",interrogatives, "Gender", "Mas."],
+    ["Interrogative_fem",interrogatives, "Gender", "Fem."]
+	
     ]
     
 def calculateDataForVerse(text, chapter, verse):
