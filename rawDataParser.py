@@ -370,8 +370,8 @@ def parseInterrogative(line, word):
 		
 		if not poS:
 			poS = "None"
-		wordDefTypes = ["pOS", "Gender", "Tense", "Number", "Strong's Number"]
-		wordDefInfo = [poS, gender, tense, number, strongNum]
+		wordDefTypes = ["isInterrogative","pOS", "Gender", "Tense", "Number", "Strong's Number"]
+		wordDefInfo = [True, poS, gender, tense, number, strongNum]
 		attributeDict = dict(zip(wordDefTypes, wordDefInfo))
 			
 		interrogatives[hebWord] = attributeDict
