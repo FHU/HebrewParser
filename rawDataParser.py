@@ -53,6 +53,7 @@ def parseData(filePath):
 			if partOfSpeech == 'Verb':
 				parseVerb(line)
 			
+	print adjectives
 def parseConjunction(line):
 	word = '';
 	root = '';
@@ -210,7 +211,7 @@ def extractPartOfSpeech(line):
 
 	return word_list
 	
-def parseAdjective(line):	
+def parseAdjective(line):		
 	word = ''
 	root = ''
 	gender = ''
@@ -218,6 +219,7 @@ def parseAdjective(line):
 	otherThing = ''
 	strongsNumber = ''
 	isAbsolute = False
+	isConstruct = False
 	#parse line
 	lineArray =  line.split('\t')
 	while(True):
@@ -231,17 +233,138 @@ def parseAdjective(line):
 		if x == "Root:":
 			root = lineArray[lineArray.index(x) + 1]
 		if x == "Parts of Speech:":
-			gender = lineArray[lineArray.index(x) + 1][17:20]
-			plurality = lineArray[lineArray.index(x) + 1][22:26]
-			plurality = plurality.strip()
-			if lineArray[lineArray.index(x) + 1][26:36] == ". Absolute" or lineArray[lineArray.index(x) + 1][26:36] == "Absolute":
-				isAbsolute = True
+			if lineArray[lineArray.index(x) + 1][0] == "P":
+				gender = lineArray[lineArray.index(x) + 1][26:30]
+				if lineArray[lineArray.index(x) + 1][31] == "S":
+					plurality = "Sing."
+				elif lineArray[lineArray.index(x) + 1][31] == "P":
+					plurality = "Pl."
+				
+				if lineArray[lineArray.index(x) + 1][35:45] == ". Absolute" or lineArray[lineArray.index(x) + 1][35:45] == "Absolute":
+					isAbsolute = True
+					isConstruct = False
+				elif lineArray[lineArray.index(x) + 1][35:45] == ". Construct" or lineArray[lineArray.index(x) + 1][35:45] == "Construct":
+					isConstruct = True
+					isAbsolute = False
+				else:
+					isAbsolute = False
+					isConstruct = False
+			elif lineArray[lineArray.index(x) + 1][0] == "N":
+				gender = lineArray[lineArray.index(x) + 1][23:27]
+				if lineArray[lineArray.index(x) + 1][28] == "S":
+					plurality = "Sing."
+				elif lineArray[lineArray.index(x) + 1][28] == "P":
+					plurality = "Pl."
+								
+				if lineArray[lineArray.index(x) + 1][32:42] == ". Absolute" or lineArray[lineArray.index(x) + 1][32:42] == "Absolute":
+					isAbsolute = True
+					isConstruct = False
+				elif lineArray[lineArray.index(x) + 1][32:42] == ". Construct" or lineArray[lineArray.index(x) + 1][32:42] == "Construct":
+					isConstruct = True
+					isAbsolute = False
+				else:
+					isAbsolute = False
+					isConstruct = False
+			elif lineArray[lineArray.index(x) + 1][0:15] == "Adjective, Noun":
+				gender = lineArray[lineArray.index(x) + 1][23:27]
+				if lineArray[lineArray.index(x) + 1][28] == "S":
+					plurality = "Sing."
+				elif lineArray[lineArray.index(x) + 1][28] == "P":
+					plurality = "Pl."
+												
+				if lineArray[lineArray.index(x) + 1][32:42] == ". Absolute" or lineArray[lineArray.index(x) + 1][32:42] == "Absolute":
+					isAbsolute = True
+					isConstruct = False
+				elif lineArray[lineArray.index(x) + 1][32:42] == ". Construct" or lineArray[lineArray.index(x) + 1][32:42] == "Construct":
+					isConstruct = True
+					isAbsolute = False
+				else:
+					isAbsolute = False
+					isConstruct = False
+			elif lineArray[lineArray.index(x) + 1][0] == "I":
+				gender = lineArray[lineArray.index(x) + 1][32:36]
+				if lineArray[lineArray.index(x) + 1][37] == "S":
+					plurality = "Sing."
+				elif lineArray[lineArray.index(x) + 1][37] == "P":
+					plurality = "Pl."
+							
+				if lineArray[lineArray.index(x) + 1][41:51] == ". Absolute" or lineArray[lineArray.index(x) + 1][41:51] == "Absolute":
+					isAbsolute = True
+					isConstruct = False
+				elif lineArray[lineArray.index(x) + 1][41:51] == ". Construct" or lineArray[lineArray.index(x) + 1][41:51] == "Construct":
+					isConstruct = True
+					isAbsolute = False
+				else:
+					isAbsolute = False
+					isConstruct = False
+			elif lineArray[lineArray.index(x) + 1][0] == "D":
+				gender = lineArray[lineArray.index(x) + 1][45:49]
+				if lineArray[lineArray.index(x) + 1][50] == "S":
+					plurality = "Sing."
+				elif lineArray[lineArray.index(x) + 1][50] == "P":
+					plurality = "Pl."
+											
+				if lineArray[lineArray.index(x) + 1][54:64] == ". Absolute" or lineArray[lineArray.index(x) + 1][54:64] == "Absolute":
+					isAbsolute = True
+					isConstruct = False
+				elif lineArray[lineArray.index(x) + 1][54:64] == ". Construct" or lineArray[lineArray.index(x) + 1][54:64] == "Construct":
+					isConstruct = True
+					isAbsolute = False
+				else:
+					isAbsolute = False
+					isConstruct = False
+			elif lineArray[lineArray.index(x) + 1][0:17] == "Adverb, Adjective":
+				gender = lineArray[lineArray.index(x) + 1][24:28]
+				if lineArray[lineArray.index(x) + 1][29] == "S":
+					plurality = "Sing."
+				elif lineArray[lineArray.index(x) + 1][29] == "P":
+					plurality = "Pl."
+														
+				if lineArray[lineArray.index(x) + 1][33:43] == ". Absolute" or lineArray[lineArray.index(x) + 1][33:43] == "Absolute":
+					isAbsolute = True
+					isConstruct = False
+				elif lineArray[lineArray.index(x) + 1][33:43] == ". Construct" or lineArray[lineArray.index(x) + 1][33:43] == "Construct":
+					isConstruct = True
+					isAbsolute = False
+				else:
+					isAbsolute = False
+					isConstruct = False
+			elif lineArray[lineArray.index(x) + 1][0:12] == "Interjection":
+				gender = lineArray[lineArray.index(x) + 1][31:35]
+				if lineArray[lineArray.index(x) + 1][36] == "S":
+					plurality = "Sing."
+				elif lineArray[lineArray.index(x) + 1][36] == "P":
+					plurality = "Pl."
+										
+				if lineArray[lineArray.index(x) + 1][40:50] == ". Absolute" or lineArray[lineArray.index(x) + 1][40:50] == "Absolute":
+					isAbsolute = True
+					isConstruct = False
+				elif lineArray[lineArray.index(x) + 1][40:50] == ". Construct" or lineArray[lineArray.index(x) + 1][40:50] == "Construct":
+					isConstruct = True
+					isAbsolute = False
+				else:
+					isAbsolute = False
+					isConstruct = False
 			else:
-				isAbsolute = False
+				gender = lineArray[lineArray.index(x) + 1][17:21].strip()
+				if lineArray[lineArray.index(x) + 1][22] == "S" or lineArray[lineArray.index(x) + 1][21] == "S":
+					plurality = "Sing."
+				elif lineArray[lineArray.index(x) + 1][22] == "P" or lineArray[lineArray.index(x) + 1][21] == "P":
+					plurality = "Pl."
+			
+				if lineArray[lineArray.index(x) + 1][26:36] == ". Absolute" or lineArray[lineArray.index(x) + 1][26:36] == "Absolute":
+					isAbsolute = True
+					isConstruct = False
+				elif lineArray[lineArray.index(x) + 1][26:36] == ". Construct" or lineArray[lineArray.index(x) + 1][26:36] == "Construct":
+					isConstruct = True
+					isAbsolute = False
+				else:
+					isAbsolute = False
+					isConstruct = False
 		if x == "Strong's Number:":
 			strongsNumber = lineArray[lineArray.index(x) + 1]
 	#add to dictionary
-	adjectives[word] = {'root': root, 'strongsNumber': strongsNumber, 'gender' : gender, 'plurality' : plurality, 'isAbsolute' : isAbsolute}
+	adjectives[word] = {'root': root, 'strongsNumber': strongsNumber, 'gender' : gender, 'plurality' : plurality, 'isAbsolute' : isAbsolute, 'isConstruct' : isConstruct}
 	
 
 
