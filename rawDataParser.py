@@ -218,8 +218,8 @@ def parseAdjective(line):
 	plurality = ''
 	otherThing = ''
 	strongsNumber = ''
-	isAbsolute = False
-	isConstruct = False
+	tense = ''
+	POS = ''
 	#parse line
 	lineArray =  line.split('\t')
 	while(True):
@@ -234,6 +234,7 @@ def parseAdjective(line):
 			root = lineArray[lineArray.index(x) + 1]
 		if x == "Parts of Speech:":
 			if lineArray[lineArray.index(x) + 1][0] == "P":
+				POS = "Pronoun"
 				gender = lineArray[lineArray.index(x) + 1][26:30]
 				if lineArray[lineArray.index(x) + 1][31] == "S":
 					plurality = "Sing."
@@ -241,15 +242,13 @@ def parseAdjective(line):
 					plurality = "Pl."
 				
 				if lineArray[lineArray.index(x) + 1][35:45] == ". Absolute" or lineArray[lineArray.index(x) + 1][35:45] == "Absolute":
-					isAbsolute = True
-					isConstruct = False
+					tense = "Absolute"
 				elif lineArray[lineArray.index(x) + 1][35:45] == ". Construct" or lineArray[lineArray.index(x) + 1][35:45] == "Construct":
-					isConstruct = True
-					isAbsolute = False
+					tense = "Construct"
 				else:
-					isAbsolute = False
-					isConstruct = False
+					tense = "Unknown Tense"
 			elif lineArray[lineArray.index(x) + 1][0] == "N":
+				POS = "Noun"
 				gender = lineArray[lineArray.index(x) + 1][23:27]
 				if lineArray[lineArray.index(x) + 1][28] == "S":
 					plurality = "Sing."
@@ -257,15 +256,13 @@ def parseAdjective(line):
 					plurality = "Pl."
 								
 				if lineArray[lineArray.index(x) + 1][32:42] == ". Absolute" or lineArray[lineArray.index(x) + 1][32:42] == "Absolute":
-					isAbsolute = True
-					isConstruct = False
+					tense = "Absolute"
 				elif lineArray[lineArray.index(x) + 1][32:42] == ". Construct" or lineArray[lineArray.index(x) + 1][32:42] == "Construct":
-					isConstruct = True
-					isAbsolute = False
+					tense = "Construct"
 				else:
-					isAbsolute = False
-					isConstruct = False
+					tense = "Unknown Tense"
 			elif lineArray[lineArray.index(x) + 1][0:15] == "Adjective, Noun":
+				POS = "Noun"
 				gender = lineArray[lineArray.index(x) + 1][23:27]
 				if lineArray[lineArray.index(x) + 1][28] == "S":
 					plurality = "Sing."
@@ -273,15 +270,13 @@ def parseAdjective(line):
 					plurality = "Pl."
 												
 				if lineArray[lineArray.index(x) + 1][32:42] == ". Absolute" or lineArray[lineArray.index(x) + 1][32:42] == "Absolute":
-					isAbsolute = True
-					isConstruct = False
+					tense = "Absolute"
 				elif lineArray[lineArray.index(x) + 1][32:42] == ". Construct" or lineArray[lineArray.index(x) + 1][32:42] == "Construct":
-					isConstruct = True
-					isAbsolute = False
+					tense = "Construct"
 				else:
-					isAbsolute = False
-					isConstruct = False
+					tense = "Unknown Tense"
 			elif lineArray[lineArray.index(x) + 1][0] == "I":
+				POS = "Interoggative"
 				gender = lineArray[lineArray.index(x) + 1][32:36]
 				if lineArray[lineArray.index(x) + 1][37] == "S":
 					plurality = "Sing."
@@ -289,15 +284,13 @@ def parseAdjective(line):
 					plurality = "Pl."
 							
 				if lineArray[lineArray.index(x) + 1][41:51] == ". Absolute" or lineArray[lineArray.index(x) + 1][41:51] == "Absolute":
-					isAbsolute = True
-					isConstruct = False
+					tense = "Absolute"
 				elif lineArray[lineArray.index(x) + 1][41:51] == ". Construct" or lineArray[lineArray.index(x) + 1][41:51] == "Construct":
-					isConstruct = True
-					isAbsolute = False
+					tense = "Construct"
 				else:
-					isAbsolute = False
-					isConstruct = False
+					tense = "Unknown Tense"
 			elif lineArray[lineArray.index(x) + 1][0] == "D":
+				POS = "Direct, Object"
 				gender = lineArray[lineArray.index(x) + 1][45:49]
 				if lineArray[lineArray.index(x) + 1][50] == "S":
 					plurality = "Sing."
@@ -305,15 +298,13 @@ def parseAdjective(line):
 					plurality = "Pl."
 											
 				if lineArray[lineArray.index(x) + 1][54:64] == ". Absolute" or lineArray[lineArray.index(x) + 1][54:64] == "Absolute":
-					isAbsolute = True
-					isConstruct = False
+					tense = "Absolute"
 				elif lineArray[lineArray.index(x) + 1][54:64] == ". Construct" or lineArray[lineArray.index(x) + 1][54:64] == "Construct":
-					isConstruct = True
-					isAbsolute = False
+					tense = "Construct"
 				else:
-					isAbsolute = False
-					isConstruct = False
+					tense = "Unknown Tense"
 			elif lineArray[lineArray.index(x) + 1][0:17] == "Adverb, Adjective":
+				POS = "Adverb"
 				gender = lineArray[lineArray.index(x) + 1][25:29]
 				if lineArray[lineArray.index(x) + 1][30] == "S":
 					plurality = "Sing."
@@ -321,15 +312,13 @@ def parseAdjective(line):
 					plurality = "Pl."
 														
 				if lineArray[lineArray.index(x) + 1][34:44] == ". Absolute" or lineArray[lineArray.index(x) + 1][34:44] == "Absolute":
-					isAbsolute = True
-					isConstruct = False
+					tense = "Absolute"
 				elif lineArray[lineArray.index(x) + 1][34:44] == ". Construct" or lineArray[lineArray.index(x) + 1][34:44] == "Construct":
-					isConstruct = True
-					isAbsolute = False
+					tense = "Construct"
 				else:
-					isAbsolute = False
-					isConstruct = False
+					tense = "Unknown Tense"
 			elif lineArray[lineArray.index(x) + 1][0:12] == "Interjection":
+				POS = "Interjection"
 				gender = lineArray[lineArray.index(x) + 1][31:35]
 				if lineArray[lineArray.index(x) + 1][36] == "S":
 					plurality = "Sing."
@@ -337,15 +326,13 @@ def parseAdjective(line):
 					plurality = "Pl."
 										
 				if lineArray[lineArray.index(x) + 1][40:50] == ". Absolute" or lineArray[lineArray.index(x) + 1][40:50] == "Absolute":
-					isAbsolute = True
-					isConstruct = False
+					tense = "Absolute"
 				elif lineArray[lineArray.index(x) + 1][40:50] == ". Construct" or lineArray[lineArray.index(x) + 1][40:50] == "Construct":
-					isConstruct = True
-					isAbsolute = False
+					tense = "Construct"
 				else:
-					isAbsolute = False
-					isConstruct = False
+					tense = "Unknown Tense"
 			else:
+				POS = "Adjective"
 				gender = lineArray[lineArray.index(x) + 1][17:21].strip()
 				if lineArray[lineArray.index(x) + 1][22] == "S" or lineArray[lineArray.index(x) + 1][21] == "S":
 					plurality = "Sing."
@@ -353,18 +340,15 @@ def parseAdjective(line):
 					plurality = "Pl."
 			
 				if lineArray[lineArray.index(x) + 1][26:36] == ". Absolute" or lineArray[lineArray.index(x) + 1][26:36] == "Absolute":
-					isAbsolute = True
-					isConstruct = False
+					tense = "Absolute"
 				elif lineArray[lineArray.index(x) + 1][26:36] == ". Construct" or lineArray[lineArray.index(x) + 1][26:36] == "Construct":
-					isConstruct = True
-					isAbsolute = False
+					tense = "Construct"
 				else:
-					isAbsolute = False
-					isConstruct = False
+					tense = "Unknown Tense"
 		if x == "Strong's Number:":
 			strongsNumber = lineArray[lineArray.index(x) + 1]
 	#add to dictionary
-	adjectives[word] = {'root': root, 'strongsNumber': strongsNumber, 'gender' : gender, 'number' : plurality, 'isAbsolute' : isAbsolute, 'isConstruct' : isConstruct}
+	adjectives[word] = {'POS' : POS, 'root': root, 'strongsNumber': strongsNumber, 'gender' : gender, 'number' : plurality, 'tense': tense }
 	
 
 
@@ -666,9 +650,17 @@ columns = [
     ["Interrogative_sing",interrogatives, "Number", "Sing."],
 
     ["Interrogative_mas",interrogatives, "Gender", "Mas."],
-    ["Interrogative_fem",interrogatives, "Gender", "Fem."]
+    ["Interrogative_fem",interrogatives, "Gender", "Fem."],
 	
-	["Adjective", adjectives, "isAdjective", True],
+	["Adjective_pl", adjectives, "Number", "Pl."],
+	["Adjective_sing", adjectives, "Number", "Sing."],
+		
+	["Adjective_mas", adjectives, "Gender", "Mas."],
+	["Adjective_fem", adjectives, "Gender", "Fem."],
+	["Adjective_absolute", adjectives, "Tense", "Absolute"],
+	["Adjective_construct", adjectives, "Tense", "Construct"],
+	
+	["Adjective"]
 	
     ]
     
