@@ -276,7 +276,7 @@ def parseAdjective(line):
 				else:
 					tense = "Unknown Tense"
 			elif lineArray[lineArray.index(x) + 1][0] == "I":
-				POS = "Interoggative"
+				POS = "Interrogative"
 				gender = lineArray[lineArray.index(x) + 1][32:36]
 				if lineArray[lineArray.index(x) + 1][37] == "S":
 					plurality = "Sing."
@@ -348,7 +348,7 @@ def parseAdjective(line):
 		if x == "Strong's Number:":
 			strongsNumber = lineArray[lineArray.index(x) + 1]
 	#add to dictionary
-	adjectives[word] = {'POS' : POS, 'root': root, 'strongsNumber': strongsNumber, 'gender' : gender, 'number' : plurality, 'tense': tense }
+	adjectives[word] = {'POS' : POS, 'root': root, 'strongsNumber': strongsNumber, 'Gender' : gender, 'Number' : plurality, 'Tense': tense }
 	
 
 
@@ -660,7 +660,13 @@ columns = [
 	["Adjective_absolute", adjectives, "Tense", "Absolute"],
 	["Adjective_construct", adjectives, "Tense", "Construct"],
 	
-	["Adjective"]
+	["Adjective_noun", adjectives, "POS", "Noun"],
+	["Adjective_pronoun", adjectives, "POS", "Pronoun"],
+	["Adjective_directObject", adjectives, "POS", "Direct, Object"],
+	["Adjective_interrogative", adjectives, "POS", "Interrogative"],
+	["Adjective_interjection", adjectives, "POS", "Interjection"],
+	["Adjective_adjective", adjectives, "POS", "Adjective"],
+	["Adjective_adverb", adjectives, "POS", "Adverb"]
 	
     ]
     
