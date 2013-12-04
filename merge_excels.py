@@ -14,7 +14,7 @@ for key in human_data:
         new_data[key] = human_data[key]
     
 for key in computer_data:
-    new_data[key+"_computer"] = computer_data[key]
+    new_data[key] = computer_data[key]
 
 df = pandas.DataFrame(new_data)
 writer = pandas.ExcelWriter('final_dataset.xlsx')
