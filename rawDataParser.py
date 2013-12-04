@@ -30,7 +30,7 @@ def parseData(filePath):
 			speechLine = word + '\t' + partOfSpeech + '\n'
 			partOfSpeechFile.write(speechLine)
 			
-			'''if partOfSpeech == 'Interjection':
+			if partOfSpeech == 'Interjection':
 				parseInterjection(line, word)
 			if partOfSpeech == 'Particle':
 				parseParticle(line, word)
@@ -39,17 +39,17 @@ def parseData(filePath):
 			if partOfSpeech == 'Preposition':
 				parsePreoposition(line, word)
 			if partOfSpeech == 'Conjunction':
-				parseConjunction(line)'''
+				parseConjunction(line)
 			if partOfSpeech == 'Adjective':
 				parseAdjective(line)
-			'''if partOfSpeech == 'Pronoun':
+			if partOfSpeech == 'Pronoun':
 				relative = False
 				parsePronoun(line, word, relative)
 			if partOfSpeech == 'Relative':
-				relative = True;
+				relative = True
 				parsePronoun(line, word, relative)
 			if partOfSpeech == 'Interrogative':
-				parseInterrogative(line, word)'''
+				parseInterrogative(line, word)
 			
 def parseConjunction(line):
 	word = '';
@@ -264,6 +264,7 @@ def extractWord(line):
 
 
 def parseInterjection(line, word):
+	interjection[word] = {}
 	interjection[word]["isInterjection"] = True
 	
 def parseParticle(line, word):
