@@ -54,8 +54,6 @@ def parseData(filePath):
 				parseInterrogative(line, word)
 			if partOfSpeech == 'Verb':
 				parseVerb(line)
-			
-	print adjectives
 	
 def parseConjunction(line):
 	word = '';
@@ -351,7 +349,7 @@ def parseAdjective(line):
 		if x == "Strong's Number:":
 			strongsNumber = lineArray[lineArray.index(x) + 1]
 	#add to dictionary
-	adjectives[word] = {'POS' : POS, 'root': root, 'strongsNumber': strongsNumber, 'Gender' : gender, 'Number' : plurality, 'Tense': tense }
+	adjectives[word] = {'POS' : POS, 'root': root, 'strongsNumber': strongsNumber, 'Gender' : gender, 'Number' : plurality, 'Tense': tense, "isAdjective" : True }
 	
 
 
@@ -654,6 +652,8 @@ columns = [
 
     ["Interrogative_mas",interrogatives, "Gender", "Mas."],
     ["Interrogative_fem",interrogatives, "Gender", "Fem."],
+	
+	["Adjective", adjectives, "isAdjective", True],
 	
 	["Adjective_pl", adjectives, "Number", "Pl."],
 	["Adjective_sing", adjectives, "Number", "Sing."],
