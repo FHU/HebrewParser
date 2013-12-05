@@ -2,6 +2,8 @@ import numpy as np
 from sklearn import cross_validation
 from sklearn import datasets
 from sklearn import svm
+from sklearn import tree
+import pandas
 
 class ClassifierTester:
 	
@@ -17,10 +19,11 @@ class ClassifierTester:
 		
 if __name__ == '__main__':
 	# Load Dataset
-	irisDataset = datasets.load_iris()
-	dataset = irisDataset.data
-	labels = irisDataset.target 
-	clf = svm.SVC(kernel='linear', C=1) 
+	excel = pandas.ExcelFile("final_dataset.xlsx")
+	full_dataset = excel.parse("data")
+	dataset = full_dataset.drop(['Classification', 'Genre', 'hasElohim', "hasYHWH"], axis=1).values
+	labels = full_dataset['Classification'].values
+	clf = tree.DecisionTreeClassifier()
 
 	#Stratified K Fold 
 	clfTester = ClassifierTester()
