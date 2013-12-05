@@ -640,6 +640,13 @@ columns = [
 	["Verb_Stem_Hishtaphel", verbs, "stem", "Hishtaphel"],
 	["Verb_Stem_Pilpel", verbs, "stem", "Pilpel"],
 	
+	["Verb_Tense_Perfect", verbs, "tense", "Perfect"],
+	["Verb_Tense_Imperfect", verbs, "tense", "Imperfect"],
+	["Verb_Tense_Particle", verbs, "tense", "Particle"],
+	["Verb_Tense_Imperative", verbs, "tense", "Imperative"],
+	
+	["Verb_Tense_Pl", verbs, "number", "Pl."],
+	["Verb_Tense_Sing", verbs, "number", "Sing."],
 		
 	["Interrogative",interrogatives, "isInterrogative", True],
 	
@@ -682,6 +689,13 @@ columns = [
 	["Adjective_adjective", adjectives, "POS", "Adjective"],
 	["Adjective_adverb", adjectives, "POS", "Adverb"],
 	
+	["Adverb_Mas", adverbs, "gender", "Mas."],
+	["Adverb_Fem", adverbs, "gender", "Fem."],
+	["Adverb_Com", adverbs, "gender", "Com."],
+	
+	["Adverb_Pl", adverbs, "plurality", "Pl."],
+	["Adverb_Sing", adverbs, "plurality", "Sing."],
+		
 	["Conjunction", conjunctions, "isConjunction", True]
 	
     ]
