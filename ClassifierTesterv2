@@ -1,0 +1,75 @@
+import pandas as pd
+import numpy as np
+from sklearn import cross_validation
+from sklearn import datasets
+from sklearn import svm
+from sklearn import tree
+from sklearn.tree import DecisionTreeClassifier
+from sklearn import ensemble
+from sklearn.ensemble import RandomForestClassifier
+from sklearn import preprocessing
+
+class ClassifierTester:
+	
+	def StratifiedKFoldTest(self, classifier, dataset, labels, k):
+		scores = cross_validation.cross_val_score(classifier, dataset, labels, cv=k)
+		return scores.mean(), scores.std()*2 
+
+	def LeaveOneOutTest(self, classifier, dataset, labels):
+		loo = cross_validation.LeaveOneOut(len(dataset))
+		scores = cross_validation.cross_val_score(classifier, dataset, labels, cv=loo)
+		return scores.mean(), scores.std()*2
+
+def ParseData(path, sheetName):
+			
+	xlsxFile = pd.ExcelFile(path)
+	parsedXlsx = xlsxFile.parse(sheetName)
+
+	leClass = preprocessing.LabelEncoder()
+	leClass.fit(['J', 'E', 'D', 'P'])
+	parsedXlsx['Classification'] = leClass.transform(parsedXlsx['Classification'])
+	
+	leGenre = preprocessing.LabelEncoder()
+	leGenre.fit(['Genealogy', 'Narrative', 'Covenant', 'Blessing', 'Law'])
+	parsedXlsx['Genre'] = leGenre.transform(parsedXlsx['Genre'])
+	
+	leName = preprocessing.LabelEncoder()
+	leName.fit(['Y', 'N'])
+	parsedXlsx['hasElohim'] = leName.transform(parsedXlsx['hasElohim'])
+	parsedXlsx['hasYHWH'] = leName.transform(parsedXlsx['hasYHWH'])
+		
+	classParse = parsedXlsx['Classification']
+	classification = []
+	for x in range(0, len(classParse)):
+		classification.append(classParse[x])
+	classification = np.array(classification)	
+	parsedXlsx.pop('Classification')
+	
+	statsList = []
+	for i in range(0, len(parsedXlsx.index) ):
+		temp = []
+		for x in range (0,len(parsedXlsx.iloc[i]) ):
+			temp.append(parsedXlsx.iloc[i,x])
+		statsList.append(temp)
+	
+	return classification, statsList
+		
+if __name__ == '__main__':
+	
+	labels, dataset = ParseData("/Users/camille.miles/HebrewParser/final_dataset.xlsx", "data")
+	clf = RandomForestClassifier(max_features=36)
+	
+	#Stratified K Fold 
+	clfTester = ClassifierTester()
+	meanAccuracy, stdAccuracy = clfTester.StratifiedKFoldTest(clf, dataset, labels, 5)
+	print "10-Fold Crossvalidation"
+	print "Accuracy\tStandard Deviation"
+	print str(meanAccuracy) +"\t" + str(stdAccuracy)
+	print ""
+	
+	#Leave One Out 
+	meanAccuracy, stdAccuracy = clfTester.LeaveOneOutTest(clf, dataset, labels)
+	print "Leave-One-Out Crossvalidation"
+	print "Accuracy\tStandard Deviation"
+	print str(meanAccuracy) +"\t" + str(stdAccuracy)
+
