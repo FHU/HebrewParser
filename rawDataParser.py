@@ -131,9 +131,6 @@ def parseNoun(line):
 		if x == "Root:":
 			found = True
 			
-
-
-	
 	words = [x for x in words if x != 'Noun' and x != ''  and x != "Proper"]
 
 	firstLevel['Root'] = words[0]
@@ -150,10 +147,7 @@ def parseNoun(line):
 				break
 		if x == "Strong's Number:":
 			found = True
-			
 
-
-	
 	words = [x for x in words if x != 'Noun' and x != '' ]
 
 	firstLevel['Strong\'s Number'] = words[0]
@@ -571,10 +565,6 @@ def parseVerb(line):
 	#print gender
 	verbs[word] = {'root': root, 'gender': gender ,'number': number ,'tense': tense, 'stem': stem}
 
-
-
-
-
 def computeStatsForVerse(verse, partOfSpeech, key, value):
 	#computeStatsForVerse(string verse, dictionary partOfSpeech, string key, string value)
 	wordCount = 0
@@ -616,6 +606,15 @@ def projectGenesisToVerses(filename):
     return dataset
     
 columns = [
+
+	["Nouns", Nouns, "isProperNoun", "False"],
+	["Noun_Mas", Nouns, "Gender", "Mas."],
+	["Noun_Fem", Nouns, "Gender", "Fem."],
+	["Noun_Com", Nouns, "Gender", "Com."],
+	
+	["Noun_Pl", Nouns, "Number", "Pl."],
+	["Noun_Sing", Nouns, "Number", "Sing."],
+		
     ["Prepositions",prepositions, "isPreposition", True],
     ["Prepositions_verb", prepositions, "isVerb", True],
     ["Prepositions_pronoun",prepositions, "isPronoun", True],
@@ -630,6 +629,18 @@ columns = [
 	["Verb_Fem", verbs, "gender", "Fem."],
 	["Verb_Com", verbs, "gender", "Com."],
 	
+	["Verb_Stem_Qal", verbs, "stem", "Qal"],
+	["Verb_Stem_Piel", verbs, "stem", "Piel"],
+	["Verb_Stem_Hiphil", verbs, "stem", "Hiphil"],
+	["Verb_Stem_Niphal", verbs, "stem", "Niphal"],
+	["Verb_Stem_Hithpael", verbs, "stem", "Hithpael"],
+	["Verb_Stem_Hophal", verbs, "stem", "Hophal"],
+	["Verb_Stem_Pual", verbs, "stem", "Pual"],
+	["Verb_Stem_Poel", verbs, "stem", "Poel"],
+	["Verb_Stem_Hishtaphel", verbs, "stem", "Hishtaphel"],
+	["Verb_Stem_Pilpel", verbs, "stem", "Pilpel"],
+	
+		
 	["Interrogative",interrogatives, "isInterrogative", True],
 	
     ["Interrogative_negativeParticle",interrogatives, "pOS", "Negative Particle"],
